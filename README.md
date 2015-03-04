@@ -7,6 +7,10 @@ First, install [Ledger CLI](http://www.ledger-cli.org/). Then clone this repo.
 
 ## Cash on hand at-a-glance
 
+[Click here](https://github.com/sshchicago/finances/blob/master/cash.txt) to see the latest balance. 
+
+### Manual calculation
+
 To run ledger-cli and see what's in our bank account right now, do the following:
 
     $ ledger -f YYYY-MM.dat b
