@@ -1,15 +1,15 @@
 # Finances
 This is where SSHC keep an open record of its finances. The treasurer will make every effort to keep this up to date on a weekly basis, and any member of the public may verify these numbers are acccurate.
 
+## Cash on hand at-a-glance
+
+[Click here](https://github.com/sshchicago/finances/blob/master/cash.txt) to see the latest balance!
+
 ## Overview
 
 First, install [Ledger CLI](http://www.ledger-cli.org/). Then clone this repo.
 
-## Cash on hand at-a-glance
-
-[Click here](https://github.com/sshchicago/finances/blob/master/cash.txt) to see the latest balance. 
-
-### Manual calculation
+### Manually working with these data
 
 To run ledger-cli and see what's in our bank account right now, do the following:
 
