@@ -1,6 +1,10 @@
 # Finances
 This is where SSHC keep an open record of its finances. The treasurer will make every effort to keep this up to date on a weekly basis, and any member of the public may verify these numbers are acccurate.
 
+## Overview
+
+First, install [Ledger CLI](http://www.ledger-cli.org/). Then clone this repo.
+
 ## Cash on hand at-a-glance
 
 To run ledger-cli and see what's in our bank account right now, do the following:
@@ -26,7 +30,7 @@ Due to a pecularity of double entry bookkeeping, income is negative and looks re
 
 ## How to use these numbers
 
-We're using (Ledger CLI)[http://www.ledger-cli.org/] to do the math, which means that the .dat files are expressed using double entry bookkeeping. 
+We're using [Ledger CLI](http://www.ledger-cli.org/) to do the math, which means that the .dat files are expressed using double entry bookkeeping. 
 Double entry bookkeeping means that each transaction must have a source and a sink that reflects where the money is coming
 from, and where it is going to. An example:
 
