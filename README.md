@@ -71,3 +71,7 @@ At the beginning of each month, you'll see:
 
 This is me moving our previous month's balance into our checking account. It's basically a double entry bookkeeping hack
 that makes our Assets:Checking reflect the correct amount. 
+
+#License TL;DR
+
+Any code I've written or will write as part of this project is licensed under the MIT license. See the LICENSE file for more info. Any data we publish is released under the Creative Commons "No Rights Reserved" license. 
