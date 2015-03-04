@@ -1,0 +1,64 @@
+2015/02/01 Opening Balance
+	Assets:Checking		$1,579.43
+	Equity
+
+2015/02/02 Income
+	Income:Paypal		$-26.89
+	Income:Paypal		$-26.89
+	Income:Paypal		$-53.78
+	Income:Stripe		$-26.89
+	Assets:Checking
+
+
+2015/02/04 AWS
+	Expenses:AWS		$1.70
+	Assets:Checking
+
+2015/02/05 Paypal
+	Income:Paypal		$-48.25
+	Assets:Checking
+
+2015/02/09 Membership
+	Income:Paypal		$-96.50
+	Income:Paypal		$-9.41
+	Income:Paypal		$-62.21
+	Income:Stripe		$-26.89
+	Assets:Checking
+
+2015/02/10 Zoho Refund
+	Income:Zoho		$-518.40
+	Assets:Checking
+
+2015/02/11 Membership
+	Income:Stripe		$-53.78
+	Assets:Checking
+
+2015/02/17 Membership
+	Income:Stripe		$-48.25
+	Assets:Checking
+
+2015/02/17 Membership
+	Income:Paypal		$-173.88
+	Income:Paypal		$-77.38
+	Income:Paypal		$-48.25
+	Assets:Checking
+
+2015/02/20 Membership
+	Income:Paypal		$-75.14
+	Assets:Checking
+
+2015/02/23 Comcast
+	Expenses:Comcast	$144.01
+	Assets:Checking
+
+2015/02/23 Rent
+	Expenses:Rent		$1200.00
+	Assets:Checking
+
+2015/02/24 Membership
+	Income:Paypal		$-77.38
+	Assets:Checking
+
+2015/02/25 Membership
+	Income:Paypal		$-106.21
+	Assets:Checking
