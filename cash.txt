@@ -1,9 +1,9 @@
-           $2,102.13  Assets:Checking
+           $2,324.03  Assets:Checking
           $-1,790.10  Equity
                $1.93  Expenses:AWS
-            $-313.96  Income
+            $-535.86  Income
              $-50.00    Check
-            $-215.71    Paypal
-             $-48.25    Stripe
+            $-383.83    Paypal
+            $-102.03    Stripe
 --------------------
-aÃ¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿Ã¿ lma0
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
