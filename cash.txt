@@ -1,12 +1,12 @@
-           $1,381.85  Assets:Checking
+           $1,640.58  Assets:Checking
           $-1,790.10  Equity
            $1,291.87  Expenses
                $1.93    AWS
               $89.94    Meetup
            $1,200.00    Rent
-            $-883.62  Income
+          $-1,142.35  Income
              $-50.00    Check
-            $-683.34    Paypal
+            $-942.07    Paypal
             $-150.28    Stripe
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
