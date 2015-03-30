@@ -63,3 +63,17 @@
 2015/03/24 Membership
 	Income:Paypal		$-106.21
 	Assets:Checking
+
+2015/03/24 Comcast
+	Expenses:Comcast	$144.01
+	Assets:Checking
+
+2015/03/30 Membership
+	Income:Paypal		$-38.54
+	Income:Paypal		$-23.69
+	Income:Paypal		$-48.25
+	Assets:Checking
+
+2015/03/30 Vinyl Cutter
+	Income:SC		$-100
+	Assets:Checking:VinylCutter
