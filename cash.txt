@@ -1,12 +1,15 @@
-           $1,640.58  Assets:Checking
+           $1,707.05  Assets:Checking
+             $100.00    VinylCutter
           $-1,790.10  Equity
-           $1,291.87  Expenses
+           $1,435.88  Expenses
                $1.93    AWS
+             $144.01    Comcast
               $89.94    Meetup
            $1,200.00    Rent
-          $-1,142.35  Income
+          $-1,352.83  Income
              $-50.00    Check
-            $-942.07    Paypal
+          $-1,052.55    Paypal
+            $-100.00    SC
             $-150.28    Stripe
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
