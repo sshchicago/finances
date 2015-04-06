@@ -1,0 +1,35 @@
+2015/04/01 Opening Balance
+	Equity				$-1783.94
+	Assets:Checking:VinylCutter	$100
+	Assets:Checking
+
+
+2015/04/01 Vinyl Cutter
+	Income:RA			$-96.80
+	Assets:Checking:VinylCutter
+
+2015/04/02 Depostits
+	Income:Cash			$-102.00
+	Assets:Checking:Soda		$102.00
+	Income:PS			$-100.00
+	Assets:Checking:VinylCutter	$100.00
+	Income:Donation			$-35.00
+	Assets:Checking			$35.00
+	Income:Cash			$-23.00
+	Assets:Checking:Soda		$23.00
+
+2015/04/02 Vinyl Cutter
+	Income:SS			$-96.80
+	Assets:Checking:VinylCutter
+
+2015/04/03 AWS
+	Expenses:AWS			$2.07
+	Assets:Checking
+
+2015/04/04 Soda
+	Expenses:Costco			$136.19
+	Assets:Checking:Soda
+
+2015/04/06 Membership
+	Income:Paypal			$-48.25
+	Assets:Checking
