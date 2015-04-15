@@ -33,3 +33,30 @@
 2015/04/06 Membership
 	Income:Paypal			$-48.25
 	Assets:Checking
+
+2015/04/07 Membership
+	Income:Paypal			$-62.21
+	Assets:Checking
+
+2015/04/08 Membership
+	Income:Paypal			$-96.50
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/04/08 Vinyl Cutter
+	Expenses:Dan			$300.00
+	Assets:Checking:VinylCutter
+
+2015/04/09 Membership
+	Income:Stripe			$-53.78
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/04/10 Rent
+	Expenses:Rent			$1200.00
+	Assets:Checking
+
+2015/04/15 Membership
+	Income:Stripe			$-48.25
+	Income:Paypal			$-173.88
+	Assets:Checking
