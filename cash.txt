@@ -1,16 +1,19 @@
-            $2147.53  Assets:Checking
+            $1118.45  Assets:Checking
              $-11.19    Soda
-             $393.60    VinylCutter
+              $93.60    VinylCutter
            $-1783.94  Equity
-             $138.26  Expenses
+            $1638.26  Expenses
                $2.07    AWS
              $136.19    Costco
-            $-501.85  Income
+             $300.00    Dan
+            $1200.00    Rent
+            $-972.77  Income
             $-125.00    Cash
              $-35.00    Donation
             $-100.00    PS
-             $-48.25    Paypal
+            $-390.25    Paypal
              $-96.80    RA
              $-96.80    SS
+            $-128.92    Stripe
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
