@@ -60,3 +60,38 @@
 	Income:Stripe			$-48.25
 	Income:Paypal			$-173.88
 	Assets:Checking
+
+2015/04/17 Membership
+	Income:Stripe			$-26.89
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/04/20 Membership
+	Income:Paypal			$-75.14
+	Assets:Checking
+
+2015/04/23 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/04/23 Comcast
+	Expenses:Comcast		$144.01
+	Assets:Checking
+
+2015/04/24 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/04/27 Membership
+	Income:Paypal			$-106.21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/04/29 Membership
+	Income:Paypal			$-48.25
+	Income:Stripe			$-33.68
+	Assets:Checking
+
+2015/04/30 Membership
+	Income:Paypal			$-38.54
+	Assets:Checking
