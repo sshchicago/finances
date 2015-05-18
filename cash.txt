@@ -1,10 +1,11 @@
-            $3519.18  Assets:Checking
+            $2319.18  Assets:Checking
              $-11.19    Soda
               $93.60    VinylCutter
            $-1573.83  Equity
-              $16.90  Expenses
+            $1216.90  Expenses
                $4.90    AWS
               $12.00    PNC
+            $1200.00    Rent
            $-1962.25  Income
             $-300.00    Member3
             $-300.00    Member4
