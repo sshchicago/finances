@@ -1,10 +1,16 @@
-            $1697.20  Assets:Checking
+            $3519.18  Assets:Checking
              $-11.19    Soda
               $93.60    VinylCutter
            $-1573.83  Equity
               $16.90  Expenses
                $4.90    AWS
               $12.00    PNC
-            $-140.27  Income:Paypal
+           $-1962.25  Income
+            $-300.00    Member3
+            $-300.00    Member4
+            $-300.00    Member9
+            $-559.65    Paypal
+            $-162.60    Stripe
+             $-40.00    Tee Shirts
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
