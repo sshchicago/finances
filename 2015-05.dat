@@ -61,3 +61,22 @@
 2015/05/18 Rent
 	Expenses:Rent			$1200
 	Assets:Checking
+
+2015/05/19 Membership
+	Income:Stripe			$-26.89
+	Income:Paypal			$-75.14
+	Assets:Checking
+
+2015/05/19 Member Loans
+	Income:Member2			$-300
+	Assets:Checking
+
+2015/05/21 Member Loans
+	Income:Member6			$-300
+	Income:Member11			$-50
+	Income:Soda			$-50
+	Assets:Checking
+
+2015/05/21 Security Deposit
+	Expenses:SecurityDeposit	$1800
+	Assets:Checking
