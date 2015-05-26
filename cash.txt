@@ -1,20 +1,21 @@
-            $1321.21  Assets:Checking
+            $1370.50  Assets:Checking
              $-11.19    Soda
               $93.60    VinylCutter
            $-1573.83  Equity
-            $3016.90  Expenses
+            $3160.91  Expenses
                $4.90    AWS
+             $144.01    Comcast
               $12.00    PNC
             $1200.00    Rent
             $1800.00    SecurityDeposit
-           $-2764.28  Income
+           $-2957.58  Income
              $-50.00    Member11
             $-300.00    Member2
             $-300.00    Member3
             $-300.00    Member4
             $-300.00    Member6
             $-300.00    Member9
-            $-634.79    Paypal
+            $-828.09    Paypal
              $-50.00    Soda
             $-189.49    Stripe
              $-40.00    Tee Shirts
