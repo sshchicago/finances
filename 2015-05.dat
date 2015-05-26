@@ -80,3 +80,14 @@
 2015/05/21 Security Deposit
 	Expenses:SecurityDeposit	$1800
 	Assets:Checking
+
+2015/05/24 Comcast
+	Expenses:Comcast		$144.01
+	Assets:Checking
+
+2015/05/26 Membership
+	Income:Paypal			$-77.38
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
