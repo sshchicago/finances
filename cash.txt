@@ -1,12 +1,19 @@
-             $345.03  Assets:Checking
-           $-1457.29  Equity
+            $1515.04  Assets:Checking
+           $-1757.29  Equity
+            $-300.00    Member1
              $-50.00    Member11
             $-300.00    Member2
             $-300.00    Member3
             $-300.00    Member4
             $-300.00    Member6
             $-300.00    Member9
-            $1224.00  Expenses:Rent
-            $-111.74  Income:Paypal
+            $1392.69  Expenses
+              $24.68    AWS
+             $144.01    Comcast
+            $1224.00    Rent
+           $-1150.44  Income
+             $-60.00    Check
+            $-876.67    Paypal
+            $-213.77    Stripe
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
