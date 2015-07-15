@@ -15,3 +15,39 @@
 2015/07/01 Fees
 	Expenses:PNC			$12.00
 	Assets:Checking
+
+2015/07/03 Membership
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/07/06 Membership and AWS
+	Income:Paypal			$-106.21
+	Income:Paypal			$-57.66
+	Expenses:AWS			$24.27
+	Assets:Checking
+
+2015/07/07 Membership
+	Income:Paypal			$-96.50
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/07/08 Membership
+	Income:Stripe			$-26.89
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/07/09 Membership
+	Income:Stripe			$-53.78
+	Assets:Checking
+
+2015/07/13 Membership
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2015/07/14 Membership
+	Income:Paypal			$-173.88
+	Assets:Checking
+
+2015/07/15 Membership
+	Income:Stripe			$-48.25
+	Assets:Checking
