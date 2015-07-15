@@ -1,4 +1,4 @@
-             $566.87  Assets:Checking
+            $1216.23  Assets:Checking
             $-494.02  Equity
              $-50.00    Member11
             $-300.00    Member2
@@ -6,7 +6,11 @@
             $-300.00    Member4
             $-300.00    Member6
             $-300.00    Member9
-              $12.00  Expenses:PNC
-             $-84.85  Income:Paypal
+              $36.27  Expenses
+              $24.27    AWS
+              $12.00    PNC
+            $-758.48  Income
+            $-571.60    Paypal
+            $-186.88    Stripe
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
