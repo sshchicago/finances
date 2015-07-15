@@ -51,5 +51,7 @@
 	Assets:Checking
 
 2015/07/15 Repayment
-	Assets:Checking			$-43.41
-	Equity:Member2
+	Assets:Checking
+	Equity:Member2			$43.41
+	Expenses:Soda			$31.77
+	
