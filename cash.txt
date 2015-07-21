@@ -1,15 +1,16 @@
-            $1141.05  Assets:Checking
+              $96.46  Assets:Checking
             $-450.61  Equity
             $-256.59    Member2
             $-300.00    Member3
             $-300.00    Member6
             $-300.00    Member9
-              $68.04  Expenses
+            $1292.04  Expenses
               $24.27    AWS
               $12.00    PNC
+            $1224.00    Rent
               $31.77    Soda
-            $-758.48  Income
-            $-571.60    Paypal
-            $-186.88    Stripe
+            $-937.89  Income
+            $-724.12    Paypal
+            $-213.77    Stripe
 --------------------
 ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ0
