@@ -55,3 +55,19 @@
 	Equity:Member2			$43.41
 	Expenses:Soda			$31.77
 	
+2015/07/16 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/07/16 Membership
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/07/20 Membership
+	Income:Paypal			$-75.14
+	Assets:Checking
+
+
+2015/07/23 Rent
+	Expenses:Rent			$1224.00
+	Assets:Checking
