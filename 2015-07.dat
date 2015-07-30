@@ -71,3 +71,24 @@
 2015/07/23 Rent
 	Expenses:Rent			$1224.00
 	Assets:Checking
+
+2015/07/23 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/07/24 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/07/24 Comcast?
+	Expenses:Comcrap		$144.01
+	Assets:Checking
+
+2015/07/27 Membership
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/07/28 Membership
+	Income:Paypal			$-48.25
+	Assets:Checking
