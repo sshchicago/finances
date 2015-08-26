@@ -1,0 +1,73 @@
+2015/08/01 Opening Balance
+	Equity				
+	Equity:Member2			$-256.59
+	Equity:Member3			$-300
+	Equity:Member6			$-300
+	Equity:Member9			$-300
+	Assets:Checking			$375.35
+
+2015/08/03 Membership
+	Income:Paypal			$-33.68
+	Income:Paypal			$-9.41
+	Expenses:PNC			$12.00
+	Assets:Checking
+
+2015/08/04 Membership
+	Income:Paypal			$-106.21
+	Assets:Checking
+
+2015/08/05 Membership
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/08/06 Membership
+	Income:Paypal			$-57.66
+	Assets:Checking
+
+2015/08/07 Membership
+	Income:Paypal			$-96.50
+	Assets:Checking
+
+2015/08/10 Membership
+	Income:Paypal			$-9.41
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/08/11 Membership
+	Income:Stripe			$-53.78
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2015/08/12 Membership
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2015/08/13 Membership
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2015/08/14 Membership
+	Income:Paypal			$-125.63
+	Assets:Checking
+
+2015/08/17 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/08/19 Membership
+	Income:Paypal			$-48.25
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/08/21 Membership
+	Income:Square			$-67.24
+	Assets:Checking
+
+2015/08/24 Membership
+	Income:Paypal			$-77.38
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/08/25 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
