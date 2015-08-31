@@ -1,12 +1,18 @@
-            $1469.15  Assets:Checking
-            $-375.35  Equity
+            $1474.75  Assets:Checking
+           $-1727.94  Debt
             $-256.59    Member2
             $-300.00    Member3
             $-300.00    Member6
             $-300.00    Member9
-              $12.00  Expenses:PNC
-           $-1105.80  Income
-            $-824.79    Paypal
+            $-321.35    President
+            $-250.00    Treasurer
+            $1352.59  Equity
+            $1236.00  Expenses
+              $12.00    PNC
+            $1224.00    Rent
+           $-2335.40  Income
+           $-1000.00    Mana
+           $-1054.39    Paypal
              $-67.24    Square
             $-213.77    Stripe
 --------------------
