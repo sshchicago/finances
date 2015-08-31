@@ -1,9 +1,11 @@
 2015/08/01 Opening Balance
 	Equity				
-	Equity:Member2			$-256.59
-	Equity:Member3			$-300
-	Equity:Member6			$-300
-	Equity:Member9			$-300
+	Debt:Member2			$-256.59
+	Debt:Member3			$-300
+	Debt:Member6			$-300
+	Debt:Member9			$-300
+	Debt:Treasurer			$-250
+	Debt:President			$-321.35
 	Assets:Checking			$375.35
 
 2015/08/03 Membership
@@ -70,4 +72,19 @@
 
 2015/08/25 Membership
 	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/08/27 Membership etc
+	Income:Paypal			$-57.96
+	Income:Mana			$-1000.00
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+2015/08/28 Membership
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2015/08/31 Membership
+	Income:Paypal			$-84.85
+	Income:Paypal			$-38.54
 	Assets:Checking
