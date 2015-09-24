@@ -1,0 +1,67 @@
+2015/09/01 Opening Balance
+	Equity				
+	Debt:Member2			$-256.59
+	Debt:Member3			$-300
+	Debt:Member6			$-300
+	Debt:Member9			$-300
+	Debt:Treasurer			$-250
+	Debt:President			$-321.35
+	Assets:Checking			$1474.75
+
+2015/09/01 Bank charges
+	Expenses:PNC			$12.00
+	Assets:Checking
+
+2015/09/03 Membership
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/09/04 Membership
+	Income:Paypal			$-106.21
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/09/08 Membership
+	Income:Paypal			$-96.50
+	Income:Paypal			$-57.66
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/09/10 Membership
+	Income:Stripe			$-80.67
+	Assets:Checking
+
+2015/09/11 Membership
+	Income:Paypal			$-76.77
+	Assets:Checking
+
+2015/09/14 Membership
+	Income:Paypal			$-125.63
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/09/15 Membership
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2015/09/16 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/09/17 
+	Income:Stripe			$-26.89
+	Debt:Member2			$256.59
+	Debt:Member6			$300
+	Debt:Member3			$250
+	Assets:Checking
+
+2015/09/21 Membership
+	Income:Paypal			$-51.07
+	Assets:Checking
+
+2015/09/23 Membership
+	Income:Paypal			$-77.38
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+
