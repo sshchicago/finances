@@ -1,10 +1,11 @@
              $360.24  Assets:Checking
-            $-921.35  Debt
+           $-1242.46  Debt
+            $-321.11    Insurance
              $-50.00    Member3
             $-300.00    Member9
             $-321.35    President
             $-250.00    Treasurer
-             $253.19  Equity
+             $574.30  Equity
             $1236.00  Expenses
               $12.00    PNC
             $1224.00    Rent
