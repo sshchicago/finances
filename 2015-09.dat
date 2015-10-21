@@ -51,9 +51,7 @@
 
 2015/09/17 
 	Income:Stripe			$-26.89
-	Debt:Member2			$256.59
-	Debt:Member6			$300
-	Debt:Member3			$250
+	Debt:Member2			$250.00
 	Assets:Checking
 
 2015/09/21 Membership
@@ -62,7 +60,23 @@
 
 2015/09/23 Membership
 	Income:Paypal			$-77.38
-	Expenses:Rent			$1224.00
+	Debt:Member6			$300
+	Expenses:Taxes			$13.00
 	Assets:Checking
 
+2015/09/24 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/09/25 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+	
+2015/09/28 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/09/25 Membership
+	Income:Paypal			$-38.54
+	Assets:Checking
 
