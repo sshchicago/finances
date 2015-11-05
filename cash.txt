@@ -1,17 +1,17 @@
-            $1621.35  Assets:Checking
-            $-949.05  Debt
+            $1288.14  Assets:Checking
+           $-1199.05  Debt
             $-321.11    Insurance
               $-6.59    Member2
-             $-50.00    Member3
+            $-300.00    Member3
             $-321.35    PrDirector
             $-250.00    Treasurer
-            $-841.20  Equity
-            $1224.93  Expenses
-               $0.93    AWS
+            $-926.14  Equity
+            $1261.99  Expenses
+              $25.99    AWS
+              $12.00    PNC
             $1224.00    Rent
-           $-1056.03  Income
-            $-100.00    ACM
-            $-769.15    Paypal
-            $-186.88    Stripe
+            $-424.94  Income
+            $-366.98    Paypal
+             $-57.96    Stripe
 --------------------
                    0
