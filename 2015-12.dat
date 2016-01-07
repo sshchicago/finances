@@ -1,0 +1,37 @@
+2015/12/01 Opening Balance
+	Equity				
+	Debt:Member2			$-6.59
+	Debt:Member3			$-300
+	Debt:Treasurer			$-250
+	Debt:PrDirector			$-321.35
+	Debt:Insurance			$-321.11
+	Assets:Checking			$926.73
+
+2015/12/01
+	Income:Paypal			$-84.85
+	Assets:Checking
+
+2015/12/02
+	Income:Paypal			$-83.96
+	Expenses:Usps			$5.95
+	Assets:Checking
+
+2015/12/04
+	Expenses:Aws			$24.97
+	Income:Paypal			$-164.17
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/12/07
+	Income:Paypal			$-48.25
+	Income:Paypal			$-67.37
+	Assets:Checking
+
+2015/12/08
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/12/09
+	Income:Stripe			$-53.78
+	Assets:Checking
+	
