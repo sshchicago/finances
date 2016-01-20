@@ -17,3 +17,34 @@
 	Income:Paypal			$-67.37
 	Income:Stripe			$-57.96
 	Assets:Checking
+
+2016/01/07
+	Expenses:Insurance		$321.11
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2016/01/08
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/01/11
+	Expenses:Rent			$1224.00
+	Income:Paypal			$-43.09
+	Income:Stripe			$-53.78
+	Assets:Checking
+
+2016/01/13
+	Income:Stripe			$-48.25
+	Assets:Checking
+	
+2016/01/14
+	Income:Paypal			$-111.06
+	Expenses:AWS			$1.00
+	Assets:Checking
+
+2016/01/19
+	Expenses:SecState		$32.00
+	Income:Paypal			$-33.68
+	Income:Paypal			$-135.34
+	Assets:Checking
+
