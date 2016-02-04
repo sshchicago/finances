@@ -1,18 +1,12 @@
-            $1802.80  Assets:Checking
-           $-1199.05  Debt
-            $-321.11    Insurance
-              $-6.59    Member2
-            $-300.00    Member3
+             $954.91  Assets:Checking
+            $-616.35  Debt
+             $-45.00    Dmitriy
             $-321.35    PrDirector
             $-250.00    Treasurer
-           $-1376.46  Equity
-            $1603.03  Expenses
-              $25.92    AWS
-             $321.11    Insurance
+           $-1529.40  Equity
+            $1248.80  Expenses
+              $24.80    AWS
             $1224.00    Rent
-              $32.00    SecState
-            $-830.32  Income
-            $-670.33    Paypal
-            $-159.99    Stripe
+             $-57.96  Income:Paypal
 --------------------
                    0
