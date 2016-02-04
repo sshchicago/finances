@@ -39,7 +39,6 @@
 	
 2016/01/14
 	Income:Paypal			$-111.06
-	Expenses:AWS			$1.00
 	Assets:Checking
 
 2016/01/19
@@ -48,3 +47,34 @@
 	Income:Paypal			$-135.34
 	Assets:Checking
 
+2016/01/20
+	Expenses:AG			$45.00
+	Debt:Dmitriy			$-45.00
+	Debt:Insurance			$321.11
+	MysteryMoney
+
+2016/01/21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/01/22
+	Expenses:AWS			$12.00
+	Assets:Checking
+
+2016/01/25
+	Income:Paypal			$-77.38
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/01/26
+	Income:Stripe			$-6.19
+	Assets:Checking
+
+2016/01/27
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/01/29
+	Income:Paypal			$-38.54
+	Assets:Checking
