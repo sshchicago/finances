@@ -8,9 +8,56 @@
 
 2016/03/02
 	Income:Paypal			$-57.96
+	Expenses:Rent			$1224.00
 	Assets:Checking
 
-2016/03/31
-	Expenses:Rent			$1224.00
-	Expenses:Checks			$20
+
+2016/03/04
+	Income:Paypal			$-173.58
+	Income:Stripe			$-57.96
+	Expenses:AWS			$24.89
 	Assets:Checking
+
+2016/03/07
+	Income:Paypal			$-125.33
+	Assets:Checking
+
+2016/03/08
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2016/03/09
+	Income:Paypal			$-9.41
+	Income:Stripe			$-53.78
+	Assets:Checking
+
+2016/03/11
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2016/03/14
+	Income:Paypal			$-111.06
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/03/15
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2016/03/16
+	Income:Paypal			$-135.34
+	Assets:Checking
+
+2016/03/17
+	Income:Paypal			$-33.68
+	Expenses:Checks			$19.99
+	Assets:Checking
+
+2016/03/21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/03/23
+	Income:Paypal			$-77.38
+	Assets:Checking
+
