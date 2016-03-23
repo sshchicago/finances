@@ -1,12 +1,15 @@
-            $1336.20  Assets:Checking
+            $2295.80  Assets:Checking
             $-616.35  Debt
              $-45.00    Dmitriy
             $-321.35    PrDirector
             $-250.00    Treasurer
            $-1905.89  Equity
-            $1244.00  Expenses
-              $20.00    Checks
+            $1268.88  Expenses
+              $24.89    AWS
+              $19.99    Checks
             $1224.00    Rent
-             $-57.96  Income:Paypal
+           $-1042.44  Income
+            $-882.45    Paypal
+            $-159.99    Stripe
 --------------------
                    0
