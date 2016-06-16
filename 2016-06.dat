@@ -1,0 +1,48 @@
+2016/06/01 Opening Balance
+	Equity				
+	Debt:Treasurer			$-250
+	Debt:PrDirector			$-221.35
+	Debt:Dmitriy			$-45.00
+	Assets:Checking			$1669.19
+
+2016/06/01
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/06/02
+	Debt:PrDirector			$100
+	Assets:Checking
+
+2016/06/03
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/06/06
+	Income:Paypal			$-57.96
+	Income:Paypal			$-76.78
+	Assets:Checking
+	Expenses:AWS			$26.57
+
+2016/06/07
+	Income:Paypal			$-48.25
+	Expenses:SecState		$10
+	Assets:Checking
+
+2016/06/08
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2016/06/13
+	Income:Paypal			$-33.68
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/06/14
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2016/06/15
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+
