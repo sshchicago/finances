@@ -1,4 +1,4 @@
-            $2683.38  Assets:Checking
+            $3125.94  Assets:Checking
             $-416.35  Debt
              $-45.00    Dmitriy
             $-121.35    PrDirector
@@ -7,6 +7,6 @@
             $1273.96  Expenses
               $25.96    AWS
             $1248.00    Rent
-            $-882.14  Income:Paypal
+           $-1324.70  Income:Paypal
 --------------------
                    0
