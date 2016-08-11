@@ -1,0 +1,936 @@
+
+2015/08/01 Opening Balance
+	Equity				
+	Debt:Member2			$-256.59
+	Debt:Member3			$-300
+	Debt:Member6			$-300
+	Debt:Member9			$-300
+	Debt:Treasurer			$-250
+	Debt:PrDirector			$-321.35
+	Assets:Checking			$375.35
+
+2016/08/01 Corrections ;; When I compiled the monthly journals into the fy2015 journal, I realized I'd skipped some things
+	Debt:Member2			$6.59
+	Debt:Member3			$50.00
+	Debt:Member9			$300.00
+	Debt:Insurance			$-321.11
+	Equity
+
+2015/08/03 Membership
+	Income:Paypal			$-33.68
+	Income:Paypal			$-9.41
+	Expenses:PNC			$12.00
+	Assets:Checking
+
+2015/08/04 Membership
+	Income:Paypal			$-106.21
+	Assets:Checking
+
+2015/08/05 Membership
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/08/06 Membership
+	Income:Paypal			$-57.66
+	Assets:Checking
+
+2015/08/07 Membership
+	Income:Paypal			$-96.50
+	Assets:Checking
+
+2015/08/10 Membership
+	Income:Paypal			$-9.41
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/08/11 Membership
+	Income:Stripe			$-53.78
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2015/08/12 Membership
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2015/08/13 Membership
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2015/08/14 Membership
+	Income:Paypal			$-125.63
+	Assets:Checking
+
+2015/08/17 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/08/19 Membership
+	Income:Paypal			$-48.25
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/08/21 Membership
+	Income:Square			$-67.24
+	Assets:Checking
+
+2015/08/24 Membership
+	Income:Paypal			$-77.38
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/08/25 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/08/27 Membership etc
+	Income:Paypal			$-57.96
+	Income:Mana			$-1000.00
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+2015/08/28 Membership
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2015/08/31 Membership
+	Income:Paypal			$-84.85
+	Income:Paypal			$-38.54
+	Assets:Checking
+
+
+2015/09/01 Bank charges
+	Expenses:PNC			$12.00
+	Assets:Checking
+
+2015/09/03 Membership
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/09/04 Membership
+	Income:Paypal			$-106.21
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/09/08 Membership
+	Income:Paypal			$-96.50
+	Income:Paypal			$-57.66
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/09/10 Membership
+	Income:Stripe			$-80.67
+	Assets:Checking
+
+2015/09/11 Membership
+	Income:Paypal			$-76.77
+	Assets:Checking
+
+2015/09/14 Membership
+	Income:Paypal			$-125.63
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/09/15 Membership
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2015/09/16 Membership
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/09/17 
+	Income:Stripe			$-26.89
+	Debt:Member2			$250.00
+	Assets:Checking
+
+2015/09/21 Membership
+	Income:Paypal			$-51.07
+	Assets:Checking
+
+2015/09/23 Membership
+	Income:Paypal			$-77.38
+	Debt:Member6			$300
+	Expenses:SecState		$13.00
+	Assets:Checking
+
+2015/09/24 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/09/25 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+	
+2015/09/28 Membership
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/09/25 Membership
+	Income:Paypal			$-38.54
+	Assets:Checking
+
+2015/10/01
+	Income:Paypal			$-84.85
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+2015/10/02
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/10/05
+	Income:Paypal			$-9.41
+	Income:Paypal			$-106.21
+	Assets:Checking
+
+2015/10/06
+	Income:Stripe			$-57.96
+	Income:Paypal			$-57.66
+	Debt:Member3			$250
+	Assets:Checking
+
+2015/10/07
+	Income:Paypal			$-96.50
+	Assets:Checking
+
+2015/10/08
+	Income:Paypal			$-9.41
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/10/09
+	Income:Stripe			$-53.78
+	Income:ACM			$-100
+	Assets:Checking
+
+2015/10/13
+	Income:Paypal			$-76.77
+	Assets:Checking
+
+2015/10/14
+	Income:Paypal			$-125.63
+	Expenses:AWS			$0.93
+	Assets:Checking
+
+2015/10/15
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2015/10/16
+	Income:Paypal			$-135.34
+	Assets:Checking
+
+2015/10/19
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/10/23
+	Income:Square			$-34.04
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/10/26
+	Income:Check			$-180.00
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/10/27
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/10/29
+	Income:Paypal			$-38.54
+	Assets:Checking
+	
+
+2015/11/02
+	Income:Paypal			$-84.85
+	Income:Paypal			$-57.96
+	Expenses:PNC			$12
+	Assets:Checking
+
+2015/11/03
+	Expenses:Rent			$1224.00
+	Expenses:AWS			$25.99
+	Assets:Checking
+
+2015/11/04
+	Income:Paypal			$-224.17
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/11/06
+	Income:Paypal			$-115.62
+	Assets:Checking
+
+2015/11/09
+	Income:Paypal			$-48.25
+	Income:Paypal			$-9.41
+	Income:Cash			$-35.00
+	Assets:Checking
+
+2015/11/10
+	Income:Stripe			$-53.78
+	Expenses:StickerMule		$75.00
+	Assets:Checking
+
+2015/11/12
+	Income:Paypal			$-76.77
+	Income:Stripe			$-26.89
+	Assets:Checking
+
+2015/11/16
+	Income:Paypal			$-77.38
+	Income:Stripe			$-48.25
+	Income:Paypal			$-135.34
+	Expenses:JoeBudka		$100
+	Assets:Checking
+
+2015/11/17
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2015/11/19
+	Income:Paypal			$-9.41
+	Expenses:Usps			$5.95
+	Assets:Checking
+
+2015/11/23
+	Income:Paypal			$-77.38
+	Income:Paypal			$-26.00
+	Assets:Checking
+
+2015/11/24
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/11/25
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/11/27
+	Income:Paypal			$-115.92
+	Assets:Checking
+
+2015/11/30
+	Income:Paypal			$-38.54
+	Income:Deposit			$-5.00
+	Expenses:Rent			$1229.00 ;; The bank lady waived the cashiers check fee
+	Assets:Checking
+
+
+2015/12/01
+	Income:Paypal			$-84.85
+	Assets:Checking
+
+2015/12/02
+	Income:Paypal			$-83.96
+	Expenses:Usps			$5.95
+	Assets:Checking
+
+2015/12/04
+	Expenses:AWS			$24.97
+	Income:Paypal			$-164.17
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2015/12/07
+	Income:Paypal			$-48.25
+	Income:Paypal			$-67.37
+	Assets:Checking
+
+2015/12/08
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2015/12/09
+	Income:Stripe			$-53.78
+	Assets:Checking
+	
+2015/12/11
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2015/12/14
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2015/12/15
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2015/12/16
+	Income:Paypal			$-135.34
+	Assets:Checking
+
+2015/12/17
+	Income:Paypal			$-67.36
+	Assets:Checking
+
+2015/12/18
+	Income:Square			$-101.17
+	Assets:Checking
+
+2015/12/21
+	Income:Paypal			$-115.92
+	Assets:Checking
+
+2015/12/23
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2015/12/24
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/12/28
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2015/12/29
+	Income:Paypal			$-38.54
+	Assets:Checking
+
+2015/12/30
+	Income:Check			$-60.00
+	Income:Cash			$-80.00
+	Assets:Checking
+
+2015/12/31
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+
+2016/01/04
+	Income:Paypal			$-57.96
+	Income:Paypal			$-164.17
+	Expenses:AWS			$24.92
+	Assets:Checking
+
+2016/01/06
+	Income:Paypal			$-67.37
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2016/01/07
+	Expenses:Insurance		$321.11
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2016/01/08
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/01/11
+	Expenses:Rent			$1224.00
+	Income:Paypal			$-43.09
+	Income:Stripe			$-53.78
+	Assets:Checking
+
+2016/01/13
+	Income:Stripe			$-48.25
+	Assets:Checking
+	
+2016/01/14
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2016/01/19
+	Expenses:SecState		$32.00
+	Income:Paypal			$-33.68
+	Income:Paypal			$-135.34
+	Assets:Checking
+
+2016/01/20
+	Expenses:ILAttorneyGeneral	$45.00
+	Debt:Dmitriy			$-45.00
+	Debt:Insurance			$321.11
+	Equity
+
+2016/01/21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/01/22
+	Expenses:AWS			$12.00
+	Assets:Checking
+
+2016/01/25
+	Income:Paypal			$-77.38
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/01/26
+	Income:Stripe			$-6.19
+	Assets:Checking
+
+2016/01/27
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/01/29
+	Income:Paypal			$-38.54
+	Assets:Checking
+
+
+2016/02/01
+	Income:Paypal			$-57.96
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+2016/02/03
+	Expenses:AWS			$24.80
+	Assets:Checking
+
+2016/02/04
+	Income:Paypal			$-164.17
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2016/02/08
+	Income:Paypal			$-125.33
+	Income:Paypal			$-48.25
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/02/10
+	Income:Stripe			$-53.78
+	Income:Check			$-180.00
+	Assets:Checking
+
+2016/02/11
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2016/02/12
+	Income:Paypal			$-9.41
+	Income:AmazonSmile		$-15.95
+	Assets:Checking
+
+2016/02/16
+	Income:Paypal			$-111.06
+	Income:Paypal			$-135.34
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2016/02/17
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/02/18
+	Income:Paypal			$-67.67
+	Assets:Checking
+
+2016/02/18
+	Donation:FastCap		$-809.70
+	Assets:Donations
+
+2016/02/22
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/02/23
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2016/02/24
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/02/25
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/02/26
+	Income:Paypal			$-116.22
+	Assets:Checking
+
+2016/02/29
+	Income:Paypal			$-38.54
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+
+2016/03/02
+	Income:Paypal			$-57.96
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+
+2016/03/04
+	Income:Paypal			$-173.58
+	Income:Stripe			$-57.96
+	Expenses:AWS			$24.89
+	Assets:Checking
+
+2016/03/07
+	Income:Paypal			$-125.33
+	Assets:Checking
+
+2016/03/08
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2016/03/09
+	Income:Paypal			$-9.41
+	Income:Stripe			$-53.78
+	Assets:Checking
+
+2016/03/11
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2016/03/14
+	Income:Paypal			$-111.06
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/03/15
+	Income:Stripe			$-48.25
+	Assets:Checking
+
+2016/03/16
+	Income:Paypal			$-135.34
+	Assets:Checking
+
+2016/03/17
+	Income:Paypal			$-33.68
+	Expenses:Checks			$19.99
+	Assets:Checking
+
+2016/03/21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/03/23
+	Income:Paypal			$-77.38
+	Assets:Checking
+
+2016/03/24
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/03/25
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/03/28
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/03/29
+	Income:Paypal			$-38.54
+	Assets:Checking
+
+
+2016/04/01
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/04/04
+	Income:Paypal			$-183.29
+	Income:Check			$-60.00
+	Expenses:AWS			$26.33
+	Debt:PrDirector			$100
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+2016/04/06
+	Income:Paypal			$-125.33
+	Income:Stripe			$-57.96
+	Assets:Checking
+
+2016/04/07
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2016/04/08
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/04/08
+	Donation:Kreg			$-254.75
+	Assets:Donations
+
+2016/04/11
+	Income:Paypal			$-43.09
+	Income:Stripe			$-53.78
+	Assets:Checking
+
+2016/04/12
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/04/13
+	Income:Paypal			$-48.25
+	Assets:Checking
+
+2016/04/14
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2016/04/15
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/04/18
+	Income:Paypal			$-33.68
+	Income:Paypal			$-135.34
+	Assets:Checking
+
+2016/04/20
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/04/21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/04/25
+	Income:Paypal			$-212.41
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Income:Check			$-60.00
+	Assets:Checking
+
+2016/04/26
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/04/27
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/04/29
+	Income:Paypal			$-129.88
+	Assets:Checking
+
+
+2016/05/02
+	Income:Paypal			$-33.68
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/05/04
+	Income:Paypal			$-106.21
+	Income:Stripe			$-57.96
+	Expenses:AWS			$25.73
+	Assets:Checking
+
+2016/05/06
+	Income:Paypal			$-134.74
+	Income:Square			$-34.04
+	Assets:Checking
+
+2016/05/09
+	Income:Paypal			$-48.25
+	Income:Paypal			$-9.41
+	Expenses:Rent			$1224.00
+	Assets:Checking
+
+2016/05/11
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2016/05/12
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/05/16
+	Income:Paypal			$-111.06
+	Income:Paypal			$-135.34
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/05/17
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/05/18
+	Income:Paypal			$-115.92
+	Assets:Checking
+
+2016/05/19
+	Income:Paypal			$-24.80
+	Assets:Checking
+
+2016/05/20
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/05/23
+	Income:Paypal			$-57.96
+	Income:Paypal			$-144.74
+	Expenses:SecState		$300
+	Assets:Checking
+
+2016/05/24
+	Income:Paypal 			$-57.96
+	Assets:Checking
+
+2016/05/25
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/05/26
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/05/27
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/05/31
+	Income:Paypal			$-163.86
+	Expenses:Rent			$1248.00
+	Assets:Checking
+
+
+2016/06/01
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/06/02
+	Debt:PrDirector			$100
+	Assets:Checking
+
+2016/06/03
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/06/06
+	Income:Paypal			$-57.96
+	Income:Paypal			$-76.78
+	Assets:Checking
+	Expenses:AWS			$26.57
+
+2016/06/07
+	Income:Paypal			$-48.25
+	Expenses:SecState		$10
+	Assets:Checking
+
+2016/06/08
+	Income:Paypal			$-43.09
+	Assets:Checking
+
+2016/06/13
+	Income:Paypal			$-33.68
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/06/14
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2016/06/15
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/06/16
+	Income:Paypal			$-193.30
+	Assets:Checking
+
+2016/06/17
+	Income:Paypal			$-91.64
+	Assets:Checking
+
+2016/06/20
+	Income:Paypal			$-115.92
+	Assets:Checking
+
+2016/06/21
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/06/23
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2016/06/24
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/06/27
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/06/29
+	Income:Paypal			$-163.86
+	Income:Check			$-120.00
+	Assets:Checking
+
+2016/06/30
+	Donation:Stanley		$-5424.94
+	Assets:Donations
+
+2016/07/01
+	Expenses:Rent			$1248.00
+	Assets:Checking
+
+2016/07/05
+	Income:Paypal			$-57.96
+	Income:Paypal			$-91.64
+	Expenses:AWS			$25.96
+	Assets:Checking
+
+2017/07/06
+	Income:Paypal			$-134.74
+	Assets:Checking
+
+2017/07/07
+	Income:Paypal			$-81.93
+	Assets:Checking
+
+2017/07/08
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2017/07/11
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2017/07/12
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/07/14
+	Income:Paypal			$-111.06
+	Assets:Checking
+
+2016/07/15
+	Income:Paypal			$-9.41
+	Assets:Checking
+
+2016/07/18
+	Income:Paypal			$-135.34
+	Income:Paypal			$-115.92
+	Income:Paypal			$-91.64
+	Assets:Checking
+
+2016/07/21
+	Income:Paypal			$-115.92
+	Assets:Checking
+
+2016/07/25
+	Income:Paypal			$-77.38
+	Income:Paypal			$-57.96
+	Income:Paypal			$-57.96
+	Assets:Checking
+
+2016/07/26
+	Income:Paypal			$-33.68
+	Assets:Checking
+
+2016/07/27
+	Income:Paypal			$-99.66
+	Assets:Checking
+
+2016/07/29
+	Income:Paypal			$-163.86
+	Expenses:Rent			$1248.00
+	Assets:Checking
