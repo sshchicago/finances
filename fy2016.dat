@@ -1,0 +1,34 @@
+2016/08/01 Opening Balance
+	Equity				
+	Debt:Treasurer			$-250
+	Debt:PrDirector			$-121.35
+	Debt:Dmitriy			$-45
+	Assets:Checking			$2041.80
+
+2016/08/01 Sale of ISIS frame
+	Revenue:3dPrinterFrameSale	$-96.80
+	Assets:Checking			$96.80
+
+2016/08/01
+	Revenue:MemberDues		$-57.96
+	Assets:Checking
+
+2016/08/03
+	Revenue:MemberDues		$-67.36
+	Expenses:AWS			$26.39
+	Assets:Checking
+
+2016/08/05
+	Revenue:MemberDues		$-33.68
+	Assets:Checking
+
+2016/08/08
+	Revenue:MemberDues		$-134.74
+	Revenue:MemberDues		$-81.93
+	Revenue:MemberDues		$-9.41
+	Assets:Checking
+
+2016/08/10
+	Revenue:MemberDues		$-180.00
+	Assets:Checking
+	
