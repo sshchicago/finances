@@ -3,7 +3,7 @@ This is where SSHC keep an open record of its finances. The treasurer will make 
 
 ## Cash on hand at-a-glance
 
-[Click here](https://github.com/sshchicago/finances/blob/master/cash.txt) to see the latest balance!
+[Click here](https://github.com/sshchicago/finances/blob/master/cash.txt) to see our Month-To-Date balance!
 
 ## Overview
 
