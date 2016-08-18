@@ -1,12 +1,15 @@
-            $2677.29  Assets:Checking
+            $2530.37  Assets:Checking
             $-416.35  Debt
              $-45.00    Dmitriy
             $-121.35    PrDirector
             $-250.00    Treasurer
+             $-29.18  Donors:AmazonSmile
            $-1625.45  Equity
-              $26.39  Expenses:AWS
-            $-661.88  Revenue
+             $660.39  Expenses
+              $26.39    AWS
+             $634.00    Insurance
+           $-1119.78  Revenue
              $-96.80    3dPrinterFrameSale
-            $-565.08    MemberDues
+           $-1022.98    MemberDues
 --------------------
                    0
