@@ -1,4 +1,4 @@
-            $2530.37  Assets:Checking
+            $2936.17  Assets:Checking
             $-416.35  Debt
              $-45.00    Dmitriy
             $-121.35    PrDirector
@@ -8,8 +8,8 @@
              $660.39  Expenses
               $26.39    AWS
              $634.00    Insurance
-           $-1119.78  Revenue
+           $-1525.58  Revenue
              $-96.80    3dPrinterFrameSale
-           $-1022.98    MemberDues
+           $-1428.78    MemberDues
 --------------------
                    0
