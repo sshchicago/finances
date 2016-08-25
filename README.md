@@ -13,7 +13,7 @@ First, install [Ledger CLI](http://www.ledger-cli.org/). Then clone this repo.
 
 To run ledger-cli and see what's in our bank account right now, do the following:
 
-    $ ledger -f YYYY-MM.dat b
+    $ ledger -f fyYYYY.dat b
 
 e.g.
 
