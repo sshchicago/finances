@@ -1,14 +1,9 @@
-            $3128.28  Assets:Checking
-            $-295.00  Debt
-             $-45.00    Dmitriy
-            $-250.00    Treasurer
-             $-29.18  Donors:AmazonSmile
-           $-1625.45  Equity
-             $660.39  Expenses
-              $26.39    AWS
+            $-393.27  Assets:Checking
+            $1936.31  Expenses
+              $26.97    AWS
+              $27.34    HomeDepot:Keys
              $634.00    Insurance
-           $-1839.04  Revenue
-             $-96.80    3dPrinterFrameSale
-           $-1742.24    MemberDues
+            $1248.00    Rent
+           $-1543.04  Revenue:MemberDues
 --------------------
                    0
