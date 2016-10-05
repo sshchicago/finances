@@ -146,3 +146,24 @@
 	Revenue:MemberDues		$-57.96
 	Revenue:MemberDues		$-91.64
 	Assets:Checking
+
+2016/09/29
+	Donors:PublicGood		$-17.72
+	Revenue:MemberDues		$-163.86
+	Assets:Checking
+
+2016/09/30
+	Revenue:MemberDues		$-57.96
+	Assets:Checking
+
+2016/10/03
+	Revenue:MemberDues		$-57.96
+	Revenue:MemberDues		$-33.68
+	Expenses:AWS			$26.10
+	Expenses:Rent			$1248.00
+	Assets:Checking
+	
+2016/10/05
+	Revenue:MemberDues		$-76.78
+	Revenue:MemberDues		$-120.00
+	Assets:Checking
