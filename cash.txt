@@ -1,9 +1,7 @@
-            $-393.27  Assets:Checking
-            $1936.31  Expenses
-              $26.97    AWS
-              $27.34    HomeDepot:Keys
-             $634.00    Insurance
+            $-985.68  Assets:Checking
+            $1274.10  Expenses
+              $26.10    AWS
             $1248.00    Rent
-           $-1543.04  Revenue:MemberDues
+            $-288.42  Revenue:MemberDues
 --------------------
                    0
