@@ -1,6 +1,6 @@
 2016/08/01 Opening Balance
 	Equity				
-	Debt:Treasurer			$-250
+	Debt:Agocs			$-250
 	Debt:PrDirector			$-121.35
 	Debt:Dmitriy			$-45
 	Assets:Checking			$2041.80
@@ -166,4 +166,25 @@
 2016/10/05
 	Revenue:MemberDues		$-76.78
 	Revenue:MemberDues		$-120.00
+	Assets:Checking
+
+2016/10/06
+	Revenue:MemberDues		$-81.93
+	Assets:Checking
+
+2016/10/07
+	Revenue:MemberDues		$-9.41
+	Assets:Checking
+
+2016/10/11
+	Revenue:MemberDues		$-33.68
+	Revenue:MemberDues		$-9.41
+	Assets:Checking
+
+2016/10/13
+	Revenue:MemberDues		$-144.74
+	Assets:Checking
+
+2016/10/14
+	Revenue:MemberDues		$-67.37
 	Assets:Checking
