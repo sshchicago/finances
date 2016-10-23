@@ -1,7 +1,7 @@
-            $-639.14  Assets:Checking
+           $-1199.00  Assets:Checking
             $1274.10  Expenses
               $26.10    AWS
             $1248.00    Rent
-            $-634.96  Revenue:MemberDues
+             $-75.10  Revenue:MemberDues
 --------------------
                    0
