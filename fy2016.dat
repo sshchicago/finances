@@ -206,3 +206,41 @@
 2016/10/21
 	Revenue:MemberDues	-$57.96
 	Assets:Checking
+
+2016/10/24	ACH CREDIT 5GWJ29W5BCPKU PAYPAL TRANSFER; $3,247.57
+	Assets:Checking		$57.96
+	Revenue:MemberDues		-$57.96
+
+2016/10/24	ACH CREDIT 5GWJ29W45WJ4G PAYPAL TRANSFER; $3,189.61
+	Assets:Checking		$57.96
+	Revenue:MemberDues		-$57.96
+
+2016/10/24	ACH CREDIT 5GWJ29W32YJWW PAYPAL TRANSFER; $3,131.65
+	Assets:Checking		$236.38
+	Revenue:MemberDues		-$236.38
+
+2016/10/25	ACH CREDIT 5GWJ29W6Z5RJN PAYPAL TRANSFER; $3,339.21
+	Assets:Checking		$91.64
+	Revenue:MemberDues		-$91.64
+
+2016/10/27	ACH CREDIT 5GWJ29WA8Z2Y2 PAYPAL TRANSFER; $3,397.17
+	Assets:Checking		$57.96
+	Revenue:MemberDues		-$57.96
+
+2016/10/28	ACH CREDIT 5GWJ29WBR8MXU PAYPAL TRANSFER; $3,527.35
+	Assets:Checking		$130.18
+	Revenue:MemberDues		-$130.18
+
+2016/10/31	ATM DEPOSIT 95220453 DEPOSIT 1733 S. CLARK S CHICAGO IL; $3,752.02
+	Assets:Checking		$108.75
+	Donors:FirstGiving:MattCampbell                   -$48.75
+	Revenue:MemberDues		-$60.00
+
+2016/10/31	ACH CREDIT 5GWJ29WFGVXHE PAYPAL TRANSFER; $3,643.27
+	Assets:Checking		$57.96
+	Revenue:MemberDues		-$57.96
+
+2016/10/31	ACH CREDIT 5GWJ29WEBTQQJ PAYPAL TRANSFER; $3,585.31
+	Assets:Checking		$57.96
+	Revenue:MemberDues		-$57.96
+
