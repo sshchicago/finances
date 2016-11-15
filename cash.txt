@@ -1,0 +1,8 @@
+           $-1007.34  Assets:Checking
+             $-32.07  Donors:AmazonSmile
+            $1274.89  Expenses
+              $26.89    AWS
+            $1248.00    Rent
+            $-235.48  Revenue:MemberDues
+--------------------
+                   0
