@@ -244,3 +244,35 @@
 	Assets:Checking		$57.96
 	Revenue:MemberDues		-$57.96
 
+2016/11/02	ACH CREDIT 5GWJ29WJSVABU PAYPAL TRANSFER; $3,785.70
+	Assets:Checking		$33.68
+	Revenue:MemberDues		-$33.68
+
+2016/11/04	CHECK 7039 071749079; $2,510.81
+	Expenses:Rent		$1248.00
+	Assets:Checking		-$1248.00
+
+2016/11/04	DEBIT CARD PURCHASE XXXXX2810 Amazon web services aws.amazon. WA; $3,758.81
+	Expenses:AWS		$26.89
+	Assets:Checking		-$26.89
+
+2016/11/07	ACH CREDIT 5GWJ29WRRPCNN PAYPAL TRANSFER; $2,653.04
+	Assets:Checking		$9.41
+	Revenue:MemberDues		-$9.41
+
+2016/11/07	ACH CREDIT 5GWJ29WPGRJ9C PAYPAL TRANSFER; $2,643.63
+	Assets:Checking		 $18.82
+	Revenue:MemberDues		-$18.82
+
+2016/11/07	CORPORATE ACH TR6M8FN5F0ULPEP AMZNIV4BQXV5 AMAZONSMIL; $2,624.81
+	Assets:Checking		$32.07
+	Donors:AmazonSmile		-$32.07
+
+2016/11/07	ACH CREDIT 5GWJ29WQKHQG6 PAYPAL TRANSFER; $2,592.74
+	Assets:Checking		$81.93
+	Revenue:MemberDues		-$81.93
+
+2016/11/10	ACH CREDIT 5GWJ29WWESGG6 PAYPAL TRANSFER; $2,744.68
+	Assets:Checking		$91.64
+	Revenue:MemberDues		-$91.64
+
