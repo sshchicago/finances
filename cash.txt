@@ -1,0 +1,11 @@
+             $137.86  Assets:Checking
+             $295.00  Debt
+             $250.00    Agocs
+              $45.00    Dmitriy
+             $-32.07  Donors:AmazonSmile
+            $1274.89  Expenses
+              $26.89    AWS
+            $1248.00    Rent
+           $-1675.68  Revenue:MemberDues
+--------------------
+                   0
