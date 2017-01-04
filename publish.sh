@@ -1,4 +1,4 @@
-YEAR=`date +%Y`
+YEAR=`date --date="8 months ago" +%Y`
 
 ledger -f fy$YEAR.dat -p "last month" b > cash.txt
 
