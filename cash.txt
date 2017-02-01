@@ -1,8 +1,10 @@
-            $1471.17  Assets:Checking
-           $-1000.00  Donors:PhilipStrong
-            $1274.26  Expenses
-              $26.26    AWS
-            $1248.00    Rent
-           $-1745.43  Revenue:MemberDues
+             $711.80  Assets:Checking
+           $1,382.11  Expenses
+              $25.83    AWS
+              $51.65    Foster&SonExtinguisher
+              $41.63    GordonsAceHardware:Keys
+              $15.00    ILAttorneyGeneral
+           $1,248.00    Rent
+          $-2,093.91  Revenue:MemberDues
 --------------------
                    0
