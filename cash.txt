@@ -1,10 +1,12 @@
-             $711.80  Assets:Checking
-           $1,382.11  Expenses
-              $25.83    AWS
-              $51.65    Foster&SonExtinguisher
-              $41.63    GordonsAceHardware:Keys
-              $15.00    ILAttorneyGeneral
+           $2,916.03  Assets:Checking
+          $-2,346.52  Donors
+             $-46.52    AmazonSmile
+            $-300.00    DysonFoundation
+          $-2,000.00    Ingredion
+           $1,588.74  Expenses
+              $42.14    AWS
+             $298.60    Amazon.com
            $1,248.00    Rent
-          $-2,093.91  Revenue:MemberDues
+          $-2,158.25  Revenue:MemberDues
 --------------------
                    0
