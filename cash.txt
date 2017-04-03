@@ -1,12 +1,13 @@
-           $2,916.03  Assets:Checking
-          $-2,346.52  Donors
-             $-46.52    AmazonSmile
-            $-300.00    DysonFoundation
-          $-2,000.00    Ingredion
-           $1,588.74  Expenses
-              $42.14    AWS
-             $298.60    Amazon.com
+             $283.10  Assets:Checking
+           $2,100.99  Expenses
+              $37.29    AWS
+             $664.00    Amazon.com:Bandsaw
+              $76.03    Costco:BirthdayParty
+              $30.22    Marianos:BirthdayParty
+               $5.45    PartyCity:BirthdayParty
            $1,248.00    Rent
-          $-2,158.25  Revenue:MemberDues
+              $40.00    WindowsServerLicenses
+              $41.01  HomeDepot:Keys
+          $-2,425.10  Revenue:MemberDues
 --------------------
                    0
