@@ -1,13 +1,13 @@
              $283.10  Assets:Checking
-           $2,100.99  Expenses
+           $2,142.00  Expenses
               $37.29    AWS
              $664.00    Amazon.com:Bandsaw
               $76.03    Costco:BirthdayParty
+              $41.01    HomeDepot:Keys
               $30.22    Marianos:BirthdayParty
                $5.45    PartyCity:BirthdayParty
            $1,248.00    Rent
               $40.00    WindowsServerLicenses
-              $41.01  HomeDepot:Keys
           $-2,425.10  Revenue:MemberDues
 --------------------
                    0
