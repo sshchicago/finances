@@ -1,5 +1,5 @@
 # Finances
-This is where SSHC keep an open record of its finances. The treasurer will make every effort to keep this up to date on a weekly basis, and any member of the public may verify these numbers are acccurate.
+This is where SSHC keep an open record of its finances. The treasurer will make every effort to keep this up to date on a monthly basis, and any member of the public may verify these numbers are acccurate.
 
 ## Cash on hand at-a-glance
 
