@@ -1,8 +1,10 @@
-           $1,291.88  Assets:Checking
-            $-130.16  Donors:AmazonSmile
-           $1,290.07  Expenses
-              $42.07    AWS
-           $1,248.00    Rent
-          $-2,451.79  Revenue:MemberDues
+           $1,000.04  Assets:Checking
+           $1,511.13  Expenses
+              $42.85    AWS
+              $10.00    ILSecretaryOfState
+             $149.38    LastPass.com
+              $36.90    Projects:ThirdHandTools
+           $1,272.00    Rent
+          $-2,511.17  Revenue:MemberDues
 --------------------
                    0
