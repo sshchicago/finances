@@ -43,7 +43,7 @@
 2016/08/15
 	Revenue:MemberDues		$-111.06
 	Revenue:MemberDues		$-9.41
-	Donors:AmazonSmile		$-29.18
+	Donations:AmazonSmile		$-29.18
 	Expenses:Insurance		$634.00
 	Assets:Checking
 
@@ -129,7 +129,7 @@
 	Revenue:MemberDues		$-91.64
 	Revenue:MemberDues		$-115.92
 	Revenue:MemberDues		$-33.68
-	Expenses:HomeDepot:Keys		$27.34
+	Expenses:MemberKeys:HomeDepot		$27.34
 	Assets:Checking
 
 2016/09/21
@@ -148,7 +148,7 @@
 	Assets:Checking
 
 2016/09/29
-	Donors:PublicGood		$-17.72
+	Donations:PublicGood		$-17.72
 	Revenue:MemberDues		$-163.86
 	Assets:Checking
 
@@ -233,7 +233,7 @@
 
 2016/10/31	ATM DEPOSIT 95220453 DEPOSIT 1733 S. CLARK S CHICAGO IL; $3,752.02
 	Assets:Checking		$108.75
-	Donors:FirstGiving:MattCampbell                   -$48.75
+	Donations:MattCampbell                   -$48.75
 	Revenue:MemberDues		-$60.00
 
 2016/10/31	ACH CREDIT 5GWJ29WFGVXHE PAYPAL TRANSFER; $3,643.27
@@ -266,7 +266,7 @@
 
 2016/11/07	CORPORATE ACH TR6M8FN5F0ULPEP AMZNIV4BQXV5 AMAZONSMIL; $2,624.81
 	Assets:Checking		$32.07
-	Donors:AmazonSmile		-$32.07
+	Donations:AmazonSmile		-$32.07
 
 2016/11/07	ACH CREDIT 5GWJ29WQKHQG6 PAYPAL TRANSFER; $2,592.74
 	Assets:Checking		$81.93
@@ -398,7 +398,7 @@
 
 2016/12/19	ATM DEPOSIT 89462906 DEPOSIT 1733 S. CLARK S CHICAGO IL; $4,665.98
 	Assets:Checking		$1000.00
-	Donors:PhilipStrong		-$1000.00
+	Donations:PhilipStrong		-$1000.00
 
 2016/12/19	ACH CREDIT 5GWJ29YEXXH8A PAYPAL TRANSFER; $3,665.98
 	Assets:Checking		$92.31
@@ -525,7 +525,7 @@
 	Revenue:MemberDues		-$160.17
 
 2017/01/23	DEBIT CARD PURCHASE XXXXX4981 GAH SOUTH ASHLAND CHICAGO IL; $5,572.48
-	Expenses:GordonsAceHardware:Keys		$41.63
+	Expenses:MemberKeys:GordonsAceHardware		$41.63
 	Assets:Checking		-$41.63
 
 2017/01/23	ACH CREDIT 5GWJ29ZMHJY7U PAYPAL TRANSFER; $5,614.11
@@ -573,11 +573,11 @@
 	Assets:Checking		-$42.14
 
 2017/02/06	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $6,130.91
-	Expenses:Amazon.com:FirstAidCabinet		$5.55
+	Expenses:FirstAidCabinet:Amazon.com		$5.55
 	Assets:Checking		-$5.55
 
 2017/02/06	DEBIT CARD PURCHASE XXXXX4981 Amazon.com AMZN.COM/BI WA; $6,136.46
-	Expenses:Amazon.com:FirstAidCabinet		$293.05
+	Expenses:FirstAidCabinet:Amazon.com		$293.05
 	Assets:Checking		-$293.05
 
 2017/02/06	ACH CREDIT 5GWJ2A25JSSZS PAYPAL TRANSFER; $6,429.51
@@ -590,7 +590,7 @@
 
 2017/02/07	ATM DEPOSIT 89141283 DEPOSIT 3508 S STATE ST CHICAGO IL; $6,478.70
 	Assets:Checking		$300.00
-	Donors:DysonFoundation		-$300.00
+	Donations:DysonFoundation		-$300.00
 
 2017/02/07	ACH CREDIT 5GWJ2A26UZJL2 PAYPAL TRANSFER; $6,178.70
 	Assets:Checking		$43.41
@@ -598,7 +598,7 @@
 
 2017/02/07	CORPORATE ACH SQBBV89YJKOQT00 AMZNIYSHZ60B AMAZONSMIL; $6,135.29
 	Assets:Checking		$46.52
-	Donors:AmazonSmile		-$46.52
+	Donations:AmazonSmile		-$46.52
 
 2017/02/08	CHECK 7042 071862917; $5,230.70
 	Expenses:Rent		$1,248.00
@@ -606,7 +606,7 @@
 
 2017/02/09	ATM DEPOSIT 90469837 DEPOSIT 3508 S STATE ST CHICAGO IL; $7,264.63
 	Assets:Checking		$2000.00
-	Donors:Ingredion		-$2000.00
+	Donations:Ingredion		-$2000.00
 
 2017/02/09	ACH CREDIT 5GWJ2A29BSWKN PAYPAL TRANSFER; $5,264.63
 	Assets:Checking		$33.93
@@ -717,15 +717,15 @@
 	Revenue:MemberDues		-$33.93
 
 2017/03/13	POS PURCHASE POS23921175 4970261 PARTY CITY 151 CHICAGO IL; $9,588.27
-	Expenses:PartyCity:BirthdayParty					$5.45
+	Expenses:BirthdayParty:PartyCity		$5.45
 	Assets:Checking					-$5.45
 
 2017/03/13	POS PURCHASE POS17657111 4970260 MARIANOS FRESH CHICAGO IL; $9,593.72
-	Expenses:Marianos:BirthdayParty					$30.22
+	Expenses:BirthdayParty:Marianos					$30.22
 	Assets:Checking					-$30.22
 
 2017/03/13	POS PURCHASE POS99110711 4970259 COSTCO WHSE #1 CHICAGO IL; $9,623.94
-	Expenses:Costco:BirthdayParty					$76.03
+	Expenses:BirthdayParty:Costco					$76.03
 	Assets:Checking					-$76.03
 
 2017/03/13	ACH CREDIT 5GWJ2A3AHDJD6 PAYPAL TRANSFER; $9,699.97
@@ -761,11 +761,11 @@
 	Revenue:MemberDues		-$175.14
 
 2017/03/20	POS PURCHASE POS06168811 4851235 THE HOME DEPOT CHICAGO IL; $8,486.08
-	Expenses:HomeDepot:Keys					$41.01
+	Expenses:MemberKeys:HomeDepot					$41.01
 	Assets:Checking					-$41.01
 
 2017/03/20	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $8,527.09
-	Expenses:Amazon.com:Bandsaw					$664.00
+	Expenses:Bandsaw:Amazon.com					$664.00
 	Assets:Checking					-$664.00
 
 2017/03/20	ACH CREDIT 5GWJ2A3K6K6H8 PAYPAL TRANSFER; $9,191.09
@@ -982,7 +982,7 @@
 
 2017/05/12	CORPORATE ACH UGNXWNFU7E56OBU AMZNJ2KLO2T4 AMAZONSMIL; $9,791.71
 	Assets:Checking		$130.16
-	Donors:AmazonSmile		-$130.16
+	Donations:AmazonSmile		-$130.16
 
 2017/05/15	ACH CREDIT 5GWJ2A5G9XBES PAYPAL TRANSFER; $10,223.92
 	Assets:Checking		$126.24
