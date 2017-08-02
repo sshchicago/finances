@@ -1,10 +1,13 @@
-           $1,000.04  Assets:Checking
-           $1,511.13  Expenses
-              $42.85    AWS
-              $10.00    ILSecretaryOfState
-             $149.38    LastPass.com
-              $36.90    Projects:ThirdHandTools
+             $944.56  Assets:Checking
+           $1,651.41  Expenses
+              $42.07    AWS
+             $337.34    Projects
+             $287.55      DustCollection
+             $191.69        Amazon.com
+              $67.01        HomeDepot
+              $28.85        OneidaAir.com
+              $49.79      WoodStorageCart
            $1,272.00    Rent
-          $-2,511.17  Revenue:MemberDues
+          $-2,595.97  Revenue:MemberDues
 --------------------
                    0
