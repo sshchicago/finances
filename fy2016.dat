@@ -1324,3 +1324,15 @@
 2017/07/31	ACH CREDIT 5GWJ2A7TVLPZY PAYPAL TRANSFER; $13,585.09
 	Assets:Checking		$126.24
 	Revenue:MemberDues		-$126.24
+
+2017/05/25	Reallocation of PayPal Giving Fund Disbursement
+        Revenue:MemberDues              $2.84
+        Donations:PayPalGivingFund              -$2.84
+
+2017/06/25      Reallocation of PayPal Giving Fund Disbursement
+        Revenue:MemberDues              $7.96
+        Donations:PayPalGivingFund              -$7.96
+
+2017/07/25      Reallocation of PayPal Giving Fund Disbursement
+        Revenue:MemberDues              $1.22
+        Donations:PayPalGivingFund              -$1.22
