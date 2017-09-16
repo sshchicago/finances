@@ -1,0 +1,149 @@
+2017/08/01	Opening Balance
+	Assets:Checking					 $13536.15
+	Equity
+
+2017/08/01	ACH CREDIT 5GWJ2A7WGWB6J PAYPAL TRANSFER; $13,570.08
+	Assets:Checking					 $33.93
+	Revenue:MemberDues					 -$33.93
+
+2017/08/02	ACH CREDIT 5GWJ2A7XKYN5N PAYPAL TRANSFER; $13,671.87
+	Assets:Checking					 $101.79
+	Revenue:MemberDues					 -$101.79
+
+2017/08/03	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $13,748.64
+	Expenses:Administrative:AmazonWebServices					$48.87
+	Assets:Checking					-$48.87
+
+2017/08/03	ACH CREDIT 5GWJ2A7YPC5CU PAYPAL TRANSFER; $13,797.51
+	Assets:Checking					 $125.64
+	Revenue:MemberDues					 -$125.64
+
+2017/08/04	CHECK 7048 073849849; $12,476.64
+	Expenses:Administrative:Rent					$1272.00
+	Assets:Checking					-$1272.00
+
+2017/08/07	DEBIT CARD PURCHASE XXXXX4981 GAH SOUTH ASHLAND CHICAGO IL; $12,739.20
+	Expenses:Projects:DustCollection					$1.79 ; Fasteners
+	Assets:Checking					-$1.79
+
+2017/08/07	ATM DEPOSIT 96350308 DEPOSIT 700 N STATE STR CHICAGO IL; $12,740.99
+	Assets:Checking					 $35.00
+	Revenue:MemberDues					 -$35.00
+
+2017/08/07	ATM DEPOSIT 96350166 DEPOSIT 700 N STATE STR CHICAGO IL; $12,705.99
+	Assets:Checking					 $60.00
+	Revenue:MemberDues					 -$60.00
+
+2017/08/07	ACH CREDIT 5GWJ2A84744QA PAYPAL TRANSFER; $12,645.99
+	Assets:Checking					 $43.41
+	Revenue:MemberDues					 -$43.41
+
+2017/08/07	ACH CREDIT 5GWJ2A83F4G5E PAYPAL TRANSFER; $12,602.58
+	Assets:Checking					 $48.60
+	Revenue:MemberDues					 -$48.60
+
+2017/08/07	ACH CREDIT 5GWJ2A82QG35J PAYPAL TRANSFER; $12,553.98
+	Assets:Checking					 $77.34
+	Revenue:MemberDues					 -$77.34
+
+2017/08/09	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $12,672.12
+	Expenses:Administrative:Supplies					$16.50 ; 9V batteries
+	Assets:Checking					-$16.50
+
+2017/08/09	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $12,688.62
+	Expenses:Projects:DustCollection					$35.28 ; toggle clamps
+	Expenses:Administrative:Supplies					$15.30 ; RFID fobs
+	Assets:Checking					-$50.58
+
+2017/08/10	DEBIT CARD PURCHASE XXXXX4981 AMTRUST NA XXXXX7878 OH; $11,438.05
+	Expenses:Administrative:Insurance					$1268.00
+	Assets:Checking					-$1268.00
+
+2017/08/10	ACH CREDIT 5GWJ2A87HYZVU PAYPAL TRANSFER; $12,706.05
+	Assets:Checking					 $33.93
+	Revenue:MemberDues					 -$33.93
+
+2017/08/11	ACH CREDIT 5GWJ2A88JMXCA PAYPAL TRANSFER; $11,481.46
+	Assets:Checking					 $43.41
+	Revenue:MemberDues					 -$43.41
+
+2017/08/14	POS PURCHASE POS01480729 5049192 HARBOR FREIGHT CICERO IL; $11,592.20
+	Expenses:Projects:DustCollection					$177.19 ; 2HP dust collector
+	Assets:Checking					-$177.19
+
+2017/08/14	POS PURCHASE POS99058013 5049191 COSTCO WHSE #0 BEDFORD PARK IL; $11,769.39
+	Expenses:Administrative:Supplies					$18.04 ; paper towels
+	Assets:Checking					-$18.04
+
+2017/08/14	ACH CREDIT 5GWJ2A8AZKFUQ PAYPAL TRANSFER; $11,787.43
+	Assets:Checking					 $126.24
+	Revenue:MemberDues					 -$126.24
+
+2017/08/14	ACH CREDIT 5GWJ2A8A9EER8 PAYPAL TRANSFER; $11,661.19
+	Assets:Checking					 $179.73
+	Revenue:MemberDues					 -$179.73
+
+2017/08/15	ACH CREDIT 5GWJ2A8C5AEX6 PAYPAL TRANSFER; $11,718.44
+	Assets:Checking					 $126.24
+	Revenue:MemberDues					 -$126.24
+
+2017/08/16	ACH CREDIT 5GWJ2A8D7J24G PAYPAL TRANSFER; $12,514.61
+	Assets:Checking					 $796.17
+	Revenue:MemberDues					 -$796.17
+
+2017/08/17	ACH CREDIT 5GWJ2A8EAQBBA PAYPAL TRANSFER; $12,694.34
+	Assets:Checking					 $179.73
+	Revenue:MemberDues					 -$179.73
+
+2017/08/18	ACH CREDIT 5GWJ2A8FAN5T4 PAYPAL TRANSFER; $12,944.32
+	Assets:Checking					 $219.62
+	Revenue:MemberDues					 -$219.62
+
+2017/08/18	CORPORATE ACH J3ST5Y7FS64HHKS AMZNJ6G9YLPT AMAZONSMIL; $12,724.70
+	Assets:Checking					 $30.36
+	Revenue:Donations:AmazonSmile					 -$30.36
+
+2017/08/21	ATM DEPOSIT 96840328 DEPOSIT 3508 S STATE ST CHICAGO IL; $13,242.35
+	Assets:Checking					 $22.00
+	Revenue:MemberDues					 -$22.00
+
+2017/08/21	ATM DEPOSIT 96840324 DEPOSIT 3508 S STATE ST CHICAGO IL; $13,220.35
+	Assets:Checking					 $48.00
+	Revenue:MemberDues					 -$48.00
+
+2017/08/21	ACH CREDIT 5GWJ2A8HQFTXS PAYPAL TRANSFER; $13,172.35
+	Assets:Checking					 $33.93
+	Revenue:MemberDues					 -$33.93
+
+2017/08/21	ACH CREDIT 5GWJ2A8GA8ELL PAYPAL TRANSFER; $13,138.42
+	Assets:Checking					 $67.86
+	Revenue:MemberDues					 -$67.86
+
+2017/08/21	ACH CREDIT 5GWJ2A8GY7B6C PAYPAL TRANSFER; $13,070.56
+	Assets:Checking					 $126.24
+	Revenue:MemberDues					 -$126.24
+
+2017/08/22	ACH CREDIT 5GWJ2A8JTXLKA PAYPAL TRANSFER; $13,446.53
+	Assets:Checking					 $204.18
+	Revenue:MemberDues					 -$204.18
+
+2017/08/28	ACH CREDIT XXXXX5610 PAYPAL TRANSFER; $13,731.04
+	Assets:Checking					 $58.38
+	Revenue:MemberDues					 -$58.38
+
+2017/08/28	ACH CREDIT 5GWJ2A8NXHKFN PAYPAL TRANSFER; $13,672.66
+	Assets:Checking					 $226.13
+	Revenue:Donations:PayPalGivingFund					 -$7.58
+	Revenue:MemberDues					 -$218.55
+
+2017/08/29	ACH CREDIT 5GWJ2A8Q9QK5J PAYPAL TRANSFER; $13,823.35
+	Assets:Checking					 $92.31
+	Revenue:MemberDues					 -$92.31
+
+2017/08/30	ACH CREDIT 5GWJ2A8RB2H5L PAYPAL TRANSFER; $13,949.59
+	Assets:Checking					 $126.24
+	Revenue:MemberDues					 -$126.24
+
+2017/08/31	ATM DEPOSIT 95606128 DEPOSIT 3508 S STATE ST CHICAGO IL; $14,009.59
+	Assets:Checking					 $60.00
+	Revenue:MemberDues					 -$60.00
