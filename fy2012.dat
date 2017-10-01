@@ -1,0 +1,63 @@
+2012/08/20	DEPOSIT; $100
+	Revenue:Cash					 -$100
+	Assets:Checking
+
+2012/08/20	DEPOSIT; $195
+	Revenue:Cash					 -$95
+	Assets:Checking
+
+2012/09/21	ACH CREDIT VERIFYBANK PAYPAL 105GWJ222C5C926; $195.17
+	Expenses:Administrative:PayPal					 -$0.17
+	Assets:Checking
+
+2012/09/21	ACH CREDIT VERIFYBANK PAYPAL 205GWJ222C5C926; $195.21
+	Expenses:Administrative:PayPal					 -$0.04
+	Assets:Checking
+
+2012/09/21	ACH DEBIT VERIFYBANK PAYPAL 405GWJ222C5C926; $195
+	Expenses:Administrative:PayPal					 $0.21
+	Assets:Checking
+
+2012/11/23	ACH CREDIT TRANSFER PAYPAL 5GWJ26FQB4V9U; $532.87
+	Revenue:MemberDues					 -$337.87
+	Assets:Checking
+
+2012/11/28	ACH CREDIT TRANSFER PAYPAL 5GWJ26GELD5KC; $687.33
+	Revenue:MemberDues					 -$154.46
+	Assets:Checking
+
+2012/12/03	6170 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $536.06
+	Expenses:Projects:Buildout					 $151.27
+	Assets:Checking
+
+2013/06/05	ACH CREDIT TRANSFER PAYPAL 5GWJ2754RJ3QQ; $1536.06
+	Revenue:MemberDues					 -$1,000.00
+	Assets:Checking
+
+2013/06/07	ACH CREDIT TRANSFER PAYPAL 5GWJ275CX8T3E; $2536.06
+	Revenue:MemberDues					 -$1,000.00
+	Assets:Checking
+
+2013/07/02	ACH CREDIT TRANSFER PAYPAL 5GWJ277QKUCAN; $4136.06
+	Revenue:MemberDues					 -$1,600.00
+	Assets:Checking
+
+2013/07/05	CHECK 000; $2136.06
+	Expenses:Administrative:Rent					 $2,000.00
+	Assets:Checking
+
+2013/07/17	CHECK 1002; $1136.06
+	Expenses:Administrative:Rent					 $1,000.00
+	Assets:Checking
+
+2013/07/19	ACH CREDIT TRANSFER PAYPAL 5GWJ279FJRXBA; $1819.77
+	Revenue:MemberDues					 -$683.71
+	Assets:Checking
+
+2013/07/26	ACH CREDIT TRANSFER PAYPAL 5GWJ27A8XF3CL; $2099.86
+	Revenue:MemberDues					 -$280.09
+	Assets:Checking
+
+2013/07/30	6170 CHECK CARD PURCHASE WAUKEGAN SAFE & LOCK 847-3363910 IL; $2061.45
+	Expenses:Administrative:Supplies:MemberKeys					 $38.41
+	Assets:Checking
