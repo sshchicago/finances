@@ -1,15 +1,7 @@
-           $-4665.15  Assets:Checking
-            $7130.97  Expenses
-            $1568.69    Administrative
-             $218.45      AmazonWebServices
-              $15.00      Government
-            $1272.00      Rent
-              $63.24      Supplies
-               $9.09    Projects:DustCollection
-            $5553.19    Purchases
-             $162.74      2DPrinter
-            $5095.00      LaserCutter
-             $295.45      MobileToolBases
-           $-2465.82  Revenue:MemberDues
+            $1532.59  Assets:Checking
+            $1287.00  Expenses:Administrative
+              $15.00    911Service
+            $1272.00    Rent
+           $-2819.59  Revenue:MemberDues
 --------------------
                    0
