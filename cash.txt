@@ -1,7 +1,11 @@
-            $1532.59  Assets:Checking
-            $1287.00  Expenses:Administrative
-              $15.00    911Service
-            $1272.00    Rent
-           $-2819.59  Revenue:MemberDues
+            $1006.22  Assets:Checking
+            $1379.92  Expenses
+            $1348.24    Administrative
+            $1272.00      Rent
+              $76.24      Supplies
+              $31.68    Projects:DustCollection
+           $-2386.14  Revenue
+             $-37.38    Donations:AmazonSmile
+           $-2348.76    MemberDues
 --------------------
                    0
