@@ -1,11 +1,9 @@
-            $1006.22  Assets:Checking
-            $1379.92  Expenses
-            $1348.24    Administrative
-            $1272.00      Rent
-              $76.24      Supplies
-              $31.68    Projects:DustCollection
-           $-2386.14  Revenue
-             $-37.38    Donations:AmazonSmile
-           $-2348.76    MemberDues
+            $-116.46  Assets:Checking
+           $2,874.07  Expenses
+           $1,582.07    Administrative
+           $1,272.00      Rent
+             $310.07      Supplies
+           $1,292.00    Purchases:SurveillanceSystem
+          $-2,757.61  Revenue:MemberDues
 --------------------
                    0
