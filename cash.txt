@@ -1,12 +1,12 @@
-             $664.66  Assets:Checking
-           $1,612.47  Expenses
-           $1,396.00    Administrative
-              $12.00      AmazonWebServices
-           $1,272.00      Rent
-             $112.00      Supplies
-             $216.47    Purchases:SurveillanceSystem
-          $-2,277.13  Revenue
-             $-54.61    Donations:AmazonSmile
-          $-2,222.52    MemberDues
+           $2,062.92  Assets:Checking
+           $1,375.89  Expenses
+           $1,272.00    Administrative:Rent
+              $71.89    Programming:BirthdayParty
+              $32.00    Supplies
+          $-3,438.81  Revenue
+            $-714.89    Donations
+            $-706.13      HighAltitudeBalloonTeam
+              $-8.76      PayPalGivingFund
+          $-2,723.92    MemberDues
 --------------------
                    0
