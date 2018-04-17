@@ -1,971 +1,971 @@
 2013/08/01	Opening Balance
-	Assets:Checking					 $2061.45
+	Assets:Checking	$2061.45
 	Equity
 
 2013/08/02	CHECK 000; $1061.45
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2013/08/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27BK4YG2L; $1746.96
-	Revenue:MemberDues					 -$685.51
+	Revenue:MemberDues	-$685.51
 	Assets:Checking
 
 2013/08/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27D3T2EB8; $2166.43
-	Revenue:MemberDues					 -$419.47
+	Revenue:MemberDues	-$419.47
 	Assets:Checking
 
 2013/08/29	CHECK 7001; $1166.43
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2013/09/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27EMTY9XL; $2035.53
-	Revenue:MemberDues					 -$869.10
+	Revenue:MemberDues	-$869.10
 	Assets:Checking
 
 2013/09/24	6170 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $1491.92
-	Expenses:Projects:Buildout					 $543.61
+	Expenses:Projects:Buildout	$543.61
 	Assets:Checking
 
 2013/09/24	6170 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $1456.46
-	Expenses:Projects:Buildout					 $35.46
+	Expenses:Projects:Buildout	$35.46
 	Assets:Checking
 
 2013/09/25	ACH CREDIT TRANSFER PAYPAL 5GWJ27G7BYURS; $2122.85
-	Revenue:MemberDues					 -$666.39
+	Revenue:MemberDues	-$666.39
 	Assets:Checking
 
 2013/09/27	6170 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $2092.86
-	Expenses:Projects:Buildout					 $29.99
+	Expenses:Projects:Buildout	$29.99
 	Assets:Checking
 
 2013/09/30	CHECK CARD CREDIT THE HOME DEPOT 1944 VOLO IL; $2129.45
-	Expenses:Projects:Buildout					 -$36.59
+	Expenses:Projects:Buildout	-$36.59
 	Assets:Checking
 
 2013/10/01	CHECK 7002; $1129.45
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2013/10/01	6170 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $940.78
-	Expenses:Projects:Buildout					 $188.67
+	Expenses:Projects:Buildout	$188.67
 	Assets:Checking
 
 2013/10/04	ACH CREDIT TRANSFER PAYPAL 5GWJ27GWUL7YW; $1240.78
-	Revenue:MemberDues					 -$300.00
+	Revenue:MemberDues	-$300.00
 	Assets:Checking
 
 2013/10/08	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1240.26
-	Expenses:Administrative:AmazonWebServices					 $0.52
+	Expenses:Administrative:AmazonWebServices	$0.52
 	Assets:Checking
 
 2013/10/18	ACH CREDIT TRANSFER PAYPAL 5GWJ27J3EWLDA; $1712.56
-	Revenue:MemberDues					 -$472.30
+	Revenue:MemberDues	-$472.30
 	Assets:Checking
 
 2013/10/29	4981 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $1625.45
-	Expenses:Projects:Buildout					 $87.11
+	Expenses:Projects:Buildout	$87.11
 	Assets:Checking
 
 2013/11/04	CHECK 7003; $625.45
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2013/11/04	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $624.93
-	Expenses:Administrative:AmazonWebServices					 $0.52
+	Expenses:Administrative:AmazonWebServices	$0.52
 	Assets:Checking
 
 2013/11/08	ACH CREDIT TRANSFER PAYPAL 5GWJ27KPF8L66; $1638.82
-	Revenue:MemberDues					 -$1013.89
+	Revenue:MemberDues	-$1013.89
 	Assets:Checking
 
 2013/11/12	4981 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $1603.58
-	Expenses:Projects:Buildout					 $35.24
+	Expenses:Projects:Buildout	$35.24
 	Assets:Checking
 
 2013/11/14	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000006; $1399.43
-	Expenses:Projects:Buildout					 $204.15
+	Expenses:Projects:Buildout	$204.15
 	Assets:Checking
 
 2013/11/29	ACH CREDIT TRANSFER PAYPAL 5GWJ27ME333N8; $2027.58
-	Revenue:MemberDues					 -$628.15
+	Revenue:MemberDues	-$628.15
 	Assets:Checking
 
 2013/12/03	CHECK 7004; $1027.58
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2013/12/04	6914 CHECK CARD PURCHASE MOISHE S SELF STORAGE CHICAGO IL; $27.58
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2013/12/05	ACH CREDIT TRANSFER PAYPAL 5GWJ27N25Z79A; $442.71
-	Revenue:MemberDues					 -$415.13
+	Revenue:MemberDues	-$415.13
 	Assets:Checking
 
 2013/12/05	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $442.15
-	Expenses:Administrative:AmazonWebServices					 $0.56
+	Expenses:Administrative:AmazonWebServices	$0.56
 	Assets:Checking
 
 2013/12/12	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000007; $330.80
-	Expenses:Projects:Buildout					 $111.35
+	Expenses:Projects:Buildout	$111.35
 	Assets:Checking
 
 2013/12/13	DEPOSIT; $630.80
-	Revenue:Cash					 -$300.00
+	Revenue:Cash	-$300.00
 	Assets:Checking
 
 2013/12/16	ACH CREDIT TRANSFER PAYPAL 5GWJ27NWWH7UN; $862.34
-	Revenue:MemberDues					 -$231.54
+	Revenue:MemberDues	-$231.54
 	Assets:Checking
 
 2013/12/16	ACH CREDIT TRANSFER PAYPAL 5GWJ27P4JVUWG; $987.97
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2013/12/18	ACH CREDIT TRANSFER PAYPAL 5GWJ27PAZWBBN; $1065.35
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2013/12/19	ACH CREDIT TRANSFER PAYPAL 5GWJ27PEGP324; $1190.98
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2013/12/19	6170 CHECK CARD PURCHASE JEWEL #3345 CHICAGO I; $1166.28
-	Expenses:Administrative:Supplies					 $24.70
+	Expenses:Administrative:Supplies	$24.70
 	Assets:Checking
 
 2013/12/20	ACH CREDIT TRANSFER PAYPAL 5GWJ27PHNU88E; $1214.53
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2013/12/20	6170 CHECK CARD PURCHASE GAH SOUTH LOOP CHICAG; $1174.82
-	Expenses:Administrative:Supplies:MemberKeys					 $39.71
+	Expenses:Administrative:Supplies:MemberKeys	$39.71
 	Assets:Checking
 
 2013/12/20	6170 CHECK CARD PURCHASE WAUKEGAN SAFE & LOCK IL; $1043.75
-	Expenses:Administrative:Supplies:MemberKeys					 $131.07
+	Expenses:Administrative:Supplies:MemberKeys	$131.07
 	Assets:Checking
 
 2013/12/23	ACH CREDIT TRANSFER PAYPAL 5GWJ27PRN38XG; $1169.38
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2013/12/23	ACH WEB-SINGLE ECHECK PAYPAL J222222AAEQBG; $984.38
-	Expenses:Uncategorized:PayPal					 $185.00
+	Expenses:Uncategorized:PayPal	$185.00
 	Assets:Checking
 
 2013/12/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27PTGYPYJ; $1042.34
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2013/12/26	ACH CREDIT TRANSFER PAYPAL 5GWJ27PW3MSMJ; $1090.59
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2013/12/26	4981 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $1010.98
-	Expenses:Projects:Buildout					 $79.61
+	Expenses:Projects:Buildout	$79.61
 	Assets:Checking
 
 2013/12/30	ACH CREDIT TRANSFER PAYPAL 5GWJ27Q6KS36E; $1049.52
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2013/12/31	ACH CREDIT TRANSFER PAYPAL 5GWJ27QAFK7EN; $1175.15
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/01/02	ACH CREDIT TRANSFER PAYPAL 5GWJ27QFP3XTJ; $1233.11
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/01/02	ACH CREDIT TRANSFER PAYPAL 5GWJ27QDASKH6; $1281.36
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/01/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27QHMRSGQ; $1329.61
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/01/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27QLH4ZH6; $1406.99
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/01/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27QPDYMU8; $1464.65
-	Revenue:MemberDues					 -$57.66
+	Revenue:MemberDues	-$57.66
 	Assets:Checking
 
 2014/01/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27QRMQ3DN; $1512.90
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/01/06	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1512.23
-	Expenses:Administrative:AmazonWebServices					 $0.67
+	Expenses:Administrative:AmazonWebServices	$0.67
 	Assets:Checking
 
 2014/01/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27QTU9QPQ; $1560.48
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/01/08	ACH CREDIT TRANSFER PAYPAL 5GWJ27QWRPSJJ; $1569.89
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/01/14	ACH CREDIT TRANSFER PAYPAL 5GWJ27RDUPATG; $1695.52
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/01/16	ACH CREDIT TRANSFER PAYPAL 5GWJ27RKHXHFC; $1821.15
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/01/16	POS PURCHASE COSTCO WHSE #1 CHICAGO IL POS99110711; $1657.31
-	Expenses:Administrative:Supplies					 $163.84
+	Expenses:Administrative:Supplies	$163.84
 	Assets:Checking
 
 2014/01/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27RR3CTZC; $1734.69
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/01/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27RTPLYBU; $1812.07
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/01/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27RVPQF3U; $1860.32
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/01/22	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000006; $1307.38
-	Expenses:Projects:Buildout					 $552.94
+	Expenses:Projects:Buildout	$552.94
 	Assets:Checking
 
 2014/01/23	ACH CREDIT TRANSFER PAYPAL 5GWJ27S5GMVH6; $1433.01
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/01/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27S84YL8Y; $1490.97
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/01/27	ACH CREDIT TRANSFER PAYPAL 5GWJ27SAPMXA4; $1539.22
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/01/29	ACH CREDIT TRANSFER PAYPAL 5GWJ27SLBVAL4; $1577.76
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2014/01/30	6170 CHECK CARD PURCHASE ZOHO CORPORATION 925-9249500 CA; $1059.36
-	Expenses:Administrative:ZoHo					 $518.40
+	Expenses:Administrative:ZoHo	$518.40
 	Assets:Checking
 
 2014/01/31	ACH CREDIT TRANSFER PAYPAL 5GWJ27SRPHEFY; $1184.99
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/02/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27SX2MGCQ; $1242.95
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/02/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27SUFEERW; $1291.20
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27SZ5WE9G; $1339.45
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/04	ACH CREDIT TRANSFER PAYPAL 5GWJ27T3C494Q; $1387.70
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/05	ACH CREDIT TRANSFER PAYPAL 5GWJ27T6GD8WE; $1445.36
-	Revenue:MemberDues					 -$57.66
+	Revenue:MemberDues	-$57.66
 	Assets:Checking
 
 2014/02/05	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1444.55
-	Expenses:Administrative:AmazonWebServices					 $0.81
+	Expenses:Administrative:AmazonWebServices	$0.81
 	Assets:Checking
 
 2014/02/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27T9BVQC8; $1492.80
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27TC5H4US; $1541.05
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/07	CHECK 7006; $541.05
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2014/02/10	ACH CREDIT TRANSFER PAYPAL 5GWJ27TEVCWFC; $550.46
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/02/10	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000057; $528.64
-	Expenses:Projects:Buildout					 $21.82
+	Expenses:Projects:Buildout	$21.82
 	Assets:Checking
 
 2014/02/14	ACH CREDIT TRANSFER PAYPAL 5GWJ27TWJ5D2A; $654.27
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/02/18	ACH CREDIT TRANSFER PAYPAL 5GWJ27U3VPA8N; $779.90
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/02/18	ACH CREDIT TRANSFER PAYPAL 5GWJ27U87P69S; $857.28
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/02/19	ACH CREDIT TRANSFER PAYPAL 5GWJ27UB8QVUU; $934.66
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/02/20	ACH CREDIT TRANSFER PAYPAL 5GWJ27UE6SKKU; $982.91
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27UQPSCZG; $1067.76
-	Revenue:MemberDues					 -$84.85
+	Revenue:MemberDues	-$84.85
 	Assets:Checking
 
 2014/02/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27UNR98SE; $1145.14
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/02/25	ACH CREDIT TRANSFER PAYPAL 5GWJ27USU9ZDE; $1193.39
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/02/28	DEPOSIT; $1313.39
-	Revenue:Cash					 -$120.00
+	Revenue:Cash	-$120.00
 	Assets:Checking
 
 2014/03/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27V9CMD9L; $1545.23
-	Revenue:MemberDues					 -$231.84
+	Revenue:MemberDues	-$231.84
 	Assets:Checking
 
 2014/03/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27VBL53LG; $1593.48
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/03/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27V6M6UNY; $1632.02
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2014/03/03	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1631.10
-	Expenses:Administrative:AmazonWebServices					 $0.92
+	Expenses:Administrative:AmazonWebServices	$0.92
 	Assets:Checking
 
 2014/03/04	ACH CREDIT TRANSFER PAYPAL 5GWJ27VE298KQ; $1679.35
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/03/04	CHECK 7007; $679.35
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2014/03/05	ACH CREDIT TRANSFER PAYPAL 5GWJ27VHDY9FN; $737.01
-	Revenue:MemberDues					 -$57.66
+	Revenue:MemberDues	-$57.66
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $724.54
-	Expenses:Administrative:Supplies					 $12.47
+	Expenses:Administrative:Supplies	$12.47
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $677.87
-	Expenses:Administrative:Supplies					 $46.67
+	Expenses:Administrative:Supplies	$46.67
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $676.28
-	Expenses:Administrative:Supplies					 $1.59
+	Expenses:Administrative:Supplies	$1.59
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $554.00
-	Expenses:Administrative:Supplies					 $122.28
+	Expenses:Administrative:Supplies	$122.28
 	Assets:Checking
 
 2014/03/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27VLFYPXA; $611.66
-	Revenue:MemberDues					 -$57.66
+	Revenue:MemberDues	-$57.66
 	Assets:Checking
 
 2014/03/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27VPGUB98; $659.91
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/03/10	ACH CREDIT TRANSFER PAYPAL 5GWJ27VSFXPV8; $669.32
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/03/10	POS PURCHASE COSTCO WHSE #1 CHICAGO IL POS99110711; $543.02
-	Expenses:Programming:BirthdayParty					 $126.30
+	Expenses:Programming:BirthdayParty	$126.30
 	Assets:Checking
 
 2014/03/11	ACH CREDIT TRANSFER PAYPAL 5GWJ27VZD8FM8; $632.28
-	Revenue:MemberDues					 -$89.26
+	Revenue:MemberDues	-$89.26
 	Assets:Checking
 
 2014/03/12	ACH CREDIT TRANSFER PAYPAL 5GWJ27W4GX6D2; $705.68
-	Revenue:MemberDues					 -$73.40
+	Revenue:MemberDues	-$73.40
 	Assets:Checking
 
 2014/03/13	ACH CREDIT TRANSFER PAYPAL 5GWJ27W7HDHBE; $714.19
-	Revenue:MemberDues					 -$8.51
+	Revenue:MemberDues	-$8.51
 	Assets:Checking
 
 2014/03/14	DEPOSIT; $774.19
-	Revenue:Cash					 -$60.00
+	Revenue:Cash	-$60.00
 	Assets:Checking
 
 2014/03/14	ACH CREDIT TRANSFER PAYPAL 5GWJ27WACBFVY; $948.07
-	Revenue:MemberDues					 -$173.88
+	Revenue:MemberDues	-$173.88
 	Assets:Checking
 
 2014/03/17	ACH CREDIT TRANSFER PAYPAL 5GWJ27WFU9JKN; $1073.70
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/03/17	6170 CHECK CARD PURCHASE SHOPTRN*ELENCO 877-4127467 CA; $981.25
-	Expenses:Programming:SolderingTutorial					 $92.45
+	Expenses:Programming:SolderingTutorial	$92.45
 	Assets:Checking
 
 2014/03/17	6170 CHECK CARD PURCHASE PP*0194CODE 402-93577; $979.30
-	Expenses:Programming:SolderingTutorial					 $1.95
+	Expenses:Programming:SolderingTutorial	$1.95
 	Assets:Checking
 
 2014/03/17	ACH WEB-SINGLE INST XFER PAYPAL J222222FZJ3LS; $775.00
-	Expenses:Programming:SolderingTutorial					 $204.30
+	Expenses:Programming:SolderingTutorial	$204.30
 	Assets:Checking
 
 2014/03/18	ACH CREDIT TRANSFER PAYPAL 5GWJ27WLA8BGU; $852.38
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/03/19	ACH CREDIT TRANSFER PAYPAL 5GWJ27WPKL4MG; $1007.66
-	Revenue:MemberDues					 -$155.28
+	Revenue:MemberDues	-$155.28
 	Assets:Checking
 
 2014/03/20	ACH CREDIT TRANSFER PAYPAL 5GWJ27WSLH4EA; $1121.68
-	Revenue:MemberDues					 -$114.02
+	Revenue:MemberDues	-$114.02
 	Assets:Checking
 
 2014/03/20	6170 CHECK CARD PURCHASE MEETUP.COM 877-633887; $1049.68
-	Expenses:Administrative:Meetup.com					 $72.00
+	Expenses:Administrative:Meetup.com	$72.00
 	Assets:Checking
 
 2014/03/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27X36MZ2A; $1127.06
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/03/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27X575F68; $1185.02
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/03/25	ACH CREDIT TRANSFER PAYPAL 5GWJ27X7E2P5L; $1233.27
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/03/27	ACH CREDIT TRANSFER PAYPAL 5GWJ27XDJSHGY; $1325.27
-	Revenue:MemberDues					 -$92.00
+	Revenue:MemberDues	-$92.00
 	Assets:Checking
 
 2014/03/28	DEPOSIT; $1380.27
-	Revenue:Cash					 -$55.00
+	Revenue:Cash	-$55.00
 	Assets:Checking
 
 2014/03/31	ACH CREDIT TRANSFER PAYPAL 5GWJ27XPZ3WSG; $1505.90
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/03/31	ACH CREDIT TRANSFER PAYPAL 5GWJ27XMZK5ES; $1549.65
-	Revenue:MemberDues					 -$43.75
+	Revenue:MemberDues	-$43.75
 	Assets:Checking
 
 2014/03/31	ACH CREDIT TRANSFER PAYPAL 5GWJ27XKA893J; $1588.19
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2014/04/01	ACH CREDIT TRANSFER PAYPAL 5GWJ27XS7XE2A; $1636.44
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/02	ACH CREDIT TRANSFER PAYPAL 5GWJ27XVK6NSG; $1694.40
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/04/02	CHECK 7008; $694.40
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2014/04/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27XYST2U4; $742.65
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/04	ACH CREDIT TRANSFER PAYPAL 5GWJ27Y3W579W; $790.90
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/04	CHECK 000; $747.90
-	Expenses:Administrative:Government					 $43.00
+	Expenses:Administrative:Government	$43.00
 	Assets:Checking
 
 2014/04/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27Y9VTYZA; $853.86
-	Revenue:MemberDues					 -$105.96
+	Revenue:MemberDues	-$105.96
 	Assets:Checking
 
 2014/04/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27Y6YA7KG; $911.52
-	Revenue:MemberDues					 -$57.66
+	Revenue:MemberDues	-$57.66
 	Assets:Checking
 
 2014/04/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27YBYYZR4; $959.77
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/07	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $958.72
-	Expenses:Administrative:AmazonWebServices					 $1.05
+	Expenses:Administrative:AmazonWebServices	$1.05
 	Assets:Checking
 
 2014/04/07	4981 CHECK CARD PURCHASE STICKER MULE 800-9759465 NY; $786.22
-	Expenses:Administrative:Advertising					 $172.50
+	Expenses:Administrative:Advertising	$172.50
 	Assets:Checking
 
 2014/04/08	DEPOSIT; $864.22
-	Revenue:Cash					 -$78.00
+	Revenue:Cash	-$78.00
 	Assets:Checking
 
 2014/04/08	ACH CREDIT TRANSFER PAYPAL 5GWJ27YE8UVMY; $873.63
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/04/09	N0409 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $373.64
-	Expenses:Purchases:FlammableCabinet					 $499.99
+	Expenses:Purchases:FlammableCabinet	$499.99
 	Assets:Checking
 
 2014/04/10	ACH CREDIT TRANSFER PAYPAL 5GWJ27YLJJLBS; $439.41
-	Revenue:MemberDues					 -$65.77
+	Revenue:MemberDues	-$65.77
 	Assets:Checking
 
 2014/04/14	ACH CREDIT TRANSFER PAYPAL 5GWJ27YWV6ZJJ; $613.29
-	Revenue:MemberDues					 -$173.88
+	Revenue:MemberDues	-$173.88
 	Assets:Checking
 
 2014/04/14	ACH CREDIT TRANSFER PAYPAL 5GWJ27YS9ZAXE; $679.06
-	Revenue:MemberDues					 -$65.77
+	Revenue:MemberDues	-$65.77
 	Assets:Checking
 
 2014/04/15	ACH CREDIT TRANSFER PAYPAL 5GWJ27YYZLMZJ; $727.31
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/16	ACH CREDIT TRANSFER PAYPAL 5GWJ27Z477TQ6; $822.01
-	Revenue:MemberDues					 -$94.70
+	Revenue:MemberDues	-$94.70
 	Assets:Checking
 
 2014/04/18	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZA5GNLG; $899.39
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/04/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZCXJAYY; $1025.02
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/04/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZFFML98; $1073.27
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZHC28RE; $1086.18
-	Revenue:MemberDues					 -$12.91
+	Revenue:MemberDues	-$12.91
 	Assets:Checking
 
 2014/04/22	6170 CHECK CARD PURCHASE MONOPRICE INC 909-9896887 CA; $947.59
-	Expenses:Purchases:ComputerEquipment					 $138.59
+	Expenses:Purchases:ComputerEquipment	$138.59
 	Assets:Checking
 
 2014/04/23	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZMZYDG8; $1024.97
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/04/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZQXRAAA; $1082.93
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/04/24	6170 CHECK CARD PURCHASE COMCAST CHICAGO 800-COMCAST IL; $957.01
-	Expenses:Administrative:InternetService					 $125.92
+	Expenses:Administrative:InternetService	$125.92
 	Assets:Checking
 
 2014/04/25	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZTRLUFE; $1005.26
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/28	ACH CREDIT TRANSFER PAYPAL 5GWJ27ZZFTM66; $1053.51
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/04/29	DEPOSIT; $1173.51
-	Revenue:Cash					 -$120.00
+	Revenue:Cash	-$120.00
 	Assets:Checking
 
 2014/04/29	ACH CREDIT TRANSFER PAYPAL 5GWJ2825FGGH2; $1212.05
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2014/05/01	ACH CREDIT TRANSFER PAYPAL 5GWJ282BDZR3W; $1337.68
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/05/01	SERVICE CHARGE PERIOD ENDING 04/30; $1325.68
-	Expenses:Administrative:ServiceCharge					 $12.00
+	Expenses:Administrative:ServiceCharge	$12.00
 	Assets:Checking
 
 2014/05/02	ACH CREDIT TRANSFER PAYPAL 5GWJ282E8SC2L; $1373.93
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/05	ACH CREDIT TRANSFER PAYPAL 5GWJ282HBA67Y; $1422.18
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/05	ACH CREDIT TRANSFER PAYPAL 5GWJ282L645ZU; $1470.43
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/05	ACH CREDIT TRANSFER PAYPAL 5GWJ282N65GHC; $1479.84
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/05/05	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1479.08
-	Expenses:Administrative:AmazonWebServices					 $0.76
+	Expenses:Administrative:AmazonWebServices	$0.76
 	Assets:Checking
 
 2014/05/06	ACH CREDIT TRANSFER PAYPAL 5GWJ282Q7LTR2; $1576.23
-	Revenue:MemberDues					 -$97.15
+	Revenue:MemberDues	-$97.15
 	Assets:Checking
 
 2014/05/07	ACH CREDIT TRANSFER PAYPAL 5GWJ282T3R47J; $1875.05
-	Revenue:MemberDues					 -$298.82
+	Revenue:MemberDues	-$298.82
 	Assets:Checking
 
 2014/05/07	CHECK 7009; $875.05
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2014/05/08	ACH CREDIT TRANSFER PAYPAL 5GWJ282W3KNTL; $1021.88
-	Revenue:MemberDues					 -$146.83
+	Revenue:MemberDues	-$146.83
 	Assets:Checking
 
 2014/05/09	ACH CREDIT TRANSFER PAYPAL 5GWJ282YVZYH2; $1034.79
-	Revenue:MemberDues					 -$12.91
+	Revenue:MemberDues	-$12.91
 	Assets:Checking
 
 2014/05/13	DEPOSIT; $1134.79
-	Revenue:Cash					 -$100.00
+	Revenue:Cash	-$100.00
 	Assets:Checking
 
 2014/05/13	ACH CREDIT TRANSFER PAYPAL 5GWJ2839S4NW4; $1184.79
-	Revenue:MemberDues					 -$50.00
+	Revenue:MemberDues	-$50.00
 	Assets:Checking
 
 2014/05/14	ACH CREDIT TRANSFER PAYPAL 5GWJ283CJDHS8; $1358.67
-	Revenue:MemberDues					 -$173.88
+	Revenue:MemberDues	-$173.88
 	Assets:Checking
 
 2014/05/15	ACH CREDIT TRANSFER PAYPAL 5GWJ283F8XAGU; $1406.92
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/15	N0514 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $1335.47
-	Expenses:Programming:NerfGunHacking					 $71.45
+	Expenses:Programming:NerfGunHacking	$71.45
 	Assets:Checking
 
 2014/05/16	DEPOSIT; $1785.47
-	Revenue:Cash					 -$450.00
+	Revenue:Cash	-$450.00
 	Assets:Checking
 
 2014/05/16	CORPORATE ACH DSBMNT INDIEGOGO -FBO CAMPAIGN 703286; $3627.31
-	Revenue:Donations:Indiegogo					 -$1841.84
+	Revenue:Donations:Indiegogo	-$1841.84
 	Assets:Checking
 
 2014/05/16	ACH CREDIT TRANSFER PAYPAL 5GWJ283HRZTVN; $3704.69
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/05/19	ACH CREDIT TRANSFER PAYPAL 5GWJ283QRUYRG; $3851.53
-	Revenue:MemberDues					 -$146.84
+	Revenue:MemberDues	-$146.84
 	Assets:Checking
 
 2014/05/19	ACH CREDIT TRANSFER PAYPAL 5GWJ283NZPMJE; $3928.91
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/05/19	POS PURCHASE TARGET T0942 CHICAGO IL POS09420113; $3843.76
-	Expenses:Programming:NerfGunHacking					 $85.15
+	Expenses:Programming:NerfGunHacking	$85.15
 	Assets:Checking
 
 2014/05/20	ACH CREDIT TRANSFER PAYPAL 5GWJ283SHJZQE; $3892.01
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/23	ACH CREDIT TRANSFER PAYPAL 5GWJ284234ZRS; $4017.64
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/05/27	ACH CREDIT TRANSFER PAYPAL 5GWJ2844EWT8E; $4075.60
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/05/27	ACH CREDIT TRANSFER PAYPAL 5GWJ2846P6F56; $4123.85
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/27	ACH CREDIT TRANSFER PAYPAL 5GWJ2849V9CPE; $4172.10
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/05/27	6170 RECURRING CHECK CARD COMCAST CHICAGO 800-COMCAST IL; $4036.46
-	Expenses:Administrative:InternetService					 $135.64
+	Expenses:Administrative:InternetService	$135.64
 	Assets:Checking
 
 2014/05/28	ACH CREDIT 20140522 EVENTBRITE INC XXXXXXX3937; $4099.18
-	Revenue:WorkshopFee					 -$62.72
+	Revenue:WorkshopFee	-$62.72
 	Assets:Checking
 
 2014/05/29	ACH CREDIT TRANSFER PAYPAL 5GWJ284EKT99W; $4185.97
-	Revenue:MemberDues					 -$86.79
+	Revenue:MemberDues	-$86.79
 	Assets:Checking
 
 2014/06/02	ACH CREDIT TRANSFER PAYPAL 5GWJ284KBWM9S; $4311.60
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/06/02	ACH CREDIT TRANSFER PAYPAL 5GWJ284MTW2YY; $4359.85
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/06/04	ACH CREDIT TRANSFER PAYPAL 5GWJ284UDHV6J; $4414.31
-	Revenue:MemberDues					 -$54.46
+	Revenue:MemberDues	-$54.46
 	Assets:Checking
 
 2014/06/04	CHECK 7010; $3414.31
-	Expenses:Administrative:Rent					 $1000.00
+	Expenses:Administrative:Rent	$1000.00
 	Assets:Checking
 
 2014/06/05	ACH CREDIT TRANSFER PAYPAL 5GWJ284WZ76TC; $3423.72
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/06/05	6170 DEBIT CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $3422.90
-	Expenses:Administrative:AmazonWebServices					 $0.82
+	Expenses:Administrative:AmazonWebServices	$0.82
 	Assets:Checking
 
 2014/06/05	N0604 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $3386.34
-	Expenses:Programming					 $36.56
+	Expenses:Programming	$36.56
 	Assets:Checking
 
 2014/06/06	ACH CREDIT TRANSFER PAYPAL 5GWJ284ZGK6DW; $3448.55
-	Revenue:MemberDues					 -$62.21
+	Revenue:MemberDues	-$62.21
 	Assets:Checking
 
 2014/06/06	N0606 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $3435.36
-	Expenses:Programming					 $13.19
+	Expenses:Programming	$13.19
 	Assets:Checking
 
 2014/06/09	ACH CREDIT TRANSFER PAYPAL 5GWJ2853YKNX6; $3483.61
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/06/09	ACH CREDIT TRANSFER PAYPAL 5GWJ28569PN6S; $3493.02
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/06/11	6170 DEBIT CARD PURCHASE AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $3472.48
-	Expenses:Programming					 $20.54
+	Expenses:Programming	$20.54
 	Assets:Checking
 
 2014/06/16	ACH CREDIT TRANSFER PAYPAL 5GWJ285KRF2P6; $3646.36
-	Revenue:MemberDues					 -$173.88
+	Revenue:MemberDues	-$173.88
 	Assets:Checking
 
 2014/06/16	ACH CREDIT TRANSFER PAYPAL 5GWJ285PV2LD2; $3723.74
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/06/16	ACH CREDIT TRANSFER PAYPAL 5GWJ285N4MUG8; $3771.99
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/06/18	DEBIT CARD CREDIT AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $3792.53
-	Expenses:Programming					 -$20.54
+	Expenses:Programming	-$20.54
 	Assets:Checking
 
 2014/06/18	ACH CREDIT TRANSFER PAYPAL 5GWJ285UMGSRL; $3869.91
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/06/19	ACH CREDIT TRANSFER PAYPAL 5GWJ285X934HC; $3970.90
-	Revenue:MemberDues					 -$100.99
+	Revenue:MemberDues	-$100.99
 	Assets:Checking
 
 2014/06/20	ACH CREDIT TRANSFER PAYPAL 5GWJ285ZRHB5E; $4019.15
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/06/20	4981 DEBIT CARD PURCHASE PETERSEN BROS PLASTICS CHICAGO IL; $3778.80
-	Expenses:Projects:Buildout					 $240.35
+	Expenses:Projects:Buildout	$240.35
 	Assets:Checking
 
 2014/06/23	4981 DEBIT CARD PURCHASE BLANKTSHIRT.COM 775-2325129 NV; $3490.30
-	Expenses:Administrative:IndiegogoCampaign					 $288.50
+	Expenses:Administrative:IndiegogoCampaign	$288.50
 	Assets:Checking
 
 2014/06/23	N0621 6170 PAYMENT PAYPAL *FREEGE SAN JOSE CA POS11047673; $3485.93
-	Expenses:Purchases:ComputerEquipment					 $4.37
+	Expenses:Purchases:ComputerEquipment	$4.37
 	Assets:Checking
 
 2014/06/23	6170 RECURRING DEBIT CARD COMCAST CHICAGO 800-COMCAST IL; $3350.29
-	Expenses:Administrative:InternetService					 $135.64
+	Expenses:Administrative:InternetService	$135.64
 	Assets:Checking
 
 2014/06/24	ACH CREDIT TRANSFER PAYPAL 5GWJ286A2UDHS; $3408.25
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/06/25	ACH CREDIT TRANSFER PAYPAL 5GWJ286CRR5F8; $3476.00
-	Revenue:MemberDues					 -$67.75
+	Revenue:MemberDues	-$67.75
 	Assets:Checking
 
 2014/06/27	ACH CREDIT TRANSFER PAYPAL 5GWJ286HTFXCU; $3524.25
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/06/30	ACH CREDIT TRANSFER PAYPAL 5GWJ286NQ37PW; $3562.79
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2014/07/01	ACH CREDIT TRANSFER PAYPAL 5GWJ286SD3VGN; $3688.42
-	Revenue:MemberDues					 -$125.63
+	Revenue:MemberDues	-$125.63
 	Assets:Checking
 
 2014/07/01	N0630 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $3680.44
-	Expenses:Administrative:IndiegogoCampaign					 $7.98
+	Expenses:Administrative:IndiegogoCampaign	$7.98
 	Assets:Checking
 
 2014/07/02	ACH CREDIT TRANSFER PAYPAL 5GWJ286VDEAK2; $3728.69
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/07/07	DEBIT CARD CREDIT THE HOME DEPOT #1950 CHICAGO IL; $3733.17
-	Expenses:Projects:Buildout					 -$4.48
+	Expenses:Projects:Buildout	-$4.48
 	Assets:Checking
 
 2014/07/07	ACH CREDIT TRANSFER PAYPAL 5GWJ2877DMH3N; $3795.38
-	Revenue:MemberDues					 -$62.21
+	Revenue:MemberDues	-$62.21
 	Assets:Checking
 
 2014/07/07	ACH CREDIT TRANSFER PAYPAL 5GWJ2872YDZSE; $3849.84
-	Revenue:MemberDues					 -$54.46
+	Revenue:MemberDues	-$54.46
 	Assets:Checking
 
 2014/07/07	ACH CREDIT TRANSFER PAYPAL 5GWJ2878ZULAW; $3898.09
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/07/07	ACH CREDIT TRANSFER PAYPAL 5GWJ2875GRQCW; $3907.50
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/07/07	6170 DEBIT CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $3906.62
-	Expenses:Administrative:AmazonWebServices					 $0.88
+	Expenses:Administrative:AmazonWebServices	$0.88
 	Assets:Checking
 
 2014/07/07	4981 DEBIT CARD PURCHASE USPS 16156200429507738 CHICAGO IL; $3901.02
-	Expenses:Administrative:IndiegogoCampaign					 $5.60
+	Expenses:Administrative:IndiegogoCampaign	$5.60
 	Assets:Checking
 
 2014/07/07	4981 DEBIT CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $3876.02
-	Expenses:Projects:Buildout					 $25.00
+	Expenses:Projects:Buildout	$25.00
 	Assets:Checking
 
 2014/07/07	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000001; $3436.68
-	Expenses:Projects:Buildout					 $439.34
+	Expenses:Projects:Buildout	$439.34
 	Assets:Checking
 
 2014/07/07	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000007; $3361.82
-	Expenses:Projects:Buildout					 $74.86
+	Expenses:Projects:Buildout	$74.86
 	Assets:Checking
 
 2014/07/08	ACH CREDIT TRANSFER PAYPAL 5GWJ287ATAJ96; $3371.23
-	Revenue:MemberDues					 -$9.41
+	Revenue:MemberDues	-$9.41
 	Assets:Checking
 
 2014/07/10	CHECK 000; $3361.23
-	Expenses:Administrative:Government					 $10.00
+	Expenses:Administrative:Government	$10.00
 	Assets:Checking
 
 2014/07/11	CHECK 7011; $2161.23
-	Expenses:Administrative:Rent					 $1200.00
+	Expenses:Administrative:Rent	$1200.00
 	Assets:Checking
 
 2014/07/14	ACH CREDIT TRANSFER PAYPAL 5GWJ287RBMMTN; $2335.11
-	Revenue:MemberDues					 -$173.88
+	Revenue:MemberDues	-$173.88
 	Assets:Checking
 
 2014/07/15	ACH CREDIT TRANSFER PAYPAL 5GWJ287T59LLW; $2383.36
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/07/16	ACH CREDIT TRANSFER PAYPAL 5GWJ287VTKZZQ; $2460.74
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/07/17	DEPOSIT; $2670.74
-	Revenue:Cash					 -$210.00
+	Revenue:Cash	-$210.00
 	Assets:Checking
 
 2014/07/21	ACH CREDIT TRANSFER PAYPAL 5GWJ2885NDKP6; $2775.01
-	Revenue:MemberDues					 -$104.27
+	Revenue:MemberDues	-$104.27
 	Assets:Checking
 
 2014/07/21	POS PURCHASE THE HOME DEPOT CHICAGO IL POS00000006; $2699.87
-	Expenses:Projects:Buildout					 $75.14
+	Expenses:Projects:Buildout	$75.14
 	Assets:Checking
 
 2014/07/22	4981 DEBIT CARD PURCHASE WINDY CITY SILKSCREENI 312-8420030 IL; $2460.41
-	Expenses:Administrative:IndiegogoCampaign					 $239.46
+	Expenses:Administrative:IndiegogoCampaign	$239.46
 	Assets:Checking
 
 2014/07/23	ACH CREDIT TRANSFER PAYPAL 5GWJ288E8HNCE; $2537.79
-	Revenue:MemberDues					 -$77.38
+	Revenue:MemberDues	-$77.38
 	Assets:Checking
 
 2014/07/24	ACH CREDIT TRANSFER PAYPAL 5GWJ288GTGATL; $2595.75
-	Revenue:MemberDues					 -$57.96
+	Revenue:MemberDues	-$57.96
 	Assets:Checking
 
 2014/07/25	ACH CREDIT TRANSFER PAYPAL 5GWJ288KC46AW; $2644.00
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/07/25	POS PURCHASE USPS 161562004 CHICAGO IL POS29507799; $2621.10
-	Expenses:Administrative:IndiegogoCampaign					 $22.90
+	Expenses:Administrative:IndiegogoCampaign	$22.90
 	Assets:Checking
 
 2014/07/25	6170 RECURRING DEBIT CARD COMCAST CHICAGO 800-COMCAST IL; $2485.46
-	Expenses:Administrative:InternetService					 $135.64
+	Expenses:Administrative:InternetService	$135.64
 	Assets:Checking
 
 2014/07/28	ACH CREDIT TRANSFER PAYPAL 5GWJ288PZR9D2; $2581.96
-	Revenue:MemberDues					 -$96.50
+	Revenue:MemberDues	-$96.50
 	Assets:Checking
 
 2014/07/28	ACH CREDIT TRANSFER PAYPAL 5GWJ288RNMU3A; $2630.21
-	Revenue:MemberDues					 -$48.25
+	Revenue:MemberDues	-$48.25
 	Assets:Checking
 
 2014/07/29	ACH CREDIT TRANSFER PAYPAL 5GWJ288TGDQVN; $2668.75
-	Revenue:MemberDues					 -$38.54
+	Revenue:MemberDues	-$38.54
 	Assets:Checking
 
 2014/07/31	ACH CREDIT TRANSFER PAYPAL 5GWJ288YNFYXC; $2821.27
-	Revenue:MemberDues					 -$152.52
+	Revenue:MemberDues	-$152.52
 	Assets:Checking
