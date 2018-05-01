@@ -1,12 +1,9 @@
-           $2,062.92  Assets:Checking
-           $1,375.89  Expenses
+          $-4,402.11  Assets:Checking
+           $6,862.68  Expenses
            $1,272.00    Administrative:Rent
-              $71.89    Programming:BirthdayParty
-              $32.00    Supplies
-          $-3,438.81  Revenue
-            $-714.89    Donations
-            $-706.13      HighAltitudeBalloonTeam
-              $-8.76      PayPalGivingFund
-          $-2,723.92    MemberDues
+           $1,025.59    Projects:BackRoomImprovement
+           $4,450.09    Purchases:TableSaw
+             $115.00    Reimbursement:PhilStrong
+          $-2,460.57  Revenue:MemberDues
 --------------------
                    0
