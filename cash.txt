@@ -1,9 +1,10 @@
-          $-4,402.11  Assets:Checking
-           $6,862.68  Expenses
-           $1,272.00    Administrative:Rent
-           $1,025.59    Projects:BackRoomImprovement
-           $4,450.09    Purchases:TableSaw
-             $115.00    Reimbursement:PhilStrong
-          $-2,460.57  Revenue:MemberDues
+             $892.10  Assets:Checking
+           $1,455.16  Expenses
+           $1,437.94    Administrative
+              $10.00      Government
+             $130.49      LastPass
+           $1,297.45      Rent
+              $17.22    Projects:BackRoomImprovement
+          $-2,347.26  Revenue:MemberDues
 --------------------
                    0
