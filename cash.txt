@@ -1,10 +1,13 @@
-             $892.10  Assets:Checking
-           $1,455.16  Expenses
-           $1,437.94    Administrative
-              $10.00      Government
-             $130.49      LastPass
+          $-2,991.61  Assets:Checking
+           $5,484.52  Expenses
+           $3,499.41    Administrative
+           $2,097.00      Insurance
            $1,297.45      Rent
-              $17.22    Projects:BackRoomImprovement
-          $-2,347.26  Revenue:MemberDues
+             $104.96      Supplies
+           $1,292.52    Projects:BackRoomImprovement
+             $692.59    Purchases:CraftsmanToolcart
+          $-2,492.91  Revenue
+             $-15.45    Donations:PayPalGivingFund
+          $-2,477.46    MemberDues
 --------------------
                    0
