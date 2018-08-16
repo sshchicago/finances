@@ -1,0 +1,1233 @@
+2015/08/01 Opening Balance
+	Assets:Checking	$375.35
+	Equity
+
+2015/08/01 Money borrowed for insurance payment
+	Liabilities:JessicaFong	-$321.35 ; Borrowed funds from member
+	Liabilities:ChristopherAgocs	-$250.00 ; Borrowed funds from member
+	Expenses:Administrative:Insurance
+
+2015/08/03	ACH CREDIT 5GWJ28Y66JYZG PAYPAL TRANSFER; $409.03
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2015/08/03	ACH CREDIT 5GWJ28YADR8MG PAYPAL TRANSFER; $418.44
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/08/03	SERVICE CHARGE PERIOD ENDING 07/31/2015; $406.44
+	Expenses:Administrative:BankFee	$12.00
+	Assets:Checking
+
+2015/08/04	ACH CREDIT 5GWJ28YC548QC PAYPAL TRANSFER; $512.65
+	Revenue:MemberDues	-$106.21
+	Assets:Checking
+
+2015/08/05	CORPORATE ACH TRANSFER STRIPE; $570.61
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/08/06	ACH CREDIT 5GWJ28YGZFHMU PAYPAL TRANSFER; $628.27
+	Revenue:MemberDues	-$57.66
+	Assets:Checking
+
+2015/08/07	ACH CREDIT 5GWJ28YKEPH8U PAYPAL TRANSFER; $724.77
+	Revenue:MemberDues	-$96.50
+	Assets:Checking
+
+2015/08/10	CORPORATE ACH TRANSFER STRIPE; $751.66
+	Revenue:MemberDues	-$26.89
+	Assets:Checking
+
+2015/08/10	ACH CREDIT 5GWJ28YMMZ384 PAYPAL TRANSFER; $761.07
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/08/11	CORPORATE ACH TRANSFER STRIPE; $814.85
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2015/08/11	ACH CREDIT 5GWJ28YT7KTZC PAYPAL TRANSFER; $848.53
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2015/08/12	ACH CREDIT 5GWJ28YVXA69S PAYPAL TRANSFER; $882.21
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2015/08/13	CORPORATE ACH TRANSFER STRIPE; $930.46
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/08/14	ACH CREDIT 5GWJ28Z3G9KL8 PAYPAL TRANSFER; $1,056.09
+	Revenue:MemberDues	-$125.63
+	Assets:Checking
+
+2015/08/17	ACH CREDIT 5GWJ28ZA2FZRN PAYPAL TRANSFER; $1,133.47
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/08/19	ACH CREDIT 5GWJ28ZGBNM8L PAYPAL TRANSFER; $1,181.72
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/08/19	CORPORATE ACH TRANSFER STRIPE; $1,208.61
+	Revenue:MemberDues	-$26.89
+	Assets:Checking
+
+2015/08/21	CORPORATE ACH SQUARE INC 150821P2 L200396053484; $1,275.85
+	Revenue:MemberDues	-$67.24
+	Assets:Checking
+
+2015/08/21	CORPORATE ACH SQUARE INC 150821A2 M1134990593; $1,276.34
+	Expenses:Administrative:Square	-$0.49
+	Assets:Checking
+
+2015/08/21	CORPORATE ACH SQUARE INC 150821A2 M1134984289; $1,275.85
+	Expenses:Administrative:Square	$0.49
+	Assets:Checking
+
+2015/08/24	ACH CREDIT 5GWJ28ZR7MGS8 PAYPAL TRANSFER; $1,353.23
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/08/24	ACH CREDIT 5GWJ28ZSS6KNA PAYPAL TRANSFER; $1,411.19
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/08/25	ACH CREDIT 5GWJ28ZUGEHAL PAYPAL TRANSFER; $1,469.15
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/08/27	ATM DEPOSIT 96593375405 E. GRAND AV CHICAGO IL; $2,469.15
+	Expenses:Administrative:Rent	-$1,000.00 ; Mana returns security deposit
+	Assets:Checking
+
+2015/08/27	ACH CREDIT 5GWJ28ZZ8U228 PAYPAL TRANSFER; $2,527.11
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/08/27	CHECK 000 096556485; $1,303.11
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2015/08/28	ACH CREDIT 5GWJ2923JKABJ PAYPAL TRANSFER; $1,351.36
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/08/31	ACH CREDIT 5GWJ2925QESCN PAYPAL TRANSFER; $1,389.90
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2015/08/31	ACH CREDIT 5GWJ2929HWB8E PAYPAL TRANSFER; $1,474.75
+	Revenue:MemberDues	-$84.85
+	Assets:Checking
+
+2015/09/01	SERVICE CHARGE PERIOD ENDING 08/31/2015; $1,462.75
+	Expenses:Administrative:BankFee	$12.00
+	Assets:Checking
+
+2015/09/03	ACH CREDIT 5GWJ292GCF9G4 PAYPAL TRANSFER; $1,472.16
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/09/04	ACH CREDIT 5GWJ292JQ9F8W PAYPAL TRANSFER; $1,578.37
+	Revenue:MemberDues	-$106.21
+	Assets:Checking
+
+2015/09/04	CORPORATE ACH TRANSFER STRIPE; $1,636.33
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/09/08	ACH CREDIT 5GWJ292QX6PAY PAYPAL TRANSFER; $1,732.83
+	Revenue:MemberDues	-$96.50
+	Assets:Checking
+
+2015/09/08	ACH CREDIT 5GWJ292P8YQFL PAYPAL TRANSFER; $1,790.49
+	Revenue:MemberDues	-$57.66
+	Assets:Checking
+
+2015/09/08	ACH CREDIT 5GWJ292SM76AN PAYPAL TRANSFER; $1,799.90
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/09/10	CORPORATE ACH TRANSFER STRIPE; $1,880.57
+	Revenue:MemberDues	-$80.67
+	Assets:Checking
+
+2015/09/11	ACH CREDIT 5GWJ292ZFJ7CC PAYPAL TRANSFER; $1,957.34
+	Revenue:MemberDues	-$76.77
+	Assets:Checking
+
+2015/09/14	CORPORATE ACH TRANSFER STRIPE; $1,984.23
+	Revenue:MemberDues	-$26.89
+	Assets:Checking
+
+2015/09/14	ACH CREDIT 5GWJ2937TXF2A PAYPAL TRANSFER; $2,109.86
+	Revenue:MemberDues	-$125.63
+	Assets:Checking
+
+2015/09/15	CORPORATE ACH TRANSFER STRIPE; $2,158.11
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/09/16	ACH CREDIT 5GWJ293C433U6 PAYPAL TRANSFER; $2,235.49
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/09/17	CORPORATE ACH TRANSFER STRIPE; $2,262.38
+	Revenue:MemberDues	-$26.89
+	Assets:Checking
+
+2015/09/17	ACH WEB-SINGLE SILENTTERMS PAYPAL INST XFER; $2,012.38
+	Liabilities:DanielChan	$256.59 ; Loan repayment to Daniel Chan
+	Revenue:Donations:LoanCancellation	-$6.59 ; Remainder is converted to a donation
+	Assets:Checking
+
+2015/09/21	ACH CREDIT 5GWJ293KCEKFJ PAYPAL TRANSFER; $2,063.45
+	Revenue:MemberDues	-$51.07
+	Assets:Checking
+
+2015/09/23	ACH CREDIT 5GWJ293TLPD5G PAYPAL TRANSFER; $2,140.83
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/09/23	CHECK 000 L090115184; $2,127.83
+	Expenses:Administrative:Government	$13.00 ; Taxes
+	Assets:Checking
+
+2015/09/23	CHECK 7025 074895066; $1,827.83
+	Liabilities:JackTucker	$300.00 ; Loan repayment to Jack Tucker
+	Assets:Checking
+
+2015/09/24	ACH CREDIT 5GWJ293VXH8L6 PAYPAL TRANSFER; $1,885.79
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/09/25	ACH CREDIT 5GWJ293YBEMRE PAYPAL TRANSFER; $1,943.75
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/09/28	ACH CREDIT 5GWJ2944TAH9Y PAYPAL TRANSFER; $2,001.71
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/09/29	ACH CREDIT 5GWJ2948EMW82 PAYPAL TRANSFER; $2,040.25
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2015/10/01	ACH CREDIT 5GWJ294DBLWMY PAYPAL TRANSFER; $2,125.10
+	Revenue:MemberDues	-$84.85
+	Assets:Checking
+
+2015/10/01	CHECK 7026 070280120; $901.10
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2015/10/02	ACH CREDIT 5GWJ294FV2Q5A PAYPAL TRANSFER; $959.06
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/10/05	ACH CREDIT 5GWJ294JDK472 PAYPAL TRANSFER; $968.47
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/10/05	ACH CREDIT 5GWJ294LPQTSJ PAYPAL TRANSFER; $1,074.68
+	Revenue:MemberDues	-$106.21
+	Assets:Checking
+
+2015/10/06	CORPORATE ACH TRANSFER STRIPE; $1,132.64
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/10/06	ACH CREDIT 5GWJ294QJTQXY PAYPAL TRANSFER; $1,190.30
+	Revenue:MemberDues	-$57.66
+	Assets:Checking
+
+2015/10/06	CHECK 000 L090681372; $940.30
+	Liabilities:ChristopherSwingler	$250.00 ; Loan repayment to Chris Swingler
+	Assets:Checking
+
+2015/10/07	ACH CREDIT 5GWJ294T6ZG4A PAYPAL TRANSFER; $1,036.80
+	Revenue:MemberDues	-$96.50
+	Assets:Checking
+
+2015/10/08	CORPORATE ACH TRANSFER STRIPE; $1,063.69
+	Revenue:MemberDues	-$26.89
+	Assets:Checking
+
+2015/10/08	ACH CREDIT 5GWJ294VMJU5S PAYPAL TRANSFER; $1,073.10
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/10/09	ATM DEPOSIT 96707579405 E. GRAND AV CHICAGO IL; $1,173.10
+	Revenue:Donations:ACM	-$100.00 ; Possibly from Association for Computing Machinery
+	Assets:Checking
+
+2015/10/09	CORPORATE ACH TRANSFER STRIPE; $1,226.88
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2015/10/13	ACH CREDIT 5GWJ2954RH3W6 PAYPAL TRANSFER; $1,303.65
+	Revenue:MemberDues	-$76.77
+	Assets:Checking
+
+2015/10/14	ACH CREDIT 5GWJ295AWE4PN PAYPAL TRANSFER; $1,429.28
+	Revenue:MemberDues	-$125.63
+	Assets:Checking
+
+2015/10/14	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,428.35
+	Expenses:Administrative:AmazonWebServices	$0.93
+	Assets:Checking
+
+2015/10/15	CORPORATE ACH TRANSFER STRIPE; $1,476.60
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/10/16	ACH CREDIT 5GWJ295FP9TLG PAYPAL TRANSFER; $1,611.94
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2015/10/19	ACH CREDIT 5GWJ295NCJSAQ PAYPAL TRANSFER; $1,621.35
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/10/23	ACH CREDIT 5GWJ295XVV7Y8 PAYPAL TRANSFER; $1,698.73
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/10/23	CORPORATE ACH SQUARE INC 151023P2 L200422647261; $1,732.77
+	Revenue:MemberDues	-$34.04
+	Assets:Checking
+
+2015/10/26	ATM DEPOSIT 95086208405 E. GRAND AV CHICAGO IL; $1,912.77
+	Revenue:MemberDues	-$180.00
+	Assets:Checking
+
+2015/10/26	ACH CREDIT 5GWJ2962968XL PAYPAL TRANSFER; $1,970.73
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/10/26	ACH CREDIT 5GWJ2964HDEXA PAYPAL TRANSFER; $2,028.69
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/10/27	ACH CREDIT 5GWJ29684RVNE PAYPAL TRANSFER; $2,086.65
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/10/29	ACH CREDIT 5GWJ296CYEAYY PAYPAL TRANSFER; $2,125.19
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2015/11/02	ACH CREDIT 5GWJ296HJ3MZL PAYPAL TRANSFER; $2,210.04
+	Revenue:MemberDues	-$84.85
+	Assets:Checking
+
+2015/11/02	ACH CREDIT 5GWJ296KRMD5S PAYPAL TRANSFER; $2,268.00
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/11/02	SERVICE CHARGE PERIOD ENDING 10/30/2015; $2,256.00
+	Expenses:Administrative:BankFee	$12.00
+	Assets:Checking
+
+2015/11/03	CHECK 7027 072321223; $1,032.00
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2015/11/04	ACH CREDIT 5GWJ296S24HMA PAYPAL TRANSFER; $1,256.17
+	Revenue:MemberDues	-$224.17
+	Assets:Checking
+
+2015/11/04	CORPORATE ACH TRANSFER STRIPE; $1,314.13
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/11/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,288.14
+	Expenses:Administrative:AmazonWebServices	$25.99
+	Assets:Checking
+
+2015/11/06	ACH CREDIT 5GWJ296WXXCHA PAYPAL TRANSFER; $1,403.76
+	Revenue:MemberDues	-$115.62
+	Assets:Checking
+
+2015/11/09	ATM DEPOSIT 95763648405 E. GRAND AV CHICAGO IL; $1,438.76
+	Revenue:MemberDues	-$35.00
+	Assets:Checking
+
+2015/11/09	ACH CREDIT 5GWJ296ZB9KCU PAYPAL TRANSFER; $1,487.01
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/11/09	ACH CREDIT 5GWJ2973PBJD4 PAYPAL TRANSFER; $1,496.42
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/11/10	CORPORATE ACH TRANSFER STRIPE; $1,550.20
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2015/11/10	DEBIT CARD PURCHASE STICKER MULE 800-9759465 NY; $1,475.20
+	Expenses:Administrative:Advertising	$75.00 ; Logo stickers
+	Assets:Checking
+
+2015/11/12	ACH CREDIT 5GWJ297A83ZZ2 PAYPAL TRANSFER; $1,551.97
+	Revenue:MemberDues	-$76.77
+	Assets:Checking
+
+2015/11/12	CORPORATE ACH TRANSFER STRIPE; $1,578.86
+	Revenue:MemberDues	-$26.89
+	Assets:Checking
+
+2015/11/16	ACH CREDIT 5GWJ297HHXKCN PAYPAL TRANSFER; $1,656.24
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/11/16	CORPORATE ACH TRANSFER STRIPE; $1,704.49
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/11/16	ACH CREDIT 5GWJ297MSAPTW PAYPAL TRANSFER; $1,839.83
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2015/11/16	CHECK 7028 072237907; $1,739.83
+	Expenses:Administrative:Reimbursement	$100.00 ; Money to Joe Budka
+	Assets:Checking
+
+2015/11/17	ACH CREDIT 5GWJ297PTD9RQ PAYPAL TRANSFER; $1,773.51
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2015/11/19	ACH CREDIT 5GWJ297V45F8N PAYPAL TRANSFER; $1,782.92
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/11/19	POS PURCHASE USPS 161562955 CHICAGO IL POS19501099; $1,776.97
+	Expenses:Administrative:Shipping	$5.95
+	Assets:Checking
+
+2015/11/23	ACH CREDIT 5GWJ29823EUJJ PAYPAL TRANSFER; $1,802.97
+	Revenue:MemberDues	-$26.00
+	Assets:Checking
+
+2015/11/23	ACH CREDIT 5GWJ2986ECU6C PAYPAL TRANSFER; $1,880.35
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/11/24	ACH CREDIT 5GWJ2988GFEUC PAYPAL TRANSFER; $1,938.31
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/11/25	ACH CREDIT 5GWJ298B9MM6C PAYPAL TRANSFER; $1,996.27
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/11/27	ACH CREDIT 5GWJ298GK7BK2 PAYPAL TRANSFER; $2,112.19
+	Revenue:MemberDues	-$115.92
+	Assets:Checking
+
+2015/11/30	DEPOSIT; $2,117.19
+	Revenue:Cash	-$5.00
+	Assets:Checking
+
+2015/11/30	ACH CREDIT 5GWJ298N7N3PY PAYPAL TRANSFER; $2,155.73
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2015/11/30	WITHDRAWAL; $926.73
+	Expenses:Administrative:Rent	$1,229.00 ; The bank lady waived the cashiers check fee
+	Assets:Checking
+
+2015/12/01	ACH CREDIT 5GWJ298TB63NJ PAYPAL TRANSFER; $1,011.58
+	Revenue:MemberDues	-$84.85
+	Assets:Checking
+
+2015/12/02	ACH CREDIT 5GWJ298X852US PAYPAL TRANSFER; $1,095.54
+	Revenue:MemberDues	-$83.96
+	Assets:Checking
+
+2015/12/02	POS PURCHASE USPS 161592016 CHICAGO IL POS29501798; $1,089.59
+	Expenses:Administrative:Shipping	$5.95
+	Assets:Checking
+
+2015/12/04	ACH CREDIT 5GWJ29963BY74 PAYPAL TRANSFER; $1,253.76
+	Revenue:MemberDues	-$164.17
+	Assets:Checking
+
+2015/12/04	CORPORATE ACH TRANSFER STRIPE; $1,311.72
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/12/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,286.75
+	Expenses:Administrative:AmazonWebServices	$24.97
+	Assets:Checking
+
+2015/12/07	ACH CREDIT 5GWJ299C89QSC PAYPAL TRANSFER; $1,354.12
+	Revenue:MemberDues	-$67.37
+	Assets:Checking
+
+2015/12/07	ACH CREDIT 5GWJ299EKVGXN PAYPAL TRANSFER; $1,402.37
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/12/08	ACH CREDIT 5GWJ299H2BYES PAYPAL TRANSFER; $1,411.78
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2015/12/09	CORPORATE ACH TRANSFER STRIPE; $1,465.56
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2015/12/11	ACH CREDIT 5GWJ299SM92QN PAYPAL TRANSFER; $1,508.65
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2015/12/14	ACH CREDIT 5GWJ29A2YHBZL PAYPAL TRANSFER; $1,619.71
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2015/12/15	CORPORATE ACH TRANSFER STRIPE; $1,667.96
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2015/12/16	ACH CREDIT 5GWJ29A8T6GJE PAYPAL TRANSFER; $1,803.30
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2015/12/17	ACH CREDIT 5GWJ29ABZQ5X2 PAYPAL TRANSFER; $1,870.66
+	Revenue:MemberDues	-$67.36
+	Assets:Checking
+
+2015/12/18	CORPORATE ACH SQUARE INC 151218P2 L20286709500; $1,971.83
+	Revenue:MemberDues	-$101.17
+	Assets:Checking
+
+2015/12/21	ACH CREDIT 5GWJ29AP9G9QA PAYPAL TRANSFER; $2,087.75
+	Revenue:MemberDues	-$115.92
+	Assets:Checking
+
+2015/12/23	ACH CREDIT 5GWJ29AUBPLUL PAYPAL TRANSFER; $2,165.13
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2015/12/24	ACH CREDIT 5GWJ29AWXGWP4 PAYPAL TRANSFER; $2,223.09
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/12/28	ACH CREDIT 5GWJ29AZGBZ7C PAYPAL TRANSFER; $2,281.05
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/12/28	ACH CREDIT 5GWJ29B5238KY PAYPAL TRANSFER; $2,339.01
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2015/12/29	ACH CREDIT 5GWJ29B8T9SBG PAYPAL TRANSFER; $2,377.55
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2015/12/30	ATM DEPOSIT 89319758405 E. GRAND AV CHICAGO IL; $2,457.55
+	Revenue:MemberDues	-$80.00
+	Assets:Checking
+
+2015/12/30	ATM DEPOSIT 89319749405 E. GRAND AV CHICAGO IL; $2,517.55
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2015/12/31	ACH CREDIT 5GWJ29BE2S4NS PAYPAL TRANSFER; $2,575.51
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/04	ACH CREDIT 5GWJ29BGR9BRL PAYPAL TRANSFER; $2,633.47
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/04	ACH CREDIT 5GWJ29BNVF2E2 PAYPAL TRANSFER; $2,797.64
+	Revenue:MemberDues	-$164.17
+	Assets:Checking
+
+2016/01/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $2,772.72
+	Expenses:Administrative:AmazonWebServices	$24.92
+	Assets:Checking
+
+2016/01/06	ACH CREDIT 5GWJ29BTND24G PAYPAL TRANSFER; $2,840.09
+	Revenue:MemberDues	-$67.37
+	Assets:Checking
+
+2016/01/06	CORPORATE ACH TRANSFER STRIPE; $2,898.05
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/07	ACH CREDIT 5GWJ29BW94TS2 PAYPAL TRANSFER; $2,946.30
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/01/07	CORPORATE ACH IPFSPMTMOK IPFS866-412-2561 566567; $2,625.19
+	Expenses:Administrative:Insurance	$321.11
+	Assets:Checking
+
+2016/01/08	ACH CREDIT 5GWJ29BYWX2KS PAYPAL TRANSFER; $2,634.60
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/01/11	CORPORATE ACH TRANSFER STRIPE; $2,688.38
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2016/01/11	ACH CREDIT 5GWJ29C7NT7PG PAYPAL TRANSFER; $2,731.47
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2016/01/11	CHECK 7029 074576124; $1,507.47
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2016/01/13	CORPORATE ACH TRANSFER STRIPE; $1,555.72
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/01/14	ACH CREDIT 5GWJ29CEQE93A PAYPAL TRANSFER; $1,666.78
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/01/19	ACH CREDIT 5GWJ29CKKTZAU PAYPAL TRANSFER; $1,802.12
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2016/01/19	ACH CREDIT 5GWJ29CMZCA7N PAYPAL TRANSFER; $1,835.80
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/01/19	DEBIT CARD PURCHASE IL WEB CORP REG AGENT 217-7824696 IL; $1,803.80
+	Expenses:Administrative:Government	$32.00 ; Secretary of State
+	Assets:Checking
+
+2016/01/21
+	Liabilities:DmitriyVysotskiy	-$45.00 ; Borrow money from member
+	Expenses:Administrative:Government ; IL Attorney General Charitable Trust Fund filing fees
+
+2016/01/21	ACH CREDIT 5GWJ29CWRY3TW PAYPAL TRANSFER; $1,861.76
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/22	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,849.76
+	Expenses:Administrative:AmazonWebServices	$12.00
+	Assets:Checking
+
+2016/01/25	ACH CREDIT 5GWJ29D3PPZL6 PAYPAL TRANSFER; $1,927.14
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2016/01/25	ACH CREDIT 5GWJ29D5ZAA2U PAYPAL TRANSFER; $1,985.10
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/25	ACH CREDIT 5GWJ29D7S53XU PAYPAL TRANSFER; $2,043.06
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/26	CORPORATE ACH TRANSFER STRIPE; $2,049.25
+	Revenue:MemberDues	-$6.19
+	Assets:Checking
+
+2016/01/27	ACH CREDIT 5GWJ29DC8HUSU PAYPAL TRANSFER; $2,107.21
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/01/29	ACH CREDIT 5GWJ29DH3LS6W PAYPAL TRANSFER; $2,145.75
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2016/02/01	ACH CREDIT 5GWJ29DPPJ5SU PAYPAL TRANSFER; $2,203.71
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/02/01	CHECK 7031 072309592; $979.71
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2016/02/03	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $954.91
+	Expenses:Administrative:AmazonWebServices	$24.80
+	Assets:Checking
+
+2016/02/04	ACH CREDIT 5GWJ29DWUQUUN PAYPAL TRANSFER; $1,119.08
+	Revenue:MemberDues	-$164.17
+	Assets:Checking
+
+2016/02/04	CORPORATE ACH TRANSFER STRIPE; $1,177.04
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/02/08	ACH CREDIT 5GWJ29E3TLA9L PAYPAL TRANSFER; $1,302.37
+	Revenue:MemberDues	-$125.33
+	Assets:Checking
+
+2016/02/08	ACH CREDIT 5GWJ29E67VYQ4 PAYPAL TRANSFER; $1,350.62
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/02/08	ACH CREDIT 5GWJ29E82B8PJ PAYPAL TRANSFER; $1,360.03
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/02/10	ATM DEPOSIT 890935523340 W ROOSEVEL CHICAGO IL; $1,540.03
+	Revenue:MemberDues	-$180.00
+	Assets:Checking
+
+2016/02/10	CORPORATE ACH TRANSFER STRIPE; $1,593.81
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2016/02/11	ACH CREDIT 5GWJ29EESP6TY PAYPAL TRANSFER; $1,636.90
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2016/02/12	CORPORATE ACH AMZNIKIGBHNW Q2WQOV21LMVIFWC AMAZONSMIL; $1,652.85
+	Revenue:Donations:AmazonSmile	-$15.95
+	Assets:Checking
+
+2016/02/12	ACH CREDIT 5GWJ29EH96LBG PAYPAL TRANSFER; $1,662.26
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/02/16	CORPORATE ACH TRANSFER STRIPE; $1,710.51
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/02/16	ACH CREDIT 5GWJ29ERH4FKQ PAYPAL TRANSFER; $1,845.85
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2016/02/16	ACH CREDIT 5GWJ29EMV25CN PAYPAL TRANSFER; $1,956.91
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/02/17	ACH CREDIT 5GWJ29ETWVS6L PAYPAL TRANSFER; $1,990.59
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/02/18	ACH CREDIT 5GWJ29EWA2C42 PAYPAL TRANSFER; $2,058.26
+	Revenue:MemberDues	-$67.67
+	Assets:Checking
+
+2016/02/22	ACH CREDIT 5GWJ29F56QYTW PAYPAL TRANSFER; $2,116.22
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/02/23	ACH CREDIT 5GWJ29F8PHLRY PAYPAL TRANSFER; $2,193.60
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2016/02/24	ACH CREDIT 5GWJ29FB8639S PAYPAL TRANSFER; $2,251.56
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/02/25	ACH CREDIT 5GWJ29FDHVPLE PAYPAL TRANSFER; $2,309.52
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/02/26	ACH CREDIT 5GWJ29FFVKZTC PAYPAL TRANSFER; $2,425.74
+	Revenue:MemberDues	-$116.22
+	Assets:Checking
+
+2016/02/29	ACH CREDIT 5GWJ29FJ5SC3A PAYPAL TRANSFER; $2,483.70
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/02/29	ACH CREDIT 5GWJ29FN8HHK6 PAYPAL TRANSFER; $2,522.24
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2016/03/02	ACH CREDIT 5GWJ29FSUZKTA PAYPAL TRANSFER; $2,580.20
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/03/02	CHECK 7032 070448078; $1,356.20
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2016/03/04	ACH CREDIT 5GWJ29FY2LXVN PAYPAL TRANSFER; $1,529.78
+	Revenue:MemberDues	-$173.58
+	Assets:Checking
+
+2016/03/04	CORPORATE ACH TRANSFER STRIPE; $1,587.74
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/03/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,562.85
+	Expenses:Administrative:AmazonWebServices	$24.89
+	Assets:Checking
+
+2016/03/07	ACH CREDIT 5GWJ29G4QT48A PAYPAL TRANSFER; $1,688.18
+	Revenue:MemberDues	-$125.33
+	Assets:Checking
+
+2016/03/08	ACH CREDIT 5GWJ29G6KHS5A PAYPAL TRANSFER; $1,736.43
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/03/09	CORPORATE ACH TRANSFER STRIPE; $1,790.21
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2016/03/09	ACH CREDIT 5GWJ29G8GD3PC PAYPAL TRANSFER; $1,799.62
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/03/11	ACH CREDIT 5GWJ29GFWGTUY PAYPAL TRANSFER; $1,842.71
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2016/03/14	ACH CREDIT 5GWJ29GJ9ANH8 PAYPAL TRANSFER; $1,852.12
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/03/14	ACH CREDIT 5GWJ29GN9KMMW PAYPAL TRANSFER; $1,963.18
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/03/15	CORPORATE ACH TRANSFER STRIPE; $2,011.43
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/03/16	ACH CREDIT 5GWJ29GSM945G PAYPAL TRANSFER; $2,146.77
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2016/03/17	ACH CREDIT 5GWJ29GV36F9G PAYPAL TRANSFER; $2,180.45
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/03/17	CHECK PRINTING FEE; $2,160.46
+	Expenses:Administrative:BankFee	$19.99
+	Assets:Checking
+
+2016/03/21	ACH CREDIT 5GWJ29H5RP2CJ PAYPAL TRANSFER; $2,218.42
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/03/23	ACH CREDIT 5GWJ29HA7KUSS PAYPAL TRANSFER; $2,295.80
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2016/03/24	ACH CREDIT 5GWJ29HCL6GNQ PAYPAL TRANSFER; $2,353.76
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/03/25	ACH CREDIT 5GWJ29HEZQWHQ PAYPAL TRANSFER; $2,411.72
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/03/28	ACH CREDIT 5GWJ29HKJCLK4 PAYPAL TRANSFER; $2,469.68
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/03/29	ACH CREDIT 5GWJ29HNV8WRL PAYPAL TRANSFER; $2,508.22
+	Revenue:MemberDues	-$38.54
+	Assets:Checking
+
+2016/04/01	ACH CREDIT 5GWJ29HW7DDEQ PAYPAL TRANSFER; $2,566.18
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/04	ATM DEPOSIT 896914145727 W TOUHY NILES IL; $2,626.18
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2016/04/04	ACH CREDIT 5GWJ29J56CDCU PAYPAL TRANSFER; $2,809.47
+	Revenue:MemberDues	-$183.29
+	Assets:Checking
+
+2016/04/04	CHECK 101 089470674; $2,709.47
+	Liabilities:JessicaFong	$100.00 ; Loan repayment to Jessica Fong
+	Assets:Checking
+
+2016/04/04	CHECK 7033 071644649; $1,485.47
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2016/04/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,459.14
+	Expenses:Administrative:AmazonWebServices	$26.33
+	Assets:Checking
+
+2016/04/06	ACH CREDIT 5GWJ29J9UA8EQ PAYPAL TRANSFER; $1,584.47
+	Revenue:MemberDues	-$125.33
+	Assets:Checking
+
+2016/04/06	CORPORATE ACH TRANSFER STRIPE; $1,642.43
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/07	ACH CREDIT 5GWJ29JCFNJ7U PAYPAL TRANSFER; $1,690.68
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/04/08	ACH CREDIT 5GWJ29JEWVGS8 PAYPAL TRANSFER; $1,700.09
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/04/11	CORPORATE ACH TRANSFER STRIPE; $1,753.87
+	Revenue:MemberDues	-$53.78
+	Assets:Checking
+
+2016/04/11	ACH CREDIT 5GWJ29JMEZJZG PAYPAL TRANSFER; $1,796.96
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2016/04/12	ACH CREDIT 5GWJ29JP8YGYS PAYPAL TRANSFER; $1,806.37
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/04/13	CORPORATE ACH TRANSFER STRIPE; $1,854.62
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/04/14	ACH CREDIT 5GWJ29JU68P8Q PAYPAL TRANSFER; $1,965.68
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/04/15	ACH CREDIT 5GWJ29JWKP6VE PAYPAL TRANSFER; $1,975.09
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/04/18	ACH CREDIT 5GWJ29JYTSTD4 PAYPAL TRANSFER; $2,110.43
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2016/04/18	ACH CREDIT 5GWJ29K33VTHG PAYPAL TRANSFER; $2,144.11
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/04/20	ACH CREDIT 5GWJ29K93URZW PAYPAL TRANSFER; $2,202.07
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/21	ACH CREDIT 5GWJ29KBBBMHU PAYPAL TRANSFER; $2,260.03
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/25	ATM DEPOSIT 95093326720 E. DUNDEE R PALATINE IL; $2,320.03
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2016/04/25	ACH CREDIT 5GWJ29KFR89X8 PAYPAL TRANSFER; $2,532.44
+	Revenue:MemberDues	-$212.41
+	Assets:Checking
+
+2016/04/25	ACH CREDIT 5GWJ29KHSRS64 PAYPAL TRANSFER; $2,590.40
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/25	ACH CREDIT 5GWJ29KKBP69Q PAYPAL TRANSFER; $2,648.36
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/26	ACH CREDIT 5GWJ29KLY2KJY PAYPAL TRANSFER; $2,682.04
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/04/27	ACH CREDIT 5GWJ29KPB9ZW6 PAYPAL TRANSFER; $2,740.00
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/04/29	ACH CREDIT 5GWJ29KTS75Q8 PAYPAL TRANSFER; $2,869.88
+	Revenue:MemberDues	-$129.88
+	Assets:Checking
+
+2016/05/02	ACH CREDIT 5GWJ29KVYYKZY PAYPAL TRANSFER; $2,903.56
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/05/02	ACH CREDIT 5GWJ29L2AHPEW PAYPAL TRANSFER; $2,961.52
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/04	ACH CREDIT 5GWJ29L6XR59Q PAYPAL TRANSFER; $3,067.73
+	Revenue:MemberDues	-$106.21
+	Assets:Checking
+
+2016/05/04	CORPORATE ACH TRANSFER STRIPE; $3,125.69
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $3,099.96
+	Expenses:Administrative:AmazonWebServices	$25.73
+	Assets:Checking
+
+2016/05/06	ACH CREDIT 5GWJ29LC7BU7Y PAYPAL TRANSFER; $3,234.70
+	Revenue:MemberDues	-$134.74
+	Assets:Checking
+
+2016/05/06	CORPORATE ACH SQUARE INC 160506P2 L202120516756; $3,268.74
+	Revenue:MemberDues	-$34.04
+	Assets:Checking
+
+2016/05/09	ACH CREDIT 5GWJ29LELFG5J PAYPAL TRANSFER; $3,316.99
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/05/09	ACH CREDIT 5GWJ29LH3LZJW PAYPAL TRANSFER; $3,326.40
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/05/09	CHECK 102 089353616; $2,102.40
+	Expenses:Administrative:Rent	$1,224.00
+	Assets:Checking
+
+2016/05/11	ACH CREDIT 5GWJ29LPBE8LL PAYPAL TRANSFER; $2,145.49
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2016/05/12	ACH CREDIT 5GWJ29LRUUYWW PAYPAL TRANSFER; $2,154.90
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/05/16	ACH CREDIT 5GWJ29LWQQRUU PAYPAL TRANSFER; $2,265.96
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/05/16	ACH CREDIT 5GWJ29M2X55SY PAYPAL TRANSFER; $2,401.30
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2016/05/16	ACH CREDIT 5GWJ29LZ6KEUC PAYPAL TRANSFER; $2,410.71
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/05/17	ACH CREDIT 5GWJ29M4SJB4U PAYPAL TRANSFER; $2,444.39
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/05/18	ACH CREDIT 5GWJ29M7DTK74 PAYPAL TRANSFER; $2,560.31
+	Revenue:MemberDues	-$115.92
+	Assets:Checking
+
+2016/05/19	CORPORATE ACH AMZNIO44J1A3 BWUXF5DXEJDLPQR AMAZONSMIL; $2,585.11
+	Revenue:Donations:AmazonSmile	-$24.80
+	Assets:Checking
+
+2016/05/20	ACH CREDIT 5GWJ29MCCGZAJ PAYPAL TRANSFER; $2,643.07
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/23	ACH CREDIT 5GWJ29MEQUMAL PAYPAL TRANSFER; $2,701.03
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/23	ACH CREDIT 5GWJ29MJVJT6E PAYPAL TRANSFER; $2,845.77
+	Revenue:MemberDues	-$144.74
+	Assets:Checking
+
+2016/05/23	CHECK 103 090591234; $2,545.77
+	Expenses:Administrative:Government	$300.00 ; IL Attorney General Charitable Trust Fund filing fees
+	Assets:Checking
+
+2016/05/24	ACH CREDIT 5GWJ29MLPQ9QA PAYPAL TRANSFER; $2,603.73
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/25	ACH CREDIT 5GWJ29MPBLJCQ PAYPAL TRANSFER; $2,661.69
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/26	ACH CREDIT 5GWJ29MRLNQH4 PAYPAL TRANSFER; $2,695.37
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/05/27	ACH CREDIT 5GWJ29MTVCVML PAYPAL TRANSFER; $2,753.33
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/05/31	ACH CREDIT 5GWJ29MXVW6TW PAYPAL TRANSFER; $2,917.19
+	Revenue:MemberDues	-$163.86
+	Assets:Checking
+
+2016/05/31	CHECK 7034 071211806; $1,669.19
+	Expenses:Administrative:Rent	$1,248.00
+	Assets:Checking
+
+2016/06/01	ACH CREDIT 5GWJ29N4M3HH4 PAYPAL TRANSFER; $1,727.15
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/06/02	CHECK 104 096430739; $1,627.15
+	Liabilities:JessicaFong	$100.00 ; Loan repayment to Jessica Fong
+	Assets:Checking
+
+2016/06/03	ACH CREDIT 5GWJ29N9EYAPS PAYPAL TRANSFER; $1,660.83
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/06/06	ACH CREDIT 5GWJ29NBSWEN8 PAYPAL TRANSFER; $1,718.79
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/06/06	ACH CREDIT 5GWJ29NFJU33J PAYPAL TRANSFER; $1,795.57
+	Revenue:MemberDues	-$76.78
+	Assets:Checking
+
+2016/06/06	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,769.00
+	Expenses:Administrative:AmazonWebServices	$26.57
+	Assets:Checking
+
+2016/06/07	ACH CREDIT 5GWJ29NH7SUG8 PAYPAL TRANSFER; $1,817.25
+	Revenue:MemberDues	-$48.25
+	Assets:Checking
+
+2016/06/07	CHECK 105 096388544; $1,807.25
+	Expenses:Administrative:Government	$10.00 ; Secretary of State
+	Assets:Checking
+
+2016/06/08	ACH CREDIT 5GWJ29NKM4S38 PAYPAL TRANSFER; $1,850.34
+	Revenue:MemberDues	-$43.09
+	Assets:Checking
+
+2016/06/13	ACH CREDIT 5GWJ29NS8XPYQ PAYPAL TRANSFER; $1,884.02
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/06/13	ACH CREDIT 5GWJ29NUAB3VS PAYPAL TRANSFER; $1,893.43
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/06/14	ACH CREDIT 5GWJ29NXDK28L PAYPAL TRANSFER; $2,004.49
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/06/15	ACH CREDIT 5GWJ29NZQXJGN PAYPAL TRANSFER; $2,013.90
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/06/16	ACH CREDIT 5GWJ29P3W4VAY PAYPAL TRANSFER; $2,207.20
+	Revenue:MemberDues	-$193.30
+	Assets:Checking
+
+2016/06/17	ACH CREDIT 5GWJ29P64HXV8 PAYPAL TRANSFER; $2,298.84
+	Revenue:MemberDues	-$91.64
+	Assets:Checking
+
+2016/06/20	ACH CREDIT 5GWJ29P86CD5Q PAYPAL TRANSFER; $2,414.76
+	Revenue:MemberDues	-$115.92
+	Assets:Checking
+
+2016/06/21	ACH CREDIT 5GWJ29PCYC848 PAYPAL TRANSFER; $2,472.72
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/06/23	ACH CREDIT 5GWJ29PH9A4BQ PAYPAL TRANSFER; $2,583.78
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/06/24	ACH CREDIT 5GWJ29PKC9X5J PAYPAL TRANSFER; $2,641.74
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/06/27	ACH CREDIT 5GWJ29PMAPS8U PAYPAL TRANSFER; $2,699.70
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/06/27	ACH CREDIT 5GWJ29PQLWTC8 PAYPAL TRANSFER; $2,757.66
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/06/27	ACH CREDIT 5GWJ29PP8AD92 PAYPAL TRANSFER; $2,791.34
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/06/29	ATM DEPOSIT 904573903340 W ROOSEVEL CHICAGO IL; $2,911.34
+	Revenue:MemberDues	-$120.00
+	Assets:Checking
+
+2016/06/29	ACH CREDIT 5GWJ29PUAFZKS PAYPAL TRANSFER; $3,075.20
+	Revenue:MemberDues	-$163.86
+	Assets:Checking
+
+2016/07/01	CHECK 7035 072222945; $1,827.20
+	Expenses:Administrative:Rent	$1,248.00
+	Assets:Checking
+
+2016/07/05	ACH CREDIT 5GWJ29Q2N4MUS PAYPAL TRANSFER; $1,885.16
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/07/05	ACH CREDIT 5GWJ29Q69XYL4 PAYPAL TRANSFER; $1,976.80
+	Revenue:MemberDues	-$91.64
+	Assets:Checking
+
+2016/07/05	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,950.84
+	Expenses:Administrative:AmazonWebServices	$25.96
+	Assets:Checking
+
+2016/07/06	ACH CREDIT 5GWJ29Q9M2XJ4 PAYPAL TRANSFER; $2,085.58
+	Revenue:MemberDues	-$134.74
+	Assets:Checking
+
+2016/07/07	ACH CREDIT 5GWJ29QBRKE88 PAYPAL TRANSFER; $2,167.51
+	Revenue:MemberDues	-$81.93
+	Assets:Checking
+
+2016/07/08	ACH CREDIT 5GWJ29QDUF9KA PAYPAL TRANSFER; $2,176.92
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/07/11	ACH CREDIT 5GWJ29QKGHZBJ PAYPAL TRANSFER; $2,210.60
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/07/12	ACH CREDIT 5GWJ29QLYPNT2 PAYPAL TRANSFER; $2,220.01
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/07/14	ACH CREDIT 5GWJ29QR5XDHG PAYPAL TRANSFER; $2,331.07
+	Revenue:MemberDues	-$111.06
+	Assets:Checking
+
+2016/07/15	ACH CREDIT 5GWJ29QT67NXW PAYPAL TRANSFER; $2,340.48
+	Revenue:MemberDues	-$9.41
+	Assets:Checking
+
+2016/07/18	ACH CREDIT 5GWJ29QV39QLQ PAYPAL TRANSFER; $2,475.82
+	Revenue:MemberDues	-$135.34
+	Assets:Checking
+
+2016/07/18	ACH CREDIT 5GWJ29QYBBQWC PAYPAL TRANSFER; $2,591.74
+	Revenue:MemberDues	-$115.92
+	Assets:Checking
+
+2016/07/18	ACH CREDIT 5GWJ29QWYFPJY PAYPAL TRANSFER; $2,683.38
+	Revenue:MemberDues	-$91.64
+	Assets:Checking
+
+2016/07/21	ACH CREDIT 5GWJ29R5MSB46 PAYPAL TRANSFER; $2,799.30
+	Revenue:MemberDues	-$115.92
+	Assets:Checking
+
+2016/07/25	ACH CREDIT 5GWJ29R9G3T6W PAYPAL TRANSFER; $2,876.68
+	Revenue:MemberDues	-$77.38
+	Assets:Checking
+
+2016/07/25	ACH CREDIT 5GWJ29RBALQPJ PAYPAL TRANSFER; $2,934.64
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/07/25	ACH CREDIT 5GWJ29RCMNMG8 PAYPAL TRANSFER; $2,992.60
+	Revenue:MemberDues	-$57.96
+	Assets:Checking
+
+2016/07/26	ACH CREDIT 5GWJ29RE2LFLL PAYPAL TRANSFER; $3,026.28
+	Revenue:MemberDues	-$33.68
+	Assets:Checking
+
+2016/07/27	ACH CREDIT 5GWJ29RG52XPG PAYPAL TRANSFER; $3,125.94
+	Revenue:MemberDues	-$99.66
+	Assets:Checking
+
+2016/07/29	ACH CREDIT 5GWJ29RKZPAPG PAYPAL TRANSFER; $3,289.80
+	Revenue:MemberDues	-$163.86
+	Assets:Checking
+
+2016/07/29	CHECK 7036 076518171; $2,041.80
+	Expenses:Administrative:Rent	$1,248.00
+	Assets:Checking
