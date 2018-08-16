@@ -1,5 +1,9 @@
 2015/08/01 Opening Balance
 	Assets:Checking	$375.35
+	Liabilities:ChristopherSwingler	-$300.00
+	Liabilities:DanielChan	-$256.59
+	Liabilities:JackTucker	-$300.00
+	Liabilities:RyanAttard	-$300.00
 	Equity
 
 2015/08/01 Money borrowed for insurance payment
@@ -605,7 +609,7 @@
 	Assets:Checking
 
 2016/01/21
-	Liabilities:DmitriyVysotskiy	-$45.00 ; Borrow money from member
+	Liabilities:DmitriyVysotskiy	-$45.00 ; Borrowed money from member
 	Expenses:Administrative:Government ; IL Attorney General Charitable Trust Fund filing fees
 
 2016/01/21	ACH CREDIT 5GWJ29CWRY3TW PAYPAL TRANSFER; $1,861.76
