@@ -1,0 +1,174 @@
+2018/08/01	Opening Balance
+	Assets:Checking	$9,384.07
+	Equity
+
+2018/08/01	ACH CREDIT 5GWJ2AJSR3FK8 PAYPAL TRANSFER; $9,476.38
+	Revenue:MemberDues	-$92.31
+	Assets:Checking
+
+2018/08/01	SERVICE CHARGE PERIOD ENDING 07/31/2018; $9,443.38
+	Expenses:Administrative:BankFee	$33.00
+	Assets:Checking
+
+2018/08/02	ACH CREDIT 5GWJ2AJTQMRF6 PAYPAL TRANSFER; $9,721.51
+	Revenue:MemberDues	-$33.93
+	Expenses:Purchases:FlashForge3DPrinter	-$244.20
+	Assets:Checking
+
+2018/08/02	ATM DEPOSIT 89838123 DEPOSIT 3508 S STATE ST CHICAGO IL; $9,821.51
+	Expenses:Purchases:FlashForge3DPrinter	-$100.00
+	Assets:Checking
+
+2018/08/02	ATM DEPOSIT 009917 PROVCRED 3508 S STATE ST CHICAGO IL; $9,881.51
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2018/08/02	ATM DEPOSIT 89830642 DEPOSIT 3508 S STATE ST CHICAGO IL; $9,915.51
+	Revenue:MemberDues	-$34.00
+	Assets:Checking
+
+2018/08/03	ACH CREDIT 5GWJ2AJURPQQL PAYPAL TRANSFER; $10,203.42
+	Revenue:MemberDues	-$33.93
+	Expenses:Purchases:FlashForge3DPrinter	-$253.98
+	Assets:Checking
+
+2018/08/06	ACH CREDIT 5GWJ2AJVS8M2J PAYPAL TRANSFER; $10,270.75
+	Revenue:MemberDues	-$67.33
+	Assets:Checking
+
+2018/08/06	ACH CREDIT 5GWJ2AJXG6N5N PAYPAL TRANSFER; $10,338.61
+	Revenue:MemberDues	-$67.86
+	Assets:Checking
+
+2018/08/06	ACH CREDIT 5GWJ2AJWS4LZG PAYPAL TRANSFER; $10,372.54
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2018/08/06	POS PURCHASE POS06171203 5397263 THE HOME DEPOT CHICAGO IL; $10,347.36
+	Expenses:Projects:BackRoomImprovement	$25.18
+	Assets:Checking
+
+2018/08/06	CHECK 7060 070472558; $9,049.91
+	Expenses:Administrative:Rent	$1,297.45
+	Assets:Checking
+
+2018/08/07	ACH CREDIT 5GWJ2AJY7VYT2 PAYPAL TRANSFER; $9,132.44
+	Revenue:MemberDues	-$82.53
+	Assets:Checking
+
+2018/08/08	ACH CREDIT 5GWJ2AJZ78RUE PAYPAL TRANSFER; $9,268.16
+	Revenue:MemberDues	-$135.72
+	Assets:Checking
+
+2018/08/09	DEBIT CARD PURCHASE XXXXX4981 MAYKU LONDON GB; $8,569.16
+	Expenses:Purchases:Thermoformer	$699.00
+	Assets:Checking
+
+2018/08/09	DEBIT CARD PURCHASE XXXXX4981 MAYKU LONDON GB; $8,529.17
+	Expenses:Purchases:Thermoformer	$39.99
+	Assets:Checking
+
+2018/08/09	INTERNATIONAL POS FEE VIS 0809 GB; $8,508.20
+	Expenses:Purchases:Thermoformer	$20.97 ; Foreign transaction fee
+	Assets:Checking
+
+2018/08/09	INTERNATIONAL POS FEE VIS 0809 GB; $8,507.00
+	Expenses:Purchases:Thermoformer	$1.20 ; Foreign transaction fee
+	Assets:Checking
+
+2018/08/10	ACH WEBSINGLE XXXXX5441 ZHEJIANGFLA IAT PAYPAL; $7,008.00
+	Expenses:Purchases:FlashForge3DPrinter	$1,499.00
+	Assets:Checking
+
+2018/08/13	ACH CREDIT 5GWJ2AK4JB3LE PAYPAL TRANSFER; $7,075.86
+	Revenue:MemberDues	-$67.86
+	Assets:Checking
+
+2018/08/13	CORPORATE ACH OA5CD2BQXOGE4VV AMZNJKPYRBBP AMAZONSMIL; $7,124.11
+	Revenue:Donations:AmazonSmile	-$48.25
+	Assets:Checking
+
+2018/08/13	ACH CREDIT 5GWJ2AK5GKHWA PAYPAL TRANSFER; $7,133.59
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2018/08/14	ACH CREDIT 5GWJ2AK6WZULW PAYPAL TRANSFER; $7,279.39
+	Revenue:MemberDues	-$145.80
+	Assets:Checking
+
+2018/08/15	ACH CREDIT 5GWJ2AK7YV2TS PAYPAL TRANSFER; $7,405.63
+	Revenue:MemberDues	-$126.24
+	Assets:Checking
+
+2018/08/16	ACH CREDIT 5GWJ2AK8WFRFS PAYPAL TRANSFER; $7,633.66
+	Revenue:MemberDues	-$228.03
+	Assets:Checking
+
+2018/08/17	ACH CREDIT 5GWJ2AK9UN4JQ PAYPAL TRANSFER; $7,711.00
+	Revenue:MemberDues	-$77.34
+	Assets:Checking
+
+2018/08/20	ACH CREDIT 5GWJ2AKATPG84 PAYPAL TRANSFER; $7,827.76
+	Revenue:MemberDues	-$116.76
+	Assets:Checking
+
+2018/08/20	ACH CREDIT 5GWJ2AKCF5GNC PAYPAL TRANSFER; $7,954.00
+	Revenue:MemberDues	-$126.24
+	Assets:Checking
+
+2018/08/20	ACH CREDIT 5GWJ2AKBSETWN PAYPAL TRANSFER; $8,046.31
+	Revenue:MemberDues	-$92.31
+	Assets:Checking
+
+2018/08/21	ACH CREDIT 5GWJ2AKD6TVNN PAYPAL TRANSFER; $8,163.07
+	Revenue:MemberDues	-$116.76
+	Assets:Checking
+
+2018/08/22	ACH CREDIT 5GWJ2AKE79Q8E PAYPAL TRANSFER; $8,197.00
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2018/08/23	ACH CREDIT 5GWJ2AKF434M4 PAYPAL TRANSFER; $8,401.18
+	Revenue:MemberDues	-$204.18
+	Assets:Checking
+
+2018/08/27	ACH CREDIT 5GWJ2AKGWXZLG PAYPAL TRANSFER; $8,460.41
+	Revenue:MemberDues	-$58.38
+	Revenue:Donations:PayPalGivingFund	-$0.85
+	Assets:Checking
+
+2018/08/27	ACH CREDIT 5GWJ2AKHSVHK6 PAYPAL TRANSFER; $8,552.72
+	Revenue:MemberDues	-$92.31
+	Assets:Checking
+
+2018/08/27	ACH CREDIT 5GWJ2AKJF2EXU PAYPAL TRANSFER; $8,596.13
+	Revenue:MemberDues	-$43.41
+	Assets:Checking
+
+2018/08/27	CHECK 124 096149685; $8,523.33
+	Expenses:Projects:ACWindowGrate	$72.80
+	Assets:Checking
+
+2018/08/28	ACH CREDIT 5GWJ2AKK53C6Y PAYPAL TRANSFER; $8,649.57
+	Revenue:MemberDues	-$126.24
+	Assets:Checking
+
+2018/08/29	ACH CREDIT 5GWJ2AKL2ZEFJ PAYPAL TRANSFER; $8,717.43
+	Revenue:MemberDues	-$67.86
+	Assets:Checking
+
+2018/08/30	ACH CREDIT 5GWJ2AKM6T97G PAYPAL TRANSFER; $8,751.36
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2018/08/30	CHECK 126 090033093; $8,744.36
+	Expenses:Administrative:Supplies	$7.00
+	Assets:Checking
+
+2018/08/31	ACH CREDIT 5GWJ2AKN6UHB8 PAYPAL TRANSFER; $8,778.29
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2018/08/31	DEPOSIT XXXXX3833; $8,849.29
+	Revenue:MemberDues	-$71.00
+	Assets:Checking
