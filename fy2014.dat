@@ -891,7 +891,7 @@
 	Assets:Checking
 
 2015/05/01	SERVICE CHARGE PERIOD ENDING 04/30/2015; $1,588.72
-	Expenses:Administrative:ServiceCharge	$12.00
+	Expenses:Administrative:BankFee	$12.00
 	Assets:Checking
 
 2015/05/04	ACH CREDIT TRANSFER PAYPAL 5GWJ28S6DKTJN; $1,615.61
@@ -1111,7 +1111,7 @@
 	Assets:Checking
 
 2015/07/01	SERVICE CHARGE PERIOD ENDING 06/30/2015; $566.87
-	Expenses:Administrative:ServiceCharge	$12.00
+	Expenses:Administrative:BankFee	$12.00
 	Assets:Checking
 
 2015/07/03	ACH CREDIT TRANSFER PAYPAL 5GWJ28W8S5SLN; $576.28

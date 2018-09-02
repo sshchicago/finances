@@ -610,7 +610,7 @@
 
 2016/01/21
 	Liabilities:DmitriyVysotskiy	-$45.00 ; Borrowed money from member
-	Expenses:Administrative:Government ; IL Attorney General Charitable Trust Fund filing fees
+	Expenses:Administrative:Government	$45.00 ; IL Attorney General Charitable Trust Fund filing fees
 
 2016/01/21	ACH CREDIT 5GWJ29CWRY3TW PAYPAL TRANSFER; $1,861.76
 	Revenue:MemberDues	-$57.96
