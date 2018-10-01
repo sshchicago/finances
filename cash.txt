@@ -1,13 +1,12 @@
-          $-2,991.61  Assets:Checking
-           $5,484.52  Expenses
-           $3,499.41    Administrative
-           $2,097.00      Insurance
+             $742.78  Assets:Checking
+           $1,581.90  Expenses
+           $1,494.73    Administrative
+             $175.00      AmazonWebServices
            $1,297.45      Rent
-             $104.96      Supplies
-           $1,292.52    Projects:BackRoomImprovement
-             $692.59    Purchases:CraftsmanToolcart
-          $-2,492.91  Revenue
-             $-15.45    Donations:PayPalGivingFund
-          $-2,477.46    MemberDues
+              $22.28      Supplies
+              $87.17    Projects
+              $32.16      ACWindowGrate
+              $55.01      BackRoomImprovement
+          $-2,324.68  Revenue:MemberDues
 --------------------
                    0
