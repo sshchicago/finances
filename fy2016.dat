@@ -1,7 +1,7 @@
 2016/08/01	Opening Balance
-	Debt:Agocs	-$250.00
-	Debt:PrDirector	-$121.35
-	Debt:Dmitriy	-$45
+	Liabilities:ChristopherAgocs	-$250.00 ;Borrowed funds from member
+	Liabilities:JessicaFong	-$121.35 ;Borrowed funds from member
+	Liabilities:DmitriyVysotskiy	-$45 ;Borrowed funds from member
 	Assets:Checking	$2,041.80
 	Equity
 
@@ -102,7 +102,7 @@
 	Assets:Checking
 
 2016/08/26	CHECK 106  REF. NO. 090513707			$2,906.46
-	Debt:PrDirector	$121.35
+	Liabilities:JessicaFong	$121.35 ;Loan repayment to JessicaFong
 	Assets:Checking
 
 2016/08/29	ACH CREDIT TRANSFER PAYPAL 5GWJ29T7ZSRKC			$2,964.42
@@ -391,7 +391,7 @@
 	Assets:Checking
 
 2016/11/23	CHECK 111 L090797129; $3,741.72
-	Debt:Dmitriy	$45.00
+	Liabilities:DmitriyVysotskiy	$45.00 ;Loan repayment to Dmitriy Vysotskiy
 	Assets:Checking
 
 2016/11/25	ACH CREDIT 5GWJ29XGCU57J PAYPAL TRANSFER; $3,834.03
@@ -411,7 +411,7 @@
 	Assets:Checking
 
 2016/11/28	CHECK 109 096129549; $3,831.50
-	Debt:Agocs	$250.00
+	Liabilities:ChristopherAgocs	$250.00 ;Loan repayment to Christopher Agocs
 	Assets:Checking
 
 2016/11/30	ACH CREDIT 5GWJ29XP5HJCQ PAYPAL TRANSFER; $3,889.88
