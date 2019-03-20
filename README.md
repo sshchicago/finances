@@ -5,8 +5,6 @@ This is where SSHC keep an open record of its finances. The treasurer will make 
 
 First, install [Ledger CLI](http://www.ledger-cli.org/). Then clone this repo.
 
-### Manually working with these data
-
 To run ledger-cli and see what's in our bank account right now, do the following:
 
     $ ledger -f fyYYYY.dat b
@@ -44,12 +42,12 @@ e.g.
             $-706.13      HighAltitudeBalloonTeam
              $-82.91      PayPalGivingFund
          $-31,169.59    MemberDues
---------------------
-                   0
+    --------------------
+                       0
 
 Due to a pecularity of double entry bookkeeping, income is negative and looks red. Deal with it. Double entry bookkeeping means that each transaction must have a source and a sink that reflects where the money is coming
 from, and where it is going to. 
 
-#License
+##License
 
 Any code I've written or will write as part of this project is licensed under the MIT license. See the LICENSE file for more info. Any data we publish is released under the Creative Commons "No Rights Reserved" license. 
