@@ -935,7 +935,7 @@
 	Liabilities:PhilipStrong	-$300 ; Borrowed funds from member
 	Liabilities:RyanAttard	-$300 ; Borrowed funds from member
 	Revenue:Cash	-$300
-	Revenue:Sales	-$40 ; SSH:Chicago t-shirt sale
+	Revenue:Sales:T-Shirts	-$40 ; SSH:Chicago t-shirt sale
 	Assets:Checking
 
 2015/05/15	ACH CREDIT TRANSFER PAYPAL 5GWJ28SZEDHXG; $3,441.80
