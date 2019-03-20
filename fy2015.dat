@@ -1,4 +1,4 @@
-2015/08/01 Opening Balance
+2015/08/01	Opening Balance
 	Assets:Checking	$375.35
 	Liabilities:ChristopherSwingler	-$300.00
 	Liabilities:DanielChan	-$256.59
@@ -6,7 +6,7 @@
 	Liabilities:RyanAttard	-$300.00
 	Equity
 
-2015/08/01 Money borrowed for insurance payment
+2015/08/01	Money borrowed for insurance payment
 	Liabilities:JessicaFong	-$321.35 ; Borrowed funds from member
 	Liabilities:ChristopherAgocs	-$250.00 ; Borrowed funds from member
 	Expenses:Administrative:Insurance
@@ -249,7 +249,8 @@
 	Assets:Checking
 
 2015/10/06	CHECK 000 L090681372; $940.30
-	Liabilities:ChristopherSwingler	$250.00 ; Loan repayment to Chris Swingler
+	Liabilities:ChristopherSwingler	$300.00 ; Loan repayment to Chris Swingler
+	Revenue:Donations:LoanCancellation	-$50.00 ; Remainder is converted to a donation
 	Assets:Checking
 
 2015/10/07	ACH CREDIT 5GWJ294T6ZG4A PAYPAL TRANSFER; $1,036.80
@@ -1235,3 +1236,7 @@
 2016/07/29	CHECK 7036 076518171; $2,041.80
 	Expenses:Administrative:Rent	$1,248.00
 	Assets:Checking
+
+2016/07/30	Closing Corrections
+	Liabilities:RyanAttard	$300.00 ; Loan forgiven
+	Revenue:Donations:LoanCancellation	-$300.00 ; Loan is converted to a donation
