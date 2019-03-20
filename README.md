@@ -48,6 +48,6 @@ e.g.
 Due to a pecularity of double entry bookkeeping, income is negative and looks red. Deal with it. Double entry bookkeeping means that each transaction must have a source and a sink that reflects where the money is coming
 from, and where it is going to. 
 
-##License
+## License
 
 Any code I've written or will write as part of this project is licensed under the MIT license. See the LICENSE file for more info. Any data we publish is released under the Creative Commons "No Rights Reserved" license. 
