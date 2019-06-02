@@ -1269,6 +1269,159 @@
 	Revenue:MemberDues	-$58.38
 	Assets:Checking
 
-2019/04/30	ACH CREDIT TBD PAYPAL TRANSFER; $12,128.76
+2019/04/30	ACH CREDIT 5GWJ2ARAKBVTW PAYPAL TRANSFER; $12,128.76
 	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/05/01	REMOTE ONLINE DEPOSIT # 1; $12,188.76 
+	Revenue:MemberDues	-$60.00 
+	Assets:Checking
+
+2019/05/02	ACH CREDIT 5GWJ2ARC2LSW2 PAYPAL TRANSFER; $12,315.00 
+	Revenue:MemberDues	-$126.24 
+	Assets:Checking
+
+2019/05/03	QuickPay with Zelle payment from Christopher Wagner VSAY7SFYJ3FI; $12,375.00 
+	Revenue:MemberDues	-$60.00 
+	Assets:Checking
+
+2019/05/03	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,408.93 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/06	ACH WEBSINGLE XXXXX3299 PAYPAL ECHECK; $12,374.70 
+	Revenue:MemberDues	$34.23 
+	Assets:Checking
+
+2019/05/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,442.56 
+	Revenue:MemberDues	-$67.86 
+	Assets:Checking
+
+2019/05/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,476.49 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/07	CHECK 7070 077357510; $11,179.04 
+	Expenses:Administrative:Rent	$1,297.45 
+	Assets:Checking
+
+2019/05/07	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,261.57 
+	Revenue:MemberDues	-$82.53 
+	Assets:Checking
+
+2019/05/08	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,304.98 
+	Revenue:MemberDues	-$43.41 
+	Assets:Checking
+
+2019/05/09	CORPORATE ACH 30ZWUK6AP5CG0UE AMZNLUG0NUM6 AMAZONSMIL; $11,345.95 
+	Revenue:Donations:AmazonSmile	-$40.97 
+	Assets:Checking
+
+2019/05/09	ATM CASH DEPOSIT 05/09 55 E MONROE ST CHICAGO IL; $11,358.95 
+	Revenue:Donations:Cash	-$13.00 
+	Assets:Checking
+
+2019/05/09	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,392.88 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/10	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,426.81 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/13	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,528.60 
+	Revenue:MemberDues	-$101.79 
+	Assets:Checking
+
+2019/05/14	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,640.47 
+	Revenue:MemberDues	-$111.87 
+	Assets:Checking
+
+2019/05/15	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,742.26 
+	Revenue:MemberDues	-$101.79 
+	Assets:Checking
+
+2019/05/15	QuickPay with Zelle payment from SHEHBAZ K SHERWANI 8235090323; $11,802.26 
+	Revenue:MemberDues	-$60.00 
+	Assets:Checking
+
+2019/05/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,098.15 
+	Revenue:MemberDues	-$295.89 
+	Assets:Checking
+
+2019/05/16	QuickPay with Zelle payment from Xcavier Johnson MSC2LSZQ7KUU; $12,133.15 
+	Revenue:MemberDues	-$35.00 
+	Assets:Checking
+
+2019/05/17	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 8240578520; $12,193.15 
+	Revenue:MemberDues	-$60.00 
+	Assets:Checking
+
+2019/05/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,236.56 
+	Revenue:MemberDues	-$43.41 
+	Assets:Checking
+
+2019/05/20	ACH WEBSINGLE XXXXX3635 PAYPAL ECHECK; $12,202.33 
+	Revenue:MemberDues	$34.23 
+	Assets:Checking
+
+2019/05/20	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,304.12 
+	Revenue:MemberDues	-$101.79 
+	Assets:Checking
+
+2019/05/20	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,396.43 
+	Revenue:MemberDues	-$92.31 
+	Assets:Checking
+
+2019/05/20	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,430.36 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/21	QuickPay with Zelle payment from DMITRIY VYSOTSKIY 8235609129; $12,490.36 
+	Revenue:MemberDues	-$60.00 
+	Assets:Checking
+
+2019/05/21	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,548.74 
+	Revenue:MemberDues	-$58.38 
+	Assets:Checking
+
+2019/05/22	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,582.67 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/23	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,742.84 
+	Revenue:MemberDues	-$160.17 
+	Assets:Checking
+
+2019/05/28	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,835.15 
+	Revenue:MemberDues	-$92.31 
+	Assets:Checking
+
+2019/05/28	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,896.53 
+	Revenue:Donations:PayPalGivingFund	-$3.00
+	Revenue:MemberDues	-$58.38 
+	Assets:Checking
+
+2019/05/28	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,954.91 
+	Revenue:MemberDues	-$58.38 
+	Assets:Checking
+
+2019/05/28	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,988.84 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/29	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,022.77 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/30	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,056.70 
+	Revenue:MemberDues	-$33.93 
+	Assets:Checking
+
+2019/05/31	CHECK 135 090791998; $13,007.13 
+	Expenses:Purchases:EmbroideryMachine	$49.57 
+	Assets:Checking
+
+2019/05/31	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,041.06 
+	Revenue:MemberDues	-$33.93 
 	Assets:Checking
