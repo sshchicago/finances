@@ -9,7 +9,7 @@
 2015/08/01	Money borrowed for insurance payment
 	Liabilities:JessicaFong	-$321.35 ; Borrowed funds from member
 	Liabilities:ChristopherAgocs	-$250.00 ; Borrowed funds from member
-	Expenses:Administrative:Insurance
+	Expenses:Insurance
 
 2015/08/03	ACH CREDIT 5GWJ28Y66JYZG PAYPAL TRANSFER; $409.03
 	Revenue:MemberDues	-$33.68
@@ -104,7 +104,7 @@
 	Assets:Checking
 
 2015/08/27	ATM DEPOSIT 96593375405 E. GRAND AV CHICAGO IL; $2,469.15
-	Expenses:Administrative:Rent	-$1,000.00 ; Mana returns security deposit
+	Expenses:Rent	-$1,000.00 ; Mana returns security deposit
 	Assets:Checking
 
 2015/08/27	ACH CREDIT 5GWJ28ZZ8U228 PAYPAL TRANSFER; $2,527.11
@@ -112,7 +112,7 @@
 	Assets:Checking
 
 2015/08/27	CHECK 000 096556485; $1,303.11
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2015/08/28	ACH CREDIT 5GWJ2923JKABJ PAYPAL TRANSFER; $1,351.36
@@ -225,7 +225,7 @@
 	Assets:Checking
 
 2015/10/01	CHECK 7026 070280120; $901.10
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2015/10/02	ACH CREDIT 5GWJ294FV2Q5A PAYPAL TRANSFER; $959.06
@@ -338,7 +338,7 @@
 	Assets:Checking
 
 2015/11/03	CHECK 7027 072321223; $1,032.00
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2015/11/04	ACH CREDIT 5GWJ296S24HMA PAYPAL TRANSFER; $1,256.17
@@ -442,7 +442,7 @@
 	Assets:Checking
 
 2015/11/30	WITHDRAWAL; $926.73
-	Expenses:Administrative:Rent	$1,229.00 ; The bank lady waived the cashiers check fee
+	Expenses:Rent	$1,229.00 ; The bank lady waived the cashiers check fee
 	Assets:Checking
 
 2015/12/01	ACH CREDIT 5GWJ298TB63NJ PAYPAL TRANSFER; $1,011.58
@@ -570,7 +570,7 @@
 	Assets:Checking
 
 2016/01/07	CORPORATE ACH IPFSPMTMOK IPFS866-412-2561 566567; $2,625.19
-	Expenses:Administrative:Insurance	$321.11
+	Expenses:Insurance	$321.11
 	Assets:Checking
 
 2016/01/08	ACH CREDIT 5GWJ29BYWX2KS PAYPAL TRANSFER; $2,634.60
@@ -586,7 +586,7 @@
 	Assets:Checking
 
 2016/01/11	CHECK 7029 074576124; $1,507.47
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2016/01/13	CORPORATE ACH TRANSFER STRIPE; $1,555.72
@@ -650,7 +650,7 @@
 	Assets:Checking
 
 2016/02/01	CHECK 7031 072309592; $979.71
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2016/02/03	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $954.91
@@ -750,7 +750,7 @@
 	Assets:Checking
 
 2016/03/02	CHECK 7032 070448078; $1,356.20
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2016/03/04	ACH CREDIT 5GWJ29FY2LXVN PAYPAL TRANSFER; $1,529.78
@@ -850,7 +850,7 @@
 	Assets:Checking
 
 2016/04/04	CHECK 7033 071644649; $1,485.47
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2016/04/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $1,459.14
@@ -978,7 +978,7 @@
 	Assets:Checking
 
 2016/05/09	CHECK 102 089353616; $2,102.40
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2016/05/11	ACH CREDIT 5GWJ29LPBE8LL PAYPAL TRANSFER; $2,145.49
@@ -1050,7 +1050,7 @@
 	Assets:Checking
 
 2016/05/31	CHECK 7034 071211806; $1,669.19
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2016/06/01	ACH CREDIT 5GWJ29N4M3HH4 PAYPAL TRANSFER; $1,727.15
@@ -1150,7 +1150,7 @@
 	Assets:Checking
 
 2016/07/01	CHECK 7035 072222945; $1,827.20
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2016/07/05	ACH CREDIT 5GWJ29Q2N4MUS PAYPAL TRANSFER; $1,885.16
@@ -1234,7 +1234,7 @@
 	Assets:Checking
 
 2016/07/29	CHECK 7036 076518171; $2,041.80
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2016/07/30	Closing Corrections

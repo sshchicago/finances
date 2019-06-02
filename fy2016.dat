@@ -62,7 +62,7 @@
 	Assets:Checking
 
 2016/08/15	2810 DEBIT CARD PURCHASE AMTRUST NA  877-528787; $2,269.71
-	Expenses:Administrative:Insurance	$634.00
+	Expenses:Insurance	$634.00
 	Assets:Checking
 
 2016/08/16	ACH CREDIT TRANSFER PAYPAL 5GWJ29SLE4ZPQ; $2,438.73
@@ -118,7 +118,7 @@
 	Assets:Checking
 
 2016/09/01	CHECK 7037  REF. NO. 071492623; $1,996.20
-	Expenses:Administrative:Rent	$1248.00
+	Expenses:Rent	$1248.00
 	Assets:Checking
 
 2016/09/06	ACH CREDIT TRANSFER PAYPAL 5GWJ29TR33WVY; $2,130.94
@@ -174,7 +174,7 @@
 	Assets:Checking
 
 2016/09/19	POS PURCHASE THE HOME DEPOT CHICAGO IL; $2,867.11
-	Expenses:Administrative:Supplies:MemberKeys	$27.34
+	Expenses:Supplies:MemberKeys	$27.34
 	Assets:Checking
 
 2016/09/21	ACH CREDIT TRANSFER PAYPAL 5GWJ29UJJV9LG; $2,958.75
@@ -182,7 +182,7 @@
 	Assets:Checking
 
 2016/09/21	2810 DEBIT CARD PURCHASE AMTRUST NA  877-528787; $2,324.75
-	Expenses:Administrative:Insurance	$634.00
+	Expenses:Insurance	$634.00
 	Assets:Checking
 
 2016/09/22	ACH CREDIT TRANSFER PAYPAL 5GWJ29UMYT7ZN; $2,527.45
@@ -222,7 +222,7 @@
 	Assets:Checking
 
 2016/10/03	CHECK 7038  REF. NO. 071016226; $1,818.19
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2016/10/03	2810 DEBIT CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1,792.09
@@ -331,7 +331,7 @@
 	Assets:Checking
 
 2016/11/04	CHECK 7039 071749079; $2,510.81
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2016/11/07	ACH CREDIT 5GWJ29WQKHQG6 PAYPAL TRANSFER; $2,592.74
@@ -447,7 +447,7 @@
 	Assets:Checking
 
 2016/12/07	CHECK 7040 073630887; $2,903.35
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2016/12/12	ACH CREDIT 5GWJ29Y4QNBDL PAYPAL TRANSFER; $2,937.28
@@ -555,7 +555,7 @@
 	Assets:Checking
 
 2017/01/09	CHECK 7041 074512772; $4,424.79
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2017/01/10	ACH CREDIT 5GWJ29Z89BX8G PAYPAL TRANSFER; $4,458.72
@@ -607,7 +607,7 @@
 	Assets:Checking
 
 2017/01/23	DEBIT CARD PURCHASE XXXXX4981 GAH SOUTH ASHLAND CHICAGO IL; $5,572.48
-	Expenses:Administrative:Supplies:MemberKeys	$41.63 ; Gordons Ace Hardware
+	Expenses:Supplies:MemberKeys	$41.63 ; Gordons Ace Hardware
 	Assets:Checking
 
 2017/01/24	ACH CREDIT 5GWJ29ZPMMKNJ PAYPAL TRANSFER; $5,630.86
@@ -679,7 +679,7 @@
 	Assets:Checking
 
 2017/02/08	CHECK 7042 071862917; $5,230.70
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2017/02/09	ACH CREDIT 5GWJ2A29BSWKN PAYPAL TRANSFER; $5,264.63
@@ -827,7 +827,7 @@
 	Assets:Checking
 
 2017/03/15	CHECK 7043 077146228; $8,627.75
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2017/03/16	ACH CREDIT 5GWJ2A3FZV4MW PAYPAL TRANSFER; $8,753.99
@@ -855,7 +855,7 @@
 	Assets:Checking
 
 2017/03/20	POS PURCHASE POS06168811 4851235 THE HOME DEPOT CHICAGO IL; $8,486.08
-	Expenses:Administrative:Supplies:MemberKeys	$41.01
+	Expenses:Supplies:MemberKeys	$41.01
 	Assets:Checking
 
 2017/03/22	ACH CREDIT 5GWJ2A3NP6L7U PAYPAL TRANSFER; $8,758.12
@@ -907,7 +907,7 @@
 	Assets:Checking
 
 2017/04/03	CHECK 7044 076313143; $8,253.63
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2017/04/04	DEBIT CARD PURCHASE XXXXX2810 Amazon web services aws.amazon. WA; $8,211.50
@@ -1027,7 +1027,7 @@
 	Assets:Checking
 
 2017/05/04	CHECK 7045 077048921; $9,278.07
-	Expenses:Administrative:Rent	$1,248.00
+	Expenses:Rent	$1,248.00
 	Assets:Checking
 
 2017/05/05	ACH CREDIT 5GWJ2A567B5SA PAYPAL TRANSFER; $9,355.41
@@ -1159,7 +1159,7 @@
 	Assets:Checking
 
 2017/06/07	CHECK 7046 077899409; $10,681.65
-	Expenses:Administrative:Rent	$1,272.00
+	Expenses:Rent	$1,272.00
 	Assets:Checking
 
 2017/06/09	ACH CREDIT 5GWJ2A69ZRG76 PAYPAL TRANSFER; $10,715.58
@@ -1287,7 +1287,7 @@
 	Assets:Checking
 
 2017/07/06	CHECK 7047 071167089; $11,631.49
-	Expenses:Administrative:Rent	$1,272.00
+	Expenses:Rent	$1,272.00
 	Assets:Checking
 
 2017/07/07	ACH CREDIT 5GWJ2A76BKFJ8 PAYPAL TRANSFER; $11,674.90

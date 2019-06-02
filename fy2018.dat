@@ -49,7 +49,7 @@
 	Assets:Checking
 
 2018/08/06	CHECK 7060 070472558; $9,049.91
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2018/08/07	ACH CREDIT 5GWJ2AJY7VYT2 PAYPAL TRANSFER; $9,132.44
@@ -162,7 +162,7 @@
 	Assets:Checking
 
 2018/08/30	CHECK 126 090033093; $8,744.36
-	Expenses:Administrative:Supplies	$7.00
+	Expenses:Supplies	$7.00
 	Assets:Checking
 
 2018/08/31	ACH CREDIT 5GWJ2AKN6UHB8 PAYPAL TRANSFER; $8,778.29
@@ -194,11 +194,11 @@
 	Assets:Checking
 
 2018/09/04	POS PURCHASE POS06171202 7155703 THE HOME DEPOT CHICAGO IL; $9,007.01
-	Expenses:Administrative:Supplies	$14.77
+	Expenses:Supplies	$14.77
 	Assets:Checking
 
 2018/09/04	CHECK 7062 077727245; $7,709.56
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2018/09/05	ACH CREDIT 5GWJ2AKSC8Z54 PAYPAL TRANSFER; $7,777.42
@@ -222,7 +222,7 @@
 	Assets:Checking
 
 2018/09/10	DEBIT CARD PURCHASE XXXXX4981 HOMEDEPOTCOM XXXXX3376 GA; $7,881.02
-	Expenses:Administrative:Supplies	$7.51
+	Expenses:Supplies	$7.51
 	Assets:Checking
 
 2018/09/11	ACH CREDIT 5GWJ2AKXHSRUE PAYPAL TRANSFER; $7,948.88
@@ -314,7 +314,7 @@
 	Assets:Checking
 
 2018/10/03	CHECK 7063 072770245; $8,575.51
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2018/10/04	ACH CREDIT 5GWJ2ALKBVRVE PAYPAL TRANSFER; $8,609.44
@@ -406,11 +406,11 @@
 	Assets:Checking
 
 2018/10/22	POS PURCHASE POS06171204 5397115 THE HOME DEPOT CHICAGO IL; $9,971.22
-	Expenses:Administrative:Supplies	$3.29
+	Expenses:Supplies	$3.29
 	Assets:Checking
 
 2018/10/22	POS PURCHASE POS06171204 5397114 THE HOME DEPOT CHICAGO IL; $9,893.73
-	Expenses:Administrative:Supplies	$77.49
+	Expenses:Supplies	$77.49
 	Assets:Checking
 
 2018/10/23	ACH CREDIT 5GWJ2AM275MSY PAYPAL TRANSFER; $10,097.91
@@ -422,11 +422,11 @@
 	Assets:Checking
 
 2018/10/24	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*M84SP5ZW1 Amzn.com/bi WA; $10,234.73
-	Expenses:Administrative:Supplies	$5.72
+	Expenses:Supplies	$5.72
 	Assets:Checking
 
 2018/10/24	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*M842Y9ZS1 Amzn.com/bi WA; $10,142.59
-	Expenses:Administrative:Supplies	$92.14
+	Expenses:Supplies	$92.14
 	Assets:Checking
 
 2018/10/25	ACH CREDIT 5GWJ2AM3T88QG PAYPAL TRANSFER; $10,259.35
@@ -478,7 +478,7 @@
 	Assets:Checking
 
 2018/11/05	CHECK 7064 076219813; $9,616.60
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2018/11/06	ACH CREDIT 5GWJ2AMCGELQN PAYPAL TRANSFER; $9,684.46
@@ -498,7 +498,7 @@
 	Assets:Checking
 
 2018/11/08	ATM DEPOSIT 90362335 DEPOSIT 3508 S STATE ST CHICAGO IL; $9,646.27
-	Expenses:Administrative:Supplies	-$77.49
+	Expenses:Supplies	-$77.49
 	Assets:Checking
 
 2018/11/08	ATM DEPOSIT 90362333 DEPOSIT 3508 S STATE ST CHICAGO IL; $9,706.27
@@ -595,7 +595,7 @@
 	Assets:Checking
 
 2018/11/30	DEBIT CARD PURCHASE XXXXX4981 GOOGLE *Costco g.co/helppa CA; $11,261.09
-	Expenses:Administrative:Supplies	$50.96
+	Expenses:Supplies	$50.96
 	Assets:Checking
 
 2018/12/03	ACH CREDIT 5GWJ2AN2GFV82 PAYPAL TRANSFER; $11,421.26
@@ -615,7 +615,7 @@
 	Assets:Checking
 
 2018/12/06	CHECK 7065 070229548; $10,292.93
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2018/12/07	ACH CREDIT 5GWJ2AN6UVEM6 PAYPAL TRANSFER; $10,375.46
@@ -651,7 +651,7 @@
 	Assets:Checking
 
 2018/12/17	DEBIT CARD PURCHASE XXXXX4981 AMZN MKTP US*M06IF6Y22 AMZN.COM/BI WA; $10,922.57
-	Expenses:Administrative:Supplies	$107.64
+	Expenses:Supplies	$107.64
 	Assets:Checking
 
 2018/12/18	ACH CREDIT 5GWJ2ANGJZ9JU PAYPAL TRANSFER; $11,073.26
@@ -659,7 +659,7 @@
 	Assets:Checking
 
 2018/12/18	DEBIT CARD PURCHASE XXXXX4981 AMZN MKTP US*M26Z50A00 AMZN.COM/BI WA; $11,067.97
-	Expenses:Administrative:Supplies	$5.29
+	Expenses:Supplies	$5.29
 	Assets:Checking
 
 2018/12/19	ACH CREDIT 5GWJ2ANHKU9SL PAYPAL TRANSFER; $11,160.28
@@ -671,7 +671,7 @@
 	Assets:Checking
 
 2018/12/20	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*M267U55O0 Amzn.com/bi WA; $11,230.54
-	Expenses:Administrative:Supplies	$31.53
+	Expenses:Supplies	$31.53
 	Assets:Checking
 
 2018/12/21	ACH CREDIT 5GWJ2ANKDMS96 PAYPAL TRANSFER; $11,347.30
@@ -748,7 +748,7 @@
 	Assets:Checking
 
 2019/01/04	CHECK 7066 077321457; $9,313.52
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2019/01/07	ACH CREDIT 5GWJ2ANVXXV4Y PAYPAL TRANSFER; $9,347.45
@@ -864,7 +864,7 @@
 	Assets:Checking
 
 2019/01/28	ACH WEB-SINGLE FLASHFORGEU PAYPAL INST XFER; $10,340.49
-	Expenses:Administrative:Supplies	$77.41
+	Expenses:Supplies	$77.41
 	Assets:Checking
 
 2019/01/29	ACH CREDIT 5GWJ2APEVSPQ8 PAYPAL TRANSFER; $10,466.73
@@ -876,7 +876,7 @@
 	Assets:Checking
 
 2019/01/31	DEBIT CARD PURCHASE   XXXXX4981 AMZN Mktp US*MB4E79751    Amzn.com/bi WA; $10,454.47 
-	Expenses:Administrative:Supplies	$46.19
+	Expenses:Supplies	$46.19
 	Assets:Checking
 
 2019/02/01	ACH CREDIT 5GWJ2APGZLSSY PAYPAL TRANSFER; $10,546.78
@@ -900,7 +900,7 @@
 	Assets:Checking
 
 2019/02/04	POS PURCHASE POS06171257 5170543 THE HOME DEPOT CHICAGO IL; $10,869.39
-	Expenses:Administrative:Supplies	$10.85
+	Expenses:Supplies	$10.85
 	Assets:Checking
 
 2019/02/05	ACH CREDIT 5GWJ2APKJTUJ2 PAYPAL TRANSFER; $10,903.32
@@ -932,7 +932,7 @@
 	Assets:Checking
 
 2019/02/14	DEBIT CARD PURCHASE XXXXX4981 CVS/PHARMACY #07123 CHICAGO IL; $11,340.10
-	Expenses:Administrative:Supplies	$4.61
+	Expenses:Supplies	$4.61
 	Assets:Checking
 
 2019/02/15	ACH CREDIT 5GWJ2APSECC3S PAYPAL TRANSFER; $11,475.82
@@ -944,15 +944,15 @@
 	Assets:Checking
 
 2019/02/15	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*MI2KG3FP2 Amzn.com/bi WA; $11,528.00
-	Expenses:Administrative:Supplies	$8.67
+	Expenses:Supplies	$8.67
 	Assets:Checking
 
 2019/02/15	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*MI1K12A20 Amzn.com/bi WA; $11,505.10
-	Expenses:Administrative:Supplies	$22.90
+	Expenses:Supplies	$22.90
 	Assets:Checking
 
 2019/02/15	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*MI5ST6OI2 Amzn.com/bi WA; $11,490.15
-	Expenses:Administrative:Supplies	$14.95
+	Expenses:Supplies	$14.95
 	Assets:Checking
 
 2019/02/19	ACH CREDIT 5GWJ2APT77TT4 PAYPAL TRANSFER; $11,625.87
@@ -988,7 +988,7 @@
 	Assets:Checking
 
 2019/02/21	DEBIT CARD PURCHASE XXXXX4981 AMZN Mktp US*MI7VW9XM0 Amzn.com/bi WA; $12,125.25
-	Expenses:Administrative:Supplies	$9.89
+	Expenses:Supplies	$9.89
 	Assets:Checking
 
 2019/02/22	ACH CREDIT 5GWJ2APWV3VAL PAYPAL TRANSFER; $12,159.18
@@ -1024,7 +1024,7 @@
 	Assets:Checking
 
 2019/03/01	CHECK 7067 073739932; $11,418.29
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2019/03/04	ACH CREDIT 5GWJ2AQ49YNR4 PAYPAL TRANSFER; $11,578.46
@@ -1072,7 +1072,7 @@
 	Assets:Checking
 
 2019/03/12	CHECK 7068 070338395; $10,611.79
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2019/03/14	ACH CREDIT 5GWJ2AQCATTJE PAYPAL TRANSFER; $10,723.66
@@ -1197,11 +1197,11 @@
 	Assets:Checking
 
 2019/04/11	POS PURCHASE POS99999999 1521839 USPS KIOSK 161 CHICAGO IL; $11,972.70
-	Expenses:Administrative:Supplies	$14.35 ; Ship power supply to FSLaser
+	Expenses:Supplies	$14.35 ; Ship power supply to FSLaser
 	Assets:Checking
 
 2019/04/11	CHECK 7069 073000142; $10,675.25
-	Expenses:Administrative:Rent	$1,297.45
+	Expenses:Rent	$1,297.45
 	Assets:Checking
 
 2019/04/15	ACH CREDIT 5GWJ2AQYSVBAA PAYPAL TRANSFER; $10,787.12
@@ -1242,7 +1242,7 @@
 	Assets:Checking
 
 2019/04/22	DEBIT CARD PURCHASE XXXXX4981 AMZN MKTP US*MZ95E21O0 AMZN.COM/BI WA; $11,487.48
-	Expenses:Administrative:Supplies	$95.00 ; Laser cutter power supply
+	Expenses:Supplies	$95.00 ; Laser cutter power supply
 	Assets:Checking
 
 2019/04/23	ACH CREDIT 5GWJ2AR65P4DN PAYPAL TRANSFER; $11,725.59
@@ -1302,7 +1302,7 @@
 	Assets:Checking
 
 2019/05/07	CHECK 7070 077357510; $11,179.04 
-	Expenses:Administrative:Rent	$1,297.45 
+	Expenses:Rent	$1,297.45 
 	Assets:Checking
 
 2019/05/07	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,261.57 

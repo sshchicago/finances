@@ -11,7 +11,7 @@
 	Assets:Checking
 
 2014/08/04	CHECK 281; $2,167.98
-	Expenses:Administrative:Insurance	$756.00
+	Expenses:Insurance	$756.00
 	Assets:Checking
 
 2014/08/04	6170 DEBIT CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $2,167.05
@@ -139,7 +139,7 @@
 	Assets:Checking
 
 2014/09/16	CHECK 7012; $2,030.83
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2014/09/17	ACH CREDIT TRANSFER PAYPAL 5GWJ28C4ZQJKA; $2,108.21
@@ -223,7 +223,7 @@
 	Assets:Checking
 
 2014/10/07	CHECK 7013; $1,395.81
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2014/10/08	ACH CREDIT TRANSFER PAYPAL 5GWJ28DBTC7FA; $1,492.31
@@ -295,7 +295,7 @@
 	Assets:Checking
 
 2014/11/03	CHECK 7014; $1,185.32
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2014/11/04	6170 DEBIT CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $1,183.99
@@ -379,7 +379,7 @@
 	Assets:Checking
 
 2014/12/01	CHECK 7015; $2,101.21
-	Expenses:Administrative:Insurance	$244.57
+	Expenses:Insurance	$244.57
 	Assets:Checking
 
 2014/12/02	ACH CREDIT TRANSFER PAYPAL 5GWJ28GJ9USEJ; $2,128.10
@@ -423,7 +423,7 @@
 	Assets:Checking
 
 2014/12/15	CHECK 7016; $1,500.27
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2014/12/16	ACH CREDIT TRANSFER PAYPAL 5GWJ28HM2L3PQ; $1,548.52
@@ -543,7 +543,7 @@
 	Assets:Checking
 
 2015/01/20	CHECK 7017; $1,863.24
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2015/01/22	CORPORATE ACH TRANSFER STRIPE; $1,890.13
@@ -651,7 +651,7 @@
 	Assets:Checking
 
 2015/02/23	CHECK 7018; $1,750.52
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2015/02/23	6170 RECURRING DEBIT CARD COMCAST CHICAGO 800-COMCAST IL; $1,606.51
@@ -727,7 +727,7 @@
 	Assets:Checking
 
 2015/03/16	CHECK 7019; $1,471.79
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2015/03/19	ACH CREDIT TRANSFER PAYPAL 5GWJ28PFLLH8W; $1,546.93
@@ -831,7 +831,7 @@
 	Assets:Checking
 
 2015/04/10	CHECK 7020; $896.32
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2015/04/15	CORPORATE ACH TRANSFER STRIPE; $944.57
@@ -965,11 +965,11 @@
 	Assets:Checking
 
 2015/05/21	WITHDRAWAL; $2,521.21
-	Expenses:Administrative:Rent	$1,800.00 ; Security deposit
+	Expenses:Rent	$1,800.00 ; Security deposit
 	Assets:Checking
 
 2015/05/22	CHECK 7021; $1,321.21
-	Expenses:Administrative:Rent	$1,200.00
+	Expenses:Rent	$1,200.00
 	Assets:Checking
 
 2015/05/26	ACH CREDIT TRANSFER PAYPAL 5GWJ28TKYEH76; $1,398.59
@@ -1005,7 +1005,7 @@
 	Assets:Checking
 
 2015/06/01	CHECK 7022; $345.03
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2015/06/04	DEPOSIT; $645.03
@@ -1097,7 +1097,7 @@
 	Assets:Checking
 
 2015/06/30	CHECK 7023; $494.02
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2015/06/30	Member loans converted to donations
@@ -1207,7 +1207,7 @@
 	Assets:Checking
 
 2015/07/28	CHECK 7024; $251.96
-	Expenses:Administrative:Rent	$1,224.00
+	Expenses:Rent	$1,224.00
 	Assets:Checking
 
 2015/07/29	ACH CREDIT TRANSFER PAYPAL 5GWJ28XXDVP9G; $290.50

@@ -3,7 +3,7 @@
 	Equity
 
 2013/08/02	CHECK 000; $1061.45
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2013/08/07	ACH CREDIT TRANSFER PAYPAL 5GWJ27BK4YG2L; $1746.96
@@ -15,7 +15,7 @@
 	Assets:Checking
 
 2013/08/29	CHECK 7001; $1166.43
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2013/09/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27EMTY9XL; $2035.53
@@ -43,7 +43,7 @@
 	Assets:Checking
 
 2013/10/01	CHECK 7002; $1129.45
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2013/10/01	6170 CHECK CARD PURCHASE THE HOME DEPOT #1950 CHICAGO IL; $940.78
@@ -67,7 +67,7 @@
 	Assets:Checking
 
 2013/11/04	CHECK 7003; $625.45
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2013/11/04	6170 CHECK CARD PURCHASE AMAZON WEB SERVICES AWS.AMAZON. WA; $624.93
@@ -91,11 +91,11 @@
 	Assets:Checking
 
 2013/12/03	CHECK 7004; $1027.58
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2013/12/04	6914 CHECK CARD PURCHASE MOISHE S SELF STORAGE CHICAGO IL; $27.58
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2013/12/05	ACH CREDIT TRANSFER PAYPAL 5GWJ27N25Z79A; $442.71
@@ -131,7 +131,7 @@
 	Assets:Checking
 
 2013/12/19	6170 CHECK CARD PURCHASE JEWEL #3345 CHICAGO I; $1166.28
-	Expenses:Administrative:Supplies	$24.70
+	Expenses:Supplies	$24.70
 	Assets:Checking
 
 2013/12/20	ACH CREDIT TRANSFER PAYPAL 5GWJ27PHNU88E; $1214.53
@@ -139,11 +139,11 @@
 	Assets:Checking
 
 2013/12/20	6170 CHECK CARD PURCHASE GAH SOUTH LOOP CHICAG; $1174.82
-	Expenses:Administrative:Supplies:MemberKeys	$39.71
+	Expenses:Supplies:MemberKeys	$39.71
 	Assets:Checking
 
 2013/12/20	6170 CHECK CARD PURCHASE WAUKEGAN SAFE & LOCK IL; $1043.75
-	Expenses:Administrative:Supplies:MemberKeys	$131.07
+	Expenses:Supplies:MemberKeys	$131.07
 	Assets:Checking
 
 2013/12/23	ACH CREDIT TRANSFER PAYPAL 5GWJ27PRN38XG; $1169.38
@@ -219,7 +219,7 @@
 	Assets:Checking
 
 2014/01/16	POS PURCHASE COSTCO WHSE #1 CHICAGO IL POS99110711; $1657.31
-	Expenses:Administrative:Supplies	$163.84
+	Expenses:Supplies	$163.84
 	Assets:Checking
 
 2014/01/21	ACH CREDIT TRANSFER PAYPAL 5GWJ27RR3CTZC; $1734.69
@@ -295,7 +295,7 @@
 	Assets:Checking
 
 2014/02/07	CHECK 7006; $541.05
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2014/02/10	ACH CREDIT TRANSFER PAYPAL 5GWJ27TEVCWFC; $550.46
@@ -363,7 +363,7 @@
 	Assets:Checking
 
 2014/03/04	CHECK 7007; $679.35
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2014/03/05	ACH CREDIT TRANSFER PAYPAL 5GWJ27VHDY9FN; $737.01
@@ -371,19 +371,19 @@
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $724.54
-	Expenses:Administrative:Supplies	$12.47
+	Expenses:Supplies	$12.47
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $677.87
-	Expenses:Administrative:Supplies	$46.67
+	Expenses:Supplies	$46.67
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $676.28
-	Expenses:Administrative:Supplies	$1.59
+	Expenses:Supplies	$1.59
 	Assets:Checking
 
 2014/03/05	N0305 6170 PAYMENT AMAZON.COM SEATTLE WA POS00000101; $554.00
-	Expenses:Administrative:Supplies	$122.28
+	Expenses:Supplies	$122.28
 	Assets:Checking
 
 2014/03/06	ACH CREDIT TRANSFER PAYPAL 5GWJ27VLFYPXA; $611.66
@@ -495,7 +495,7 @@
 	Assets:Checking
 
 2014/04/02	CHECK 7008; $694.40
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2014/04/03	ACH CREDIT TRANSFER PAYPAL 5GWJ27XYST2U4; $742.65
@@ -647,7 +647,7 @@
 	Assets:Checking
 
 2014/05/07	CHECK 7009; $875.05
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2014/05/08	ACH CREDIT TRANSFER PAYPAL 5GWJ282W3KNTL; $1021.88
@@ -747,7 +747,7 @@
 	Assets:Checking
 
 2014/06/04	CHECK 7010; $3414.31
-	Expenses:Administrative:Rent	$1000.00
+	Expenses:Rent	$1000.00
 	Assets:Checking
 
 2014/06/05	ACH CREDIT TRANSFER PAYPAL 5GWJ284WZ76TC; $3423.72
@@ -903,7 +903,7 @@
 	Assets:Checking
 
 2014/07/11	CHECK 7011; $2161.23
-	Expenses:Administrative:Rent	$1200.00
+	Expenses:Rent	$1200.00
 	Assets:Checking
 
 2014/07/14	ACH CREDIT TRANSFER PAYPAL 5GWJ287RBMMTN; $2335.11
