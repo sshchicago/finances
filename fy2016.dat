@@ -1,12 +1,12 @@
 2016/08/01	Opening Balance
-	Liabilities:ChristopherAgocs	-$250.00 ; Borrowed funds from member
-	Liabilities:JessicaFong	-$121.35 ; Borrowed funds from member
-	Liabilities:DmitriyVysotskiy	-$45 ; Borrowed funds from member
+	Liabilities:ChristopherAgocs	-$250.00	; Borrowed funds from member
+	Liabilities:JessicaFong	-$121.35	; Borrowed funds from member
+	Liabilities:DmitriyVysotskiy	-$45	; Borrowed funds from member
 	Assets:Checking	$2,041.80
 	Equity
 
 2016/08/01	ACH CREDIT TRANSFER PAYPAL 5GWJ29RMWK9UG; $2,138.60
-	Revenue:Sales	-$96.80 ; sale of ISIS 3D printer frame
+	Revenue:Sales	-$96.80	; sale of ISIS 3D printer frame
 	Assets:Checking
 
 2016/08/01	ACH CREDIT TRANSFER PAYPAL 5GWJ29RR7F6UJ; $2,196.56
@@ -102,7 +102,7 @@
 	Assets:Checking
 
 2016/08/26	CHECK 106  REF. NO. 090513707; $2,906.46
-	Liabilities:JessicaFong	$121.35 ; Loan repayment to JessicaFong
+	Liabilities:JessicaFong	$121.35	; Loan repayment to JessicaFong
 	Assets:Checking
 
 2016/08/29	ACH CREDIT TRANSFER PAYPAL 5GWJ29T7ZSRKC; $2,964.42
@@ -391,7 +391,7 @@
 	Assets:Checking
 
 2016/11/23	CHECK 111 L090797129; $3,741.72
-	Liabilities:DmitriyVysotskiy	$45.00 ; Loan repayment to Dmitriy Vysotskiy
+	Liabilities:DmitriyVysotskiy	$45.00	; Loan repayment to Dmitriy Vysotskiy
 	Assets:Checking
 
 2016/11/25	ACH CREDIT 5GWJ29XGCU57J PAYPAL TRANSFER; $3,834.03
@@ -411,7 +411,7 @@
 	Assets:Checking
 
 2016/11/28	CHECK 109 096129549; $3,831.50
-	Liabilities:ChristopherAgocs	$250.00 ; Loan repayment to Christopher Agocs
+	Liabilities:ChristopherAgocs	$250.00	; Loan repayment to Christopher Agocs
 	Assets:Checking
 
 2016/11/30	ACH CREDIT 5GWJ29XP5HJCQ PAYPAL TRANSFER; $3,889.88
@@ -527,7 +527,7 @@
 	Assets:Checking
 
 2017/01/03	CHECK 112 090726453; $5,435.64
-	Expenses:Administrative:ExtinguisherInspection	$51.65 ; Foster & Son Extinguisher
+	Expenses:Administrative:ExtinguisherInspection	$51.65	; Foster & Son Extinguisher
 	Assets:Checking
 
 2017/01/04	DEBIT CARD PURCHASE XXXXX2810 Amazon web services aws.amazon. WA; $5,409.81
@@ -587,7 +587,7 @@
 	Assets:Checking
 
 2017/01/17	CHECK 107 096263737; $5,080.11
-	Expenses:Administrative:Government	$15.00 ; IL Attorney General Charitable Organization Report Filing Fee
+	Expenses:Administrative:Government	$15.00	; IL Attorney General Charitable Organization Report Filing Fee
 	Assets:Checking
 
 2017/01/18	ACH CREDIT 5GWJ29ZH7W33U PAYPAL TRANSFER; $5,206.35
@@ -607,7 +607,7 @@
 	Assets:Checking
 
 2017/01/23	DEBIT CARD PURCHASE XXXXX4981 GAH SOUTH ASHLAND CHICAGO IL; $5,572.48
-	Expenses:Supplies:MemberKeys	$41.63 ; Gordons Ace Hardware
+	Expenses:Supplies:MemberKeys	$41.63	; Gordons Ace Hardware
 	Assets:Checking
 
 2017/01/24	ACH CREDIT 5GWJ29ZPMMKNJ PAYPAL TRANSFER; $5,630.86
@@ -655,11 +655,11 @@
 	Assets:Checking
 
 2017/02/06	DEBIT CARD PURCHASE XXXXX4981 Amazon.com AMZN.COM/BI WA; $6,136.46
-	Expenses:Purchases:FirstAid	$293.05 ; first-aid cabinet
+	Expenses:Purchases:FirstAid	$293.05	; first-aid cabinet
 	Assets:Checking
 
 2017/02/06	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $6,130.91
-	Expenses:Purchases:FirstAid	$5.55 ; band-aids
+	Expenses:Purchases:FirstAid	$5.55	; band-aids
 	Assets:Checking
 
 2017/02/06	DEBIT CARD PURCHASE XXXXX2810 Amazon web services aws.amazon. WA; $6,088.77
@@ -1183,7 +1183,7 @@
 	Assets:Checking
 
 2017/06/13	CHECK 114 095468796; $10,779.04
-	Expenses:Administrative:Government	$10.00 ; IL Secretary of State Annual Report Filing Fee
+	Expenses:Administrative:Government	$10.00	; IL Secretary of State Annual Report Filing Fee
 	Assets:Checking
 
 2017/06/14	ACH CREDIT 5GWJ2A6F49JQL PAYPAL TRANSFER; $10,905.28
@@ -1311,7 +1311,7 @@
 	Assets:Checking
 
 2017/07/12	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $11,689.48
-	Expenses:Projects:DustCollection	$191.69 ; Oneida Air Super Dust Deputy cyclone
+	Expenses:Projects:DustCollection	$191.69	; Oneida Air Super Dust Deputy cyclone
 	Assets:Checking
 
 2017/07/13	ACH CREDIT 5GWJ2A7CBZ9Y6 PAYPAL TRANSFER; $11,869.21
@@ -1379,7 +1379,7 @@
 	Assets:Checking
 
 2017/07/28	DEBIT CARD PURCHASE XXXXX4981 ONEIDA AIR XXXXX5151 NY; $13,458.85
-	Expenses:Projects:DustCollection	$28.85 ; duct adapters
+	Expenses:Projects:DustCollection	$28.85	; duct adapters
 	Assets:Checking
 
 2017/07/31	ACH CREDIT 5GWJ2A7TVLPZY PAYPAL TRANSFER; $13,585.09
@@ -1394,10 +1394,10 @@
 	Assets:Checking
 
 2017/07/31	POS PURCHASE POS06171204 5066343 THE HOME DEPOT CHICAGO IL; $13,610.83
-	Expenses:Projects:DustCollection	$42.12 ; lumber
+	Expenses:Projects:DustCollection	$42.12	; lumber
 	Assets:Checking
 
 2017/07/31	POS PURCHASE POS06171204 5066344 THE HOME DEPOT CHICAGO IL; $13,536.15
-	Expenses:Projects:DustCollection	$24.89 ; lumber
+	Expenses:Projects:DustCollection	$24.89	; lumber
 	Expenses:Projects:WoodStorageCart	$49.79
 	Assets:Checking

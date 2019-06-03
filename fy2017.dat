@@ -43,16 +43,16 @@
 	Assets:Checking
 
 2017/08/07	DEBIT CARD PURCHASE XXXXX4981 GAH SOUTH ASHLAND CHICAGO IL; $12,739.20
-	Expenses:Projects:DustCollection	$1.79 ; Fasteners
+	Expenses:Projects:DustCollection	$1.79	; Fasteners
 	Assets:Checking
 
 2017/08/09	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $12,688.62
-	Expenses:Projects:DustCollection	$35.28 ; toggle clamps
-	Expenses:Supplies	$15.30 ; RFID fobs
+	Expenses:Projects:DustCollection	$35.28	; toggle clamps
+	Expenses:Supplies	$15.30	; RFID fobs
 	Assets:Checking
 
 2017/08/09	DEBIT CARD PURCHASE XXXXX4981 AMAZON MKTPLACE PMTS AMZN.COM/BI WA; $12,672.12
-	Expenses:Supplies	$16.50 ; 9V batteries
+	Expenses:Supplies	$16.50	; 9V batteries
 	Assets:Checking
 
 2017/08/10	ACH CREDIT 5GWJ2A87HYZVU PAYPAL TRANSFER; $12,706.05
@@ -76,11 +76,11 @@
 	Assets:Checking
 
 2017/08/14	POS PURCHASE POS99058013 5049191 COSTCO WHSE #0 BEDFORD PARK IL; $11,769.39
-	Expenses:Supplies	$18.04 ; paper towels
+	Expenses:Supplies	$18.04	; paper towels
 	Assets:Checking
 
 2017/08/14	POS PURCHASE POS01480729 5049192 HARBOR FREIGHT CICERO IL; $11,592.20
-	Expenses:Projects:DustCollection	$177.19 ; 2HP dust collector
+	Expenses:Projects:DustCollection	$177.19	; 2HP dust collector
 	Assets:Checking
 
 2017/08/15	ACH CREDIT 5GWJ2A8C5AEX6 PAYPAL TRANSFER; $11,718.44
@@ -197,7 +197,7 @@
 	Assets:Checking
 
 2017/09/11	POS PURCHASE POS99999999 4780394 MNRD-GURNEE 64 GURNEE IL; $13,261.56
-	Expenses:Projects:DustCollection	$22.14 ; fasteners and duct adapters
+	Expenses:Projects:DustCollection	$22.14	; fasteners and duct adapters
 	Assets:Checking
 
 2017/09/12	ACH CREDIT 5GWJ2A95QCX7A PAYPAL TRANSFER; $13,271.04
@@ -209,7 +209,7 @@
 	Assets:Checking
 
 2017/09/12	DEBIT CARD PURCHASE XXXXX4981 Amazon.com AMZN.COM/BI WA; $13,051.29
-	Expenses:Supplies	$57.01 ; label tape
+	Expenses:Supplies	$57.01	; label tape
 	Assets:Checking
 
 2017/09/13	ACH CREDIT 5GWJ2A97TCJ3C PAYPAL TRANSFER; $13,231.02
@@ -241,7 +241,7 @@
 	Assets:Checking
 
 2017/09/19	CHECK 116 095380084; $14,022.36
-	Expenses:Administrative:Government	$15.00 ; il attorney general charitable trust fund filing fee
+	Expenses:Administrative:Government	$15.00	; il attorney general charitable trust fund filing fee
 	Assets:Checking
 
 2017/09/20	ACH CREDIT 5GWJ2A9EJM6KS PAYPAL TRANSFER; $14,182.53
@@ -257,7 +257,7 @@
 	Assets:Checking
 
 2017/09/22	DEBIT CARD PURCHASE XXXXX4981 TECHSOUP XXXXX9300 CA; $14,245.64
-	Expenses:Administrative:AmazonWebServices	$175.00 ; techsoup fee
+	Expenses:Administrative:AmazonWebServices	$175.00	; techsoup fee
 	Assets:Checking
 
 2017/09/25	ACH CREDIT 5GWJ2A9K2J7GU PAYPAL TRANSFER; $14,337.95
@@ -994,7 +994,7 @@
 	Assets:Checking
 
 2018/02/22	ACH WEB-SINGLE J22222BRNLCK8 PAYPAL ECHECK; $12,134.62
-	Revenue:MemberDues	$34.23 ; refunded membership
+	Revenue:MemberDues	$34.23	; refunded membership
 	Assets:Checking
 
 2018/02/26	ACH CREDIT 5GWJ2AE7XLPA6 PAYPAL TRANSFER; $12,226.93
@@ -1159,7 +1159,7 @@
 	Assets:Checking
 
 2018/03/26	ATM WITHDRAWAL PNCPJ1249 N0324 4981 1733 S. CLARK ST. CHICAGO IL; $14,348.23
-	Expenses:Supplies	$7.00 ; cash to Dmitriy for pack of Instax film
+	Expenses:Supplies	$7.00	; cash to Dmitriy for pack of Instax film
 	Assets:Checking
 
 2018/03/27	ACH CREDIT 5GWJ2AF3L6YRN PAYPAL TRANSFER; $14,382.16
@@ -1323,7 +1323,7 @@
 	Assets:Checking
 
 2018/04/27	CHECK 121 089433318; $10,434.48
-	Expenses:Reimbursement:PhilStrong	$115.00 ; For ToughCart steel
+	Expenses:Reimbursement:PhilStrong	$115.00	; For ToughCart steel
 	Assets:Checking
 
 2018/04/30	ACH CREDIT 5GWJ2AG2N5FPL PAYPAL TRANSFER; $10,492.86
@@ -1419,7 +1419,7 @@
 	Assets:Checking
 
 2018/05/14	ATM WITHDRAWAL PNCPX1517 N0513 4981 1177 W LAKE COOK BUFFALO GROV IL; $9,508.76
-	Expenses:Projects:BackRoomImprovement	$90.00 ; 55 gallon barrels and cash spent at home depot by jeff carr
+	Expenses:Projects:BackRoomImprovement	$90.00	; 55 gallon barrels and cash spent at home depot by jeff carr
 	Assets:Checking
 
 2018/05/15	ACH CREDIT 5GWJ2AGJVJZK2 PAYPAL TRANSFER; $9,668.93
@@ -1463,7 +1463,7 @@
 	Assets:Checking
 
 2018/05/23	DEBIT CARD CREDIT 9049991005 VIS 0518 FELDER USA XXXXX7732 DE; $10,775.05
-	Expenses:Purchases:TableSaw	-$427.77 ; refund for shorter rip bar
+	Expenses:Purchases:TableSaw	-$427.77	; refund for shorter rip bar
 	Assets:Checking
 
 2018/05/23	ACH CREDIT 5GWJ2AGSDRG2G PAYPAL TRANSFER; $10,979.23
@@ -1572,7 +1572,7 @@
 	Assets:Checking
 
 2018/06/15	CHECK 122 090489279; $11,053.83
-	Expenses:Administrative:Government	$10.00 ; Secretary of State
+	Expenses:Administrative:Government	$10.00	; Secretary of State
 	Assets:Checking
 
 2018/06/18	ACH CREDIT 5GWJ2AHGUPRUU PAYPAL TRANSFER; $11,247.93

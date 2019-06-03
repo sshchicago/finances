@@ -69,11 +69,11 @@
 	Assets:Checking
 
 2018/08/09	INTERNATIONAL POS FEE VIS 0809 GB; $8,508.20
-	Expenses:Purchases:Thermoformer	$20.97 ; Foreign transaction fee
+	Expenses:Purchases:Thermoformer	$20.97	; Foreign transaction fee
 	Assets:Checking
 
 2018/08/09	INTERNATIONAL POS FEE VIS 0809 GB; $8,507.00
-	Expenses:Purchases:Thermoformer	$1.20 ; Foreign transaction fee
+	Expenses:Purchases:Thermoformer	$1.20	; Foreign transaction fee
 	Assets:Checking
 
 2018/08/10	ACH WEBSINGLE XXXXX5441 ZHEJIANGFLA IAT PAYPAL; $7,008.00
@@ -530,7 +530,7 @@
 	Assets:Checking
 
 2018/11/15	DEBIT CARD PURCHASE XXXXX4981 FELDER USA XXXXX7732 DE; $9,932.82
-	Expenses:Purchases:TableSaw	$141.85 ; Table saw replacement and spare parts
+	Expenses:Purchases:TableSaw	$141.85	; Table saw replacement and spare parts
 	Assets:Checking
 
 2018/11/16	ACH CREDIT 5GWJ2AMLJV3LA PAYPAL TRANSFER; $10,102.47
@@ -554,7 +554,7 @@
 	Assets:Checking
 
 2018/11/20	CHECK 129 089226069; $10,500.12
-	Expenses:Administrative:Government	$15.00 ; IL Attorney General
+	Expenses:Administrative:Government	$15.00	; IL Attorney General
 	Assets:Checking
 
 2018/11/21	ACH CREDIT 5GWJ2AMQJC59U PAYPAL TRANSFER; $10,616.88
@@ -800,7 +800,7 @@
 	Assets:Checking
 
 2019/01/17	CHECK 131 089753781; $9,559.23
-	Expenses:Programming:HolidayParty	$74.27 ; Reimbursement to Declan
+	Expenses:Programming:HolidayParty	$74.27	; Reimbursement to Declan
 	Assets:Checking
 
 2019/01/18	ACH CREDIT 5GWJ2AP7M6ZDQ PAYPAL TRANSFER; $9,651.54
@@ -888,7 +888,7 @@
 	Assets:Checking
 
 2019/02/04	ACH CREDIT 5GWJ2APJH7J34 PAYPAL TRANSFER; $10,824.91
-	Revenue:Sales	-$244.20 ; ISIS 3D printer sold to Zachary C
+	Revenue:Sales	-$244.20	; ISIS 3D printer sold to Zachary C
 	Assets:Checking
 
 2019/02/04	ACH CREDIT 5GWJ2APK2688Y PAYPAL TRANSFER; $10,892.24
@@ -896,7 +896,7 @@
 	Assets:Checking
 
 2019/02/04	DEBIT CARD PURCHASE XXXXX4981 Amazon web services aws.amazon. WA; $10,880.24
-	Expenses:Administrative:AmazonWebServices	$12.00 ; Domain name renewal
+	Expenses:Administrative:AmazonWebServices	$12.00	; Domain name renewal
 	Assets:Checking
 
 2019/02/04	POS PURCHASE POS06171257 5170543 THE HOME DEPOT CHICAGO IL; $10,869.39
@@ -1197,7 +1197,7 @@
 	Assets:Checking
 
 2019/04/11	POS PURCHASE POS99999999 1521839 USPS KIOSK 161 CHICAGO IL; $11,972.70
-	Expenses:Supplies	$14.35 ; Ship power supply to FSLaser
+	Expenses:Supplies	$14.35	; Ship power supply to FSLaser
 	Assets:Checking
 
 2019/04/11	CHECK 7069 073000142; $10,675.25
@@ -1242,7 +1242,7 @@
 	Assets:Checking
 
 2019/04/22	DEBIT CARD PURCHASE XXXXX4981 AMZN MKTP US*MZ95E21O0 AMZN.COM/BI WA; $11,487.48
-	Expenses:Supplies	$95.00 ; Laser cutter power supply
+	Expenses:Supplies	$95.00	; Laser cutter power supply
 	Assets:Checking
 
 2019/04/23	ACH CREDIT 5GWJ2AR65P4DN PAYPAL TRANSFER; $11,725.59

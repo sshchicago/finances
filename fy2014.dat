@@ -503,11 +503,11 @@
 	Assets:Checking
 
 2015/01/12	6170 DEBIT CARD PURCHASE BOOKS A MILLIO CHICAGO IL; $2,332.35
-	Expenses:AccidentalPurchase	$27.31 ; Accidental card use. Taken care of.
+	Expenses:AccidentalPurchase	$27.31	; Accidental card use. Taken care of.
 	Assets:Checking
 
 2015/01/12	6170 DEBIT CARD PURCHASE METRA UNION STATION 312-3224269 IL; $2,324.60
-	Expenses:AccidentalPurchase	$7.75 ; Accidental card use. Taken care of.
+	Expenses:AccidentalPurchase	$7.75	; Accidental card use. Taken care of.
 	Assets:Checking
 
 2015/01/13	ATM DEPOSIT 55 W MONROE CHICAGO IL; $2,374.60
@@ -771,7 +771,7 @@
 	Assets:Checking
 
 2015/04/01	ACH CREDIT TRANSFER PAYPAL 5GWJ28Q9M8HT4; $1,880.74
-	Expenses:Purchases:VinylCutter	-$96.80 ; Funds from Ryan Attard
+	Expenses:Purchases:VinylCutter	-$96.80	; Funds from Ryan Attard
 	Assets:Checking
 
 2015/04/02	ATM DEPOSIT 700 N STATE STR CHICAGO IL; $1,982.74
@@ -779,7 +779,7 @@
 	Assets:Checking
 
 2015/04/02	ATM DEPOSIT 700 N STATE STR CHICAGO IL; $2,082.74
-	Expenses:Purchases:VinylCutter	-$100.00 ; Funds from Phil Strong
+	Expenses:Purchases:VinylCutter	-$100.00	; Funds from Phil Strong
 	Assets:Checking
 
 2015/04/02	ATM DEPOSIT 700 N STATE STR CHICAGO IL; $2,117.74
@@ -791,7 +791,7 @@
 	Assets:Checking
 
 2015/04/03	ACH CREDIT TRANSFER PAYPAL 5GWJ28QE66NP6; $2,237.54
-	Expenses:Purchases:VinylCutter	-$96.80 ; Funds from Shiraz Sherwani?
+	Expenses:Purchases:VinylCutter	-$96.80	; Funds from Shiraz Sherwani?
 	Assets:Checking
 
 2015/04/06	ACH CREDIT TRANSFER PAYPAL 5GWJ28QG5Z49Y; $2,285.79
@@ -819,7 +819,7 @@
 	Assets:Checking
 
 2015/04/08	ACH WEB-SINGLE INST XFER PAYPAL MEISTERTEK; $2,033.13
-	Expenses:Purchases:VinylCutter	$300.00 ; Funds to Dan Meyer
+	Expenses:Purchases:VinylCutter	$300.00	; Funds to Dan Meyer
 	Assets:Checking
 
 2015/04/09	CORPORATE ACH TRANSFER STRIPE; $2,086.91
@@ -931,11 +931,11 @@
 	Assets:Checking
 
 2015/05/15	DEPOSIT; $3,267.92
-	Liabilities:ChristopherSwingler	-$300 ; Borrowed funds from member
-	Liabilities:PhilipStrong	-$300 ; Borrowed funds from member
-	Liabilities:RyanAttard	-$300 ; Borrowed funds from member
+	Liabilities:ChristopherSwingler	-$300	; Borrowed funds from member
+	Liabilities:PhilipStrong	-$300	; Borrowed funds from member
+	Liabilities:RyanAttard	-$300	; Borrowed funds from member
 	Revenue:Cash	-$300
-	Revenue:Sales:T-Shirts	-$40 ; SSH:Chicago t-shirt sale
+	Revenue:Sales:T-Shirts	-$40	; SSH:Chicago t-shirt sale
 	Assets:Checking
 
 2015/05/15	ACH CREDIT TRANSFER PAYPAL 5GWJ28SZEDHXG; $3,441.80
@@ -947,7 +947,7 @@
 	Assets:Checking
 
 2015/05/19	DEPOSIT; $3,819.18
-	Liabilities:DanielChan	-$300.00 ; Borrowed funds from member
+	Liabilities:DanielChan	-$300.00	; Borrowed funds from member
 	Assets:Checking
 
 2015/05/19	CORPORATE ACH TRANSFER STRIPE; $3,846.07
@@ -959,13 +959,13 @@
 	Assets:Checking
 
 2015/05/21	DEPOSIT; $4,321.21
-	Liabilities:JackTucker	-$300.00 ; Borrowed funds from member
-	Liabilities:AndrewEdwards	-$50.00 ; Borrowed funds from member
+	Liabilities:JackTucker	-$300.00	; Borrowed funds from member
+	Liabilities:AndrewEdwards	-$50.00	; Borrowed funds from member
 	Revenue:Sales:Soda	-$50.00
 	Assets:Checking
 
 2015/05/21	WITHDRAWAL; $2,521.21
-	Expenses:Rent	$1,800.00 ; Security deposit
+	Expenses:Rent	$1,800.00	; Security deposit
 	Assets:Checking
 
 2015/05/22	CHECK 7021; $1,321.21
@@ -1009,7 +1009,7 @@
 	Assets:Checking
 
 2015/06/04	DEPOSIT; $645.03
-	Liabilities:MasonDonahue	-$300.00 ; Borrowed funds from member
+	Liabilities:MasonDonahue	-$300.00	; Borrowed funds from member
 	Assets:Checking
 
 2015/06/04	ATM DEPOSIT 55 W MONROE CHICAGO IL; $705.03
@@ -1167,11 +1167,11 @@
 	Assets:Checking
 
 2015/07/16	ACH WEB-SINGLE INST XFER PAYPAL SILENTTERMS; $1,250.20
-	Liabilities:DanielChan	$43.41 ; Loan repayment to Daniel Chan
+	Liabilities:DanielChan	$43.41	; Loan repayment to Daniel Chan
 	Assets:Checking
 
 2015/07/16	ACH WEB-SINGLE INST XFER PAYPAL CAMERAZN; $1,218.43
-	Revenue:Sales:Soda	$31.77 ; Reimbursement to Christopher Agocs for soda purchase
+	Revenue:Sales:Soda	$31.77	; Reimbursement to Christopher Agocs for soda purchase
 	Assets:Checking
 
 2015/07/17	CORPORATE ACH TRANSFER STRIPE; $1,245.32

@@ -7,8 +7,8 @@
 	Equity
 
 2015/08/01	Money borrowed for insurance payment
-	Liabilities:JessicaFong	-$321.35 ; Borrowed funds from member
-	Liabilities:ChristopherAgocs	-$250.00 ; Borrowed funds from member
+	Liabilities:JessicaFong	-$321.35	; Borrowed funds from member
+	Liabilities:ChristopherAgocs	-$250.00	; Borrowed funds from member
 	Expenses:Insurance
 
 2015/08/03	ACH CREDIT 5GWJ28Y66JYZG PAYPAL TRANSFER; $409.03
@@ -104,7 +104,7 @@
 	Assets:Checking
 
 2015/08/27	ATM DEPOSIT 96593375405 E. GRAND AV CHICAGO IL; $2,469.15
-	Expenses:Rent	-$1,000.00 ; Mana returns security deposit
+	Expenses:Rent	-$1,000.00	; Mana returns security deposit
 	Assets:Checking
 
 2015/08/27	ACH CREDIT 5GWJ28ZZ8U228 PAYPAL TRANSFER; $2,527.11
@@ -184,8 +184,8 @@
 	Assets:Checking
 
 2015/09/17	ACH WEB-SINGLE SILENTTERMS PAYPAL INST XFER; $2,012.38
-	Liabilities:DanielChan	$256.59 ; Loan repayment to Daniel Chan
-	Revenue:Donations:LoanCancellation	-$6.59 ; Remainder is converted to a donation
+	Liabilities:DanielChan	$256.59	; Loan repayment to Daniel Chan
+	Revenue:Donations:LoanCancellation	-$6.59	; Remainder is converted to a donation
 	Assets:Checking
 
 2015/09/21	ACH CREDIT 5GWJ293KCEKFJ PAYPAL TRANSFER; $2,063.45
@@ -197,11 +197,11 @@
 	Assets:Checking
 
 2015/09/23	CHECK 000 L090115184; $2,127.83
-	Expenses:Administrative:Government	$13.00 ; Taxes
+	Expenses:Administrative:Government	$13.00	; Taxes
 	Assets:Checking
 
 2015/09/23	CHECK 7025 074895066; $1,827.83
-	Liabilities:JackTucker	$300.00 ; Loan repayment to Jack Tucker
+	Liabilities:JackTucker	$300.00	; Loan repayment to Jack Tucker
 	Assets:Checking
 
 2015/09/24	ACH CREDIT 5GWJ293VXH8L6 PAYPAL TRANSFER; $1,885.79
@@ -249,8 +249,8 @@
 	Assets:Checking
 
 2015/10/06	CHECK 000 L090681372; $940.30
-	Liabilities:ChristopherSwingler	$300.00 ; Loan repayment to Chris Swingler
-	Revenue:Donations:LoanCancellation	-$50.00 ; Remainder is converted to a donation
+	Liabilities:ChristopherSwingler	$300.00	; Loan repayment to Chris Swingler
+	Revenue:Donations:LoanCancellation	-$50.00	; Remainder is converted to a donation
 	Assets:Checking
 
 2015/10/07	ACH CREDIT 5GWJ294T6ZG4A PAYPAL TRANSFER; $1,036.80
@@ -266,7 +266,7 @@
 	Assets:Checking
 
 2015/10/09	ATM DEPOSIT 96707579405 E. GRAND AV CHICAGO IL; $1,173.10
-	Revenue:Donations:ACM	-$100.00 ; Possibly from Association for Computing Machinery
+	Revenue:Donations:ACM	-$100.00	; Possibly from Association for Computing Machinery
 	Assets:Checking
 
 2015/10/09	CORPORATE ACH TRANSFER STRIPE; $1,226.88
@@ -374,7 +374,7 @@
 	Assets:Checking
 
 2015/11/10	DEBIT CARD PURCHASE STICKER MULE 800-9759465 NY; $1,475.20
-	Expenses:Administrative:Advertising	$75.00 ; Logo stickers
+	Expenses:Administrative:Advertising	$75.00	; Logo stickers
 	Assets:Checking
 
 2015/11/12	ACH CREDIT 5GWJ297A83ZZ2 PAYPAL TRANSFER; $1,551.97
@@ -398,7 +398,7 @@
 	Assets:Checking
 
 2015/11/16	CHECK 7028 072237907; $1,739.83
-	Expenses:Administrative:Reimbursement	$100.00 ; Money to Joe Budka
+	Expenses:Administrative:Reimbursement	$100.00	; Money to Joe Budka
 	Assets:Checking
 
 2015/11/17	ACH CREDIT 5GWJ297PTD9RQ PAYPAL TRANSFER; $1,773.51
@@ -442,7 +442,7 @@
 	Assets:Checking
 
 2015/11/30	WITHDRAWAL; $926.73
-	Expenses:Rent	$1,229.00 ; The bank lady waived the cashiers check fee
+	Expenses:Rent	$1,229.00	; The bank lady waived the cashiers check fee
 	Assets:Checking
 
 2015/12/01	ACH CREDIT 5GWJ298TB63NJ PAYPAL TRANSFER; $1,011.58
@@ -606,12 +606,12 @@
 	Assets:Checking
 
 2016/01/19	DEBIT CARD PURCHASE IL WEB CORP REG AGENT 217-7824696 IL; $1,803.80
-	Expenses:Administrative:Government	$32.00 ; Secretary of State
+	Expenses:Administrative:Government	$32.00	; Secretary of State
 	Assets:Checking
 
 2016/01/21
-	Liabilities:DmitriyVysotskiy	-$45.00 ; Borrowed money from member
-	Expenses:Administrative:Government	$45.00 ; IL Attorney General Charitable Trust Fund filing fees
+	Liabilities:DmitriyVysotskiy	-$45.00	; Borrowed money from member
+	Expenses:Administrative:Government	$45.00	; IL Attorney General Charitable Trust Fund filing fees
 
 2016/01/21	ACH CREDIT 5GWJ29CWRY3TW PAYPAL TRANSFER; $1,861.76
 	Revenue:MemberDues	-$57.96
@@ -846,7 +846,7 @@
 	Assets:Checking
 
 2016/04/04	CHECK 101 089470674; $2,709.47
-	Liabilities:JessicaFong	$100.00 ; Loan repayment to Jessica Fong
+	Liabilities:JessicaFong	$100.00	; Loan repayment to Jessica Fong
 	Assets:Checking
 
 2016/04/04	CHECK 7033 071644649; $1,485.47
@@ -1026,7 +1026,7 @@
 	Assets:Checking
 
 2016/05/23	CHECK 103 090591234; $2,545.77
-	Expenses:Administrative:Government	$300.00 ; IL Attorney General Charitable Trust Fund filing fees
+	Expenses:Administrative:Government	$300.00	; IL Attorney General Charitable Trust Fund filing fees
 	Assets:Checking
 
 2016/05/24	ACH CREDIT 5GWJ29MLPQ9QA PAYPAL TRANSFER; $2,603.73
@@ -1058,7 +1058,7 @@
 	Assets:Checking
 
 2016/06/02	CHECK 104 096430739; $1,627.15
-	Liabilities:JessicaFong	$100.00 ; Loan repayment to Jessica Fong
+	Liabilities:JessicaFong	$100.00	; Loan repayment to Jessica Fong
 	Assets:Checking
 
 2016/06/03	ACH CREDIT 5GWJ29N9EYAPS PAYPAL TRANSFER; $1,660.83
@@ -1082,7 +1082,7 @@
 	Assets:Checking
 
 2016/06/07	CHECK 105 096388544; $1,807.25
-	Expenses:Administrative:Government	$10.00 ; Secretary of State
+	Expenses:Administrative:Government	$10.00	; Secretary of State
 	Assets:Checking
 
 2016/06/08	ACH CREDIT 5GWJ29NKM4S38 PAYPAL TRANSFER; $1,850.34
@@ -1238,5 +1238,5 @@
 	Assets:Checking
 
 2016/07/30	Closing Corrections
-	Liabilities:RyanAttard	$300.00 ; Loan forgiven
-	Revenue:Donations:LoanCancellation	-$300.00 ; Loan is converted to a donation
+	Liabilities:RyanAttard	$300.00	; Loan forgiven
+	Revenue:Donations:LoanCancellation	-$300.00	; Loan is converted to a donation
