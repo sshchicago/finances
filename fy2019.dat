@@ -392,7 +392,7 @@
 	Assets:Checking
 
 2019/10/04	THE HOME DEPOT 6919 FRANKFORT IL 171017 10/04; $10,787.49
-	Expenses:BackYardExtraImprovement	$17.73
+	Expenses:Projects:BackYardExtraImprovement	$17.73
 	Expenses:Projects:ACWindowGrate	$8.60	; Spray paint
 	Assets:Checking
 
@@ -449,11 +449,11 @@
 	Assets:Checking
 
 2019/10/15	MNRD-CICERO 2333 S CIC CICERO IL 764194 10/12; $11,520.19
-	Expenses:BackYardExtraImprovement	$125.28
+	Expenses:Projects:BackYardExtraImprovement	$125.28
 	Assets:Checking
 
 2019/10/15	THE HOME DEPOT 1986 CHICAGO IL 902150 10/12; $11,476.35
-	Expenses:BackYardExtraImprovement	$43.84
+	Expenses:Projects:BackYardExtraImprovement	$43.84
 	Assets:Checking
 
 2019/10/15	PAYPAL *FULLSPECTRU 702-539-4181 NV 10/14; $11,266.35
@@ -461,11 +461,11 @@
 	Assets:Checking
 
 2019/10/15	MNRD-TINLEY PRK 6851 W TINLEY PARK IL654516 10/15; $11,238.65
-	Expenses:BackYardExtraImprovement	$27.70
+	Expenses:Projects:BackYardExtraImprovement	$27.70
 	Assets:Checking
 
 2019/10/15	THE HOME DEPOT 1986 CHICAGO IL 821519 10/15; $11,180.57
-	Expenses:BackYardExtraImprovement	$58.08
+	Expenses:Projects:BackYardExtraImprovement	$58.08
 	Assets:Checking
 
 2019/10/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,223.98
