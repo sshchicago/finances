@@ -532,3 +532,126 @@
 	Revenue:MemberDues	-$33.93
 	Assets:Checking
 
+2019/11/01	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,099.38
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/01	CHECK 102; $12,084.38
+	Expenses:Programming:Candlemaking	$15.00
+	Assets:Checking
+
+2019/11/04	STRIPE TRANSFER ST-Q0H2H0Y7J7A6 CCD ID: 1800948598; $12,474.38
+	Revenue:MemberDues	-$390.00
+	Assets:Checking
+
+2019/11/04	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,508.31
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/04	AMERICAN HAKKO 6612940090 CA 11/01; $11,931.88
+	Expenses:Purchases:HakkoConsumables	$576.43
+	Assets:Checking
+
+2019/11/04	QuickPay with Zelle payment to BUBBLY DYNAMICS 8705995341; $10,608.88
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2019/11/05	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,667.26
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2019/11/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,715.86
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2019/11/12	STRIPE TRANSFER ST-C7I7I5A7N4V1 CCD ID: 1800948598; $10,885.86
+	Revenue:MemberDues	-$170.00
+	Assets:Checking
+
+2019/11/12	AMZNTQL32R4O AmazonSmil 6HKYGKM7IWKP6NY CCD ID: 9215319235; $10,929.49
+	Revenue:Donations:AmazonSmile	-$43.63
+	Assets:Checking
+
+2019/11/12	QuickPay with Zelle payment from CHICAGO SOUND FACTORY, INC. 8734531445; $10,964.49
+	Revenue:MemberDues	-$35.00
+	Assets:Checking
+
+2019/11/12	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,998.42
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/12	ATM WITHDRAWAL 001342 11/093868 N LI; $10,598.42
+	Expenses:Purchases:UPS	$400.00
+	Assets:Checking
+
+2019/11/13	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,710.29
+	Revenue:MemberDues	-$111.87
+	Assets:Checking
+
+2019/11/14	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,719.77
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2019/11/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 8751472563; $10,779.77
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2019/11/15	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,838.15
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2019/11/15	Amazon.com*IO8CF2BU3 Amzn.com/bill WA 11/14; $10,728.83
+	Expenses:Purchases:SewingMachine	$109.32
+	Assets:Checking
+
+2019/11/15	Amazon.com*PO1RY3O13 Amzn.com/bill WA 11/14; $10,706.53
+	Expenses:Supplies	$22.30
+	Assets:Checking
+
+2019/11/18	STRIPE TRANSFER ST-K3Y6E8G7G2P2 CCD ID: 1800948598; $11,076.53
+	Revenue:MemberDues	-$370.00
+	Assets:Checking
+
+2019/11/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,119.94
+	Revenue:MemberDues	-$43.41
+	Assets:Checking
+
+2019/11/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,153.87
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/19	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,187.80
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/19	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,221.73
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/22	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,255.66
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/25	STRIPE TRANSFER ST-G3T0I9H5L7U8 CCD ID: 1800948598; $11,640.66
+	Revenue:MemberDues	-$385.00
+	Assets:Checking
+
+2019/11/25	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,699.04
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2019/11/26	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,757.42
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2019/11/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,766.90
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2019/11/29	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,800.83
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/11/29	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,801.83
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
