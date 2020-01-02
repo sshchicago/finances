@@ -655,3 +655,112 @@
 2019/11/29	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,801.83
 	Revenue:Donations:PayPalGivingFund	-$1.00
 	Assets:Checking
+
+2019/12/02	STRIPE TRANSFER ST-U0V7X5O3M8I1 CCD ID: 1800948598; $12,036.83
+	Revenue:MemberDues	-$235.00
+	Assets:Checking
+
+2019/12/02	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,104.69
+	Revenue:MemberDues	-$67.86
+	Assets:Checking
+
+2019/12/02	AMZN Mktp US*GF5SI5F Amzn.com/bill WA 12/02; $12,084.79
+	Expenses:Supplies	$19.90
+	Assets:Checking
+
+2019/12/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 8816777089; $10,761.79
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2019/12/03	AMZN Mktp US*0T0TW30 Amzn.com/bill WA 12/03; $10,753.84
+	Expenses:Supplies	$7.95
+	Assets:Checking
+
+2019/12/05	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,812.22
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2019/12/05	IN *ASW MACHINERY INC. 866-7925288 DE 12/04; $10,624.57
+	Expenses:Purchases:TableSaw	$187.65
+	Assets:Checking
+
+2019/12/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,673.17
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2019/12/09	STRIPE TRANSFER ST-J8L2I5Y1Q2M5 CCD ID: 1800948598; $10,938.17
+	Revenue:MemberDues	-$265.00
+	Assets:Checking
+
+2019/12/10	PAYPAL TRANSFER PPD ID: PAYPALSD11; $10,972.10
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/12/10	MNRD-TINLEY PRK 6851 W TINLEY PARK IL536830 12/10; $10,952.16
+	Expenses:Projects:BackYardExtraImprovement	$19.94
+	Assets:Checking
+
+2019/12/13	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,030.10
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2019/12/13	WHOLEFDS WLP #10 1 N H CHICAGO IL 639665 12/13; $11,015.91
+	Expenses:Programming	$14.19
+	Assets:Checking
+
+2019/12/13	COSTCO WHSE #1107 CHICAGO IL 058339 12/13; $10,948.04
+	Expenses:Programming	$67.87
+	Assets:Checking
+
+2019/12/16	STRIPE TRANSFER ST-U4B7K8D1G8W5 CCD ID: 1800948598; $11,203.04
+	Revenue:MemberDues	-$255.00
+	Assets:Checking
+
+2019/12/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,270.90
+	Revenue:MemberDues	-$67.86
+	Assets:Checking
+
+2019/12/16	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 8859820335; $11,330.90
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2019/12/16	COSTCO WHSE #1107 CHICAGO IL 015096 12/15; $11,312.39
+	Expenses:Supplies	$18.51
+	Assets:Checking
+
+2019/12/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,355.80
+	Revenue:MemberDues	-$43.41
+	Assets:Checking
+
+2019/12/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,389.73
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/12/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,423.66
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/12/19	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,457.59
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/12/23	STRIPE TRANSFER ST-T8P1P9V3Y9S9 CCD ID: 1800948598; $11,877.59
+	Revenue:MemberDues	-$420.00
+	Assets:Checking
+
+2019/12/23	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,911.52
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2019/12/26	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,969.90
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2019/12/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,980.38
+	Revenue:MemberDues	-$9.48
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
+
+2019/12/30	STRIPE TRANSFER ST-I8E0N0B8O1M5 CCD ID: 1800948598; $12,470.38
+	Revenue:MemberDues	-$490.00
+	Assets:Checking
