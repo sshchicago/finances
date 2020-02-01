@@ -764,3 +764,99 @@
 2019/12/30	STRIPE TRANSFER ST-I8E0N0B8O1M5 CCD ID: 1800948598; $12,470.38
 	Revenue:MemberDues	-$490.00
 	Assets:Checking
+
+2020/01/02	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,504.31
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/01/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 8920562570; $11,181.31
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/01/06	STRIPE TRANSFER ST-Y1E7H3S1P3S1 CCD ID: 1800948598; $11,446.31
+	Revenue:MemberDues	-$265.00
+	Assets:Checking
+
+2020/01/07	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,494.91
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/01/09	PAYPAL *TINUSAUR 402-935-7733 CA 01/09; $11,305.11
+	Expenses:Programming	$189.80
+	Assets:Checking
+
+2020/01/10	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,339.04
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/01/13	ATM CASH DEPOSIT 01/12 1934 S STATE ST CHICAGO IL; $11,379.04
+	Expenses:Programming	-$40.00
+	Assets:Checking
+
+2020/01/13	STRIPE TRANSFER ST-O8W1Y3U7U0X7 CCD ID: 1800948598; $11,714.04
+	Revenue:MemberDues	-$335.00
+	Assets:Checking
+
+2020/01/14	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,791.98
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2020/01/14	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,801.46
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/01/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 8970280370; $11,861.46
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/01/15	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,919.84
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/01/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,963.25
+	Revenue:MemberDues	-$43.41
+	Assets:Checking
+
+2020/01/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,997.18
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/01/21	STRIPE TRANSFER ST-U6X3Z2D5G4X9 CCD ID: 1800948598; $12,547.18
+	Revenue:MemberDues	-$550.00
+	Assets:Checking
+
+2020/01/21	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,581.11
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/01/21	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,615.04
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/01/22	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,648.97
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/01/27	STRIPE TRANSFER ST-W1Y6X3C2S3W3 CCD ID: 1800948598; $13,113.97
+	Revenue:MemberDues	-$465.00
+	Assets:Checking
+
+2020/01/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,172.35
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/01/27	AMZN Mktp US*XL2973V Amzn.com/bill WA 01/24; $13,161.20
+	Expenses:Supplies	$11.15
+	Assets:Checking
+
+2020/01/27	AMZN Mktp US*XJ8RJ1O Amzn.com/bill WA 01/24; $13,149.52
+	Expenses:Supplies	$11.68
+	Assets:Checking
+
+2020/01/28	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,159.00
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/01/31	ORIG CO NAME:PAYPAL CO ENTRY DESCR:TRANSFER SEC:PPD ORIG ID:PAYPALSD11; $13,162.00
+	Revenue:Donations:PayPalGivingFund	-$3.00
+	Assets:Checking
