@@ -782,7 +782,7 @@
 	Assets:Checking
 
 2020/01/09	PAYPAL *TINUSAUR 402-935-7733 CA 01/09; $11,305.11
-	Expenses:Programming	$189.80
+	Expenses:Programming:SolderingTutorial	$189.80
 	Assets:Checking
 
 2020/01/10	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,339.04
@@ -859,4 +859,124 @@
 
 2020/01/31	ORIG CO NAME:PAYPAL CO ENTRY DESCR:TRANSFER SEC:PPD ORIG ID:PAYPALSD11; $13,162.00
 	Revenue:Donations:PayPalGivingFund	-$3.00
+	Assets:Checking
+
+2020/02/03	STRIPE TRANSFER ST-W8H7V5B1O7V1 CCD ID: 1800948598; $13,657.00
+	Revenue:MemberDues	-$495.00
+	Assets:Checking
+
+2020/02/03	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,690.93
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/02/03	QuickPay with Zelle payment to BUBBLY DYNAMICS 9031493079; $12,367.93
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/02/03	Amazon web services aws.amazon.co WA 02/02; $12,355.93
+	Expenses:Administrative:AmazonWebServices	$12.00
+	Assets:Checking
+
+2020/02/03	CHECK 103; $12,261.33
+	Expenses:Administrative:ExtinguisherInspection	$94.60
+	Assets:Checking
+
+2020/02/04	ATM CASH DEPOSIT 02/04 55 E MONROE ST CHICAGO IL; $12,281.33
+	Expenses:Programming:SolderingTutorial	-$20.00
+	Assets:Checking
+
+2020/02/05	ACE HARDWARE CORPORAT 800-453-0660 IL 02/05; $12,276.22
+	Expenses:Supplies	$5.11
+	Assets:Checking
+
+2020/02/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,324.82
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/02/10	STRIPE TRANSFER ST-B0L4L3G3J0L6 CCD ID: 1800948598; $12,499.82
+	Revenue:MemberDues	-$175.00
+	Assets:Checking
+
+2020/02/11	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,533.75
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/02/13	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,611.69
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2020/02/13	SP * MICROSWISSLLC ALLMETALHOTEN MN 02/12; $12,573.94
+	Expenses:Supplies	$37.75
+	Assets:Checking
+
+2020/02/14	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,583.42
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/02/14	Amazon.com*UK9UM51C3 Amzn.com/bill WA 02/13; $12,514.94
+	Expenses:Programming:SolderingTutorial	$68.48
+	Assets:Checking
+
+2020/02/18	ATM CASH DEPOSIT 02/17 55 E MONROE ST CHICAGO IL; $12,534.94
+	Expenses:Programming:SolderingTutorial	-$20.00
+	Assets:Checking
+
+2020/02/18	STRIPE TRANSFER ST-H9H0R5L9N9X2 CCD ID: 1800948598; $12,819.94
+	Revenue:MemberDues	-$285.00
+	Assets:Checking
+
+2020/02/18	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 9077408546; $12,879.94
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/02/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,938.32
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/02/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,981.73
+	Revenue:MemberDues	-$43.41
+	Assets:Checking
+
+2020/02/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,015.66
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/02/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,049.59
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/02/19	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,083.52
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/02/21	Eventbrite, INC. EDI PYMNTS 3-12846435 CCD ID: 2141888467; $13,248.31
+	Expenses:Programming:SolderingTutorial	-$164.79
+	Assets:Checking
+
+2020/02/21	AMZNKEKTK22T AmazonSmil CDSQYLV5TEGKUY9 CCD ID: 9215319235; $13,290.46
+	Revenue:Donations:AmazonSmile	-$42.15
+	Assets:Checking
+
+2020/02/24	STRIPE TRANSFER ST-T3S7R8T2N9O8 CCD ID: 1800948598; $13,830.46
+	Revenue:MemberDues	-$540.00
+	Assets:Checking
+
+2020/02/24	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,864.39
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/02/25	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,922.77
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/02/26	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,926.77
+	Revenue:Donations:PayPalGivingFund	-$4.00
+	Assets:Checking
+
+2020/02/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,936.25
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/02/28	CHECK 104; $13,904.88
+	Expenses:Supplies	$31.37
 	Assets:Checking
