@@ -846,11 +846,11 @@
 	Assets:Checking
 
 2020/01/27	AMZN Mktp US*XL2973V Amzn.com/bill WA 01/24; $13,161.20
-	Expenses:Supplies	$11.15
+	Expenses:Supplies	$11.15	; Zip ties
 	Assets:Checking
 
 2020/01/27	AMZN Mktp US*XJ8RJ1O Amzn.com/bill WA 01/24; $13,149.52
-	Expenses:Supplies	$11.68
+	Expenses:Supplies	$11.68	; Spanner hook wrench for table saw
 	Assets:Checking
 
 2020/01/28	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,159.00
@@ -874,7 +874,7 @@
 	Assets:Checking
 
 2020/02/03	Amazon web services aws.amazon.co WA 02/02; $12,355.93
-	Expenses:Administrative:AmazonWebServices	$12.00
+	Expenses:Administrative:AmazonWebServices	$12.00	; Domain name renewal
 	Assets:Checking
 
 2020/02/03	CHECK 103; $12,261.33
@@ -886,7 +886,7 @@
 	Assets:Checking
 
 2020/02/05	ACE HARDWARE CORPORAT 800-453-0660 IL 02/05; $12,276.22
-	Expenses:Supplies	$5.11
+	Expenses:Supplies	$5.11	; Graphite lubricant for table saw
 	Assets:Checking
 
 2020/02/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,324.82
@@ -914,7 +914,7 @@
 	Assets:Checking
 
 2020/02/14	Amazon.com*UK9UM51C3 Amzn.com/bill WA 02/13; $12,514.94
-	Expenses:Programming:SolderingTutorial	$68.48
+	Expenses:Programming:SolderingTutorial	$68.48	; Cheap 3rd hand tools
 	Assets:Checking
 
 2020/02/18	ATM CASH DEPOSIT 02/17 55 E MONROE ST CHICAGO IL; $12,534.94
@@ -978,5 +978,5 @@
 	Assets:Checking
 
 2020/02/28	CHECK 104; $13,904.88
-	Expenses:Supplies	$31.37
+	Expenses:Supplies	$31.37	; 3D printer parts
 	Assets:Checking
