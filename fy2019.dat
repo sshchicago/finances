@@ -980,3 +980,112 @@
 2020/02/28	CHECK 104; $13,904.88
 	Expenses:Supplies	$31.37	; 3D printer parts
 	Assets:Checking
+
+2020/03/02	STRIPE TRANSFER ST-Q5A1F4R6I8X4 CCD ID: 1800948598; $14,514.88
+	Revenue:MemberDues	-$610.00
+	Assets:Checking
+
+2020/03/02	PAYPAL TRANSFER PPD ID: PAYPALSD11; $14,548.81
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/03/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 9143811246; $13,225.81
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/03/06	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,274.41
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/03/09	SP * MICROSWISSLLC 7636398566 MN 03/06; $13,312.16
+	Expenses:Supplies	-$37.75
+	Assets:Checking
+
+2020/03/09	STRIPE TRANSFER ST-B9O3L1U3Q8D4 CCD ID: 1800948598; $13,707.16
+	Revenue:MemberDues	-$395.00
+	Assets:Checking
+
+2020/03/09	COSTCO WHSE #1107 CHICAGO IL 285361 03/07; $13,581.33
+	Expenses:Programming:BirthdayParty	$125.83
+	Assets:Checking
+
+2020/03/10	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,615.26
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/03/12	QuickPay with Zelle payment from DMITRIY VYSOTSKIY 9290392959; $13,622.41 ; Reimbursement for personal purchases at Costco
+	Expenses:Programming:BirthdayParty	-$7.15
+	Assets:Checking
+
+2020/03/12	USCUTTER 425-481-3555 WA 03/12; $12,002.12
+	Expenses:Purchases:VinylCutter	$1,620.29
+	Assets:Checking
+
+2020/03/12	QuickPay with Zelle payment to DMITRIY VYSOTSKIY 9290450861; $11,786.02	; Refund for part of the vinyl cutter proposal
+	Expenses:Purchases:VinylCutter	$216.10
+	Assets:Checking
+
+2020/03/13	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,863.96
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2020/03/16	STRIPE TRANSFER ST-G7C5W4P3M2M0 CCD ID: 1800948598; $12,148.96
+	Revenue:MemberDues	-$285.00
+	Assets:Checking
+
+2020/03/16	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 9192594940; $12,208.96
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/03/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,267.34
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/03/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,276.82
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/03/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,310.75
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/03/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,320.23
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/03/18	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,354.16
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/03/19	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,388.09
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/03/23	STRIPE TRANSFER ST-O2O3M2C4C2A8 CCD ID: 1800948598; $12,968.09
+	Revenue:MemberDues	-$580.00
+	Assets:Checking
+
+2020/03/23	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,002.02
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/03/23	PAYPAL ECHECK 1008345596851 WEB ID: PAYPALEC88; $12,967.79	; Payment refund
+	Revenue:MemberDues	$34.23
+	Assets:Checking
+
+2020/03/25	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,126.17	; $100 donated by Chris Agocs just because
+	Revenue:MemberDues	-$58.38
+	Revenue:Donations:Individual	-$100.00
+	Assets:Checking
+
+2020/03/26	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,127.17
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
+
+2020/03/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,136.65
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/03/30	STRIPE TRANSFER ST-R5I4V8A6K3M5 CCD ID: 1800948598; $13,711.65
+	Revenue:MemberDues	-$575.00
+	Assets:Checking
