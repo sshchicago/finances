@@ -1089,3 +1089,75 @@
 2020/03/30	STRIPE TRANSFER ST-R5I4V8A6K3M5 CCD ID: 1800948598; $13,711.65
 	Revenue:MemberDues	-$575.00
 	Assets:Checking
+
+2020/04/01	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,745.58
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/04/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 9252155172; $12,422.58
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/04/06	STRIPE TRANSFER ST-E9Y8A4A0A9W8 CCD ID: 1800948598; $12,657.58
+	Revenue:MemberDues	-$235.00
+	Assets:Checking
+
+2020/04/07	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,706.18
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/04/10	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,740.11
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/04/13	STRIPE TRANSFER ST-G5V2T8Y4R1H3 CCD ID: 1800948598; $12,920.11
+	Revenue:MemberDues	-$180.00
+	Assets:Checking
+
+2020/04/13	PAYPAL TRANSFER PPD ID: PAYPALSD11; $12,998.05
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2020/04/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 9303343074; $13,058.05
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/04/15	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,116.43
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/04/15	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,125.91
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/04/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,135.39
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/04/17	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,169.32
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/04/20	STRIPE TRANSFER ST-Q1N2X5C1B1K9 CCD ID: 1800948598; $13,439.32
+	Revenue:MemberDues	-$270.00
+	Assets:Checking
+
+2020/04/22	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,473.25
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/04/27	STRIPE TRANSFER ST-L2K5T3Q5K7U7 CCD ID: 1800948598; $13,688.25
+	Revenue:MemberDues	-$215.00
+	Assets:Checking
+
+2020/04/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,746.63
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/04/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,756.11
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/04/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,761.11
+	Revenue:Donations:PayPalGivingFund	-$5.00
+	Assets:Checking
