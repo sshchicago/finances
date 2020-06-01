@@ -1231,7 +1231,7 @@
 	Assets:Checking
 
 2020/05/26	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,865.35
-	Revenue:MemberDues	-$1.00
+	Revenue:Donations:PayPalGivingFund	-$1.00
 	Assets:Checking
 
 2020/05/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,874.83
