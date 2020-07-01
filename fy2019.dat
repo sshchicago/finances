@@ -1237,3 +1237,103 @@
 2020/05/27	PAYPAL TRANSFER PPD ID: PAYPALSD11; $13,874.83
 	Revenue:MemberDues	-$9.48
 	Assets:Checking
+
+2020/06/01	STRIPE TRANSFER; $14,059.83
+	Revenue:MemberDues	-$185.00
+	Assets:Checking
+
+2020/06/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 9707310022; $12,736.83
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/06/08	STRIPE TRANSFER; $12,876.83
+	Revenue:MemberDues	-$140.00
+	Assets:Checking
+
+2020/06/08	PAYPAL TRANSFER; $12,925.43
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/06/08	THE HOME DEPOT 1986 CHICAGO IL 312529 06/07; $12,862.02
+	Expenses:Supplies	$63.41
+	Assets:Checking
+
+2020/06/10	PAYPAL TRANSFER; $12,895.95
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/06/15	STRIPE TRANSFER; $13,275.95
+	Revenue:MemberDues	-$380.00
+	Assets:Checking
+
+2020/06/15	PAYPAL TRANSFER; $13,353.89
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2020/06/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 9612718939; $13,413.89
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/06/15	PAYPAL TRANSFER; $13,472.27
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/06/15	PAYPAL TRANSFER; $13,481.75
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/06/16	PAYPAL TRANSFER; $13,491.23
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/06/16	CHECK 106; $13,283.80
+	Expenses:Projects:BackYardExtraImprovement	$207.43
+	Assets:Checking
+
+2020/06/16	CHECK 105; $13,273.80
+	Expenses:Administrative:Government	$10.00
+	Assets:Checking
+
+2020/06/17	PAYPAL TRANSFER; $13,307.73
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/06/22	STRIPE TRANSFER; $13,747.73
+	Revenue:MemberDues	-$440.00
+	Assets:Checking
+
+2020/06/22	PAYPAL TRANSFER; $13,781.66
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/06/25	PAYPAL TRANSFER; $13,840.04
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/06/26	PAYPAL TRANSFER; $13,842.04
+	Revenue:Donations:PayPalGivingFund	-$2.00
+	Assets:Checking
+
+2020/06/26	AMZN Mktp US*MS5US1I Amzn.com/bill WA 06/25; $13,815.10
+	Expenses:Purchases:Airbrush	$26.94
+	Assets:Checking
+
+2020/06/29	STRIPE TRANSFER; $14,465.10
+	Revenue:MemberDues	-$650.00
+	Assets:Checking
+
+2020/06/29	AMZN Mktp US*MS7AY1W Amzn.com/bill WA 06/26; $14,433.24
+	Expenses:Purchases:Airbrush	$31.86
+	Assets:Checking
+
+2020/06/29	COSTCO WHSE #1107 CHICAGO IL 597592 06/28; $14,414.51
+	Expenses:Supplies	$18.73
+	Assets:Checking
+
+2020/06/30	HOBBYLINC COM 770-4662667 GA 06/29; $14,249.84
+	Expenses:Purchases:Airbrush	$164.67
+	Assets:Checking
+
+2020/06/30	1PASSWORD TORONTO ON 06/29; $14,122.74
+	Expenses:Administrative:PasswordManager	$127.10
+	Assets:Checking
