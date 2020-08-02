@@ -1337,3 +1337,119 @@
 2020/06/30	1PASSWORD TORONTO ON 06/29; $14,122.74
 	Expenses:Administrative:PasswordManager	$127.10
 	Assets:Checking
+
+2020/07/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 9709198602; $12,799.74
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/07/06	STRIPE TRANSFER; $13,139.74
+	Revenue:MemberDues	-$340.00
+	Assets:Checking
+
+2020/07/06	PAYPAL TRANSFER; $13,188.34
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/07/06	AMZN Mktp US*MJ6DV0J Amzn.com/bill WA 07/06; $13,172.37
+	Expenses:Purchases:Airbrush	$15.97
+	Assets:Checking
+
+2020/07/10	PAYPAL TRANSFER; $13,206.30
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/07/13	STRIPE TRANSFER; $13,571.30
+	Revenue:MemberDues	-$365.00
+	Assets:Checking
+
+2020/07/13	PAYPAL TRANSFER; $13,649.24
+	Revenue:MemberDues	-$77.94
+	Assets:Checking
+
+2020/07/13	AMTRUST NORTH AMERICA 877-5287878 OH 07/10; $11,702.24
+	Expenses:Insurance	$1,947.00
+	Assets:Checking
+
+2020/07/14	PAYPAL TRANSFER; $11,711.72
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/07/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 9780099544; $11,771.72
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/07/15	PAYPAL TRANSFER; $11,830.10
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/07/16	ATM CASH DEPOSIT 07/15 1953 W 21st Place CHICAGO IL; $11,840.10
+	Expenses:Purchases:AirConditioner2	-$10.00
+	Assets:Checking
+
+2020/07/16	PAYPAL TRANSFER; $11,849.58
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/07/16	ATM WITHDRAWAL 009052 07/151953 W 21; $11,589.58
+	Expenses:Purchases:AirConditioner2	$260.00
+	Assets:Checking
+
+2020/07/16	ORIG CO NAME:PAYPAL ORIG ID:PAYPALEC88 DESC DATE:200715 CO ENTRY DESCR:ECHECK SEC:WEB TRACE#:091000011012341 EED:200716 IND ID:1009660578535 IND NAME:DMITRIY VYSOTSKIY; $11,511.34 ; Refund of canceled due
+	Revenue:MemberDues	$78.24
+	Assets:Checking
+
+2020/07/17	PAYPAL TRANSFER; $11,545.27
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/07/20	STRIPE TRANSFER; $12,235.27
+	Revenue:MemberDues	-$690.00
+	Assets:Checking
+
+2020/07/22	PAYPAL TRANSFER; $12,269.20
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/07/24	WWW COSTCO COM 800-955-2292 WA 07/24; $12,244.77
+	Expenses:Supplies	$24.43
+	Assets:Checking
+
+2020/07/24	AMZN Mktp US*MV7VP4U Amzn.com/bill WA 07/24; $12,223.49
+	Expenses:Supplies	$21.28
+	Assets:Checking
+
+2020/07/24	AMZN Mktp US*MV0GO2H Amzn.com/bill WA 07/24; $12,191.63
+	Expenses:Supplies	$31.86
+	Assets:Checking
+
+2020/07/27	STRIPE TRANSFER; $12,791.63
+	Revenue:MemberDues	-$600.00
+	Assets:Checking
+
+2020/07/27	PAYPAL TRANSFER; $12,850.01
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/07/28	AMZN Mktp US*MF6E26O Amzn.com/bill WA 07/27; $12,839.44
+	Expenses:Supplies	$10.57
+	Assets:Checking
+
+2020/07/29	THE HOME DEPOT 1950 CHICAGO IL 593926 07/29; $12,831.74
+	Expenses:Supplies	$7.70
+	Assets:Checking
+
+2020/07/30	WALGREENS #2025 CHICAGO IL 07/29; $12,804.73
+	Expenses:Supplies	$27.01
+	Assets:Checking
+
+2020/07/30	CVS/PHARMACY #08738 CHICAGO IL 07/29; $12,798.35
+	Expenses:Supplies	$6.38
+	Assets:Checking
+
+2020/07/31	AMZN Mktp US*MF0SH3T Amzn.com/bill WA 07/30; $12,742.60
+	Expenses:Supplies	$55.75
+	Assets:Checking
+
+2020/07/31	SPRAYGUNNER 813-336-4201 FL 07/30; $12,730.04
+	Expenses:Purchases:Airbrush	$12.56
+	Assets:Checking
