@@ -1013,7 +1013,7 @@
 	Revenue:MemberDues	-$33.93
 	Assets:Checking
 
-2020/03/12	QuickPay with Zelle payment from DMITRIY VYSOTSKIY 9290392959; $13,622.41 ; Reimbursement for personal purchases at Costco
+2020/03/12	QuickPay with Zelle payment from DMITRIY VYSOTSKIY 9290392959; $13,622.41	; Reimbursement for personal purchases at Costco
 	Expenses:Programming:BirthdayParty	-$7.15
 	Assets:Checking
 
@@ -1394,7 +1394,7 @@
 	Expenses:Purchases:AirConditioner2	$260.00
 	Assets:Checking
 
-2020/07/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,511.34 ; Refund of canceled due
+2020/07/16	PAYPAL TRANSFER PPD ID: PAYPALSD11; $11,511.34	; Refund of canceled due
 	Revenue:MemberDues	$78.24
 	Assets:Checking
 
