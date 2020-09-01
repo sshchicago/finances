@@ -1,0 +1,108 @@
+2020/08/01	Opening Balance
+	Assets:Checking	$12,730.04
+	Equity
+
+2020/08/03	STRIPE TRANSFER; $13,133.61
+	Revenue:MemberDues	-$403.57
+	Assets:Checking
+
+2020/08/03	QuickPay with Zelle payment to BUBBLY DYNAMICS 9875476264; $11,810.61
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/08/03	CHECK 107 08/03; $11,656.23
+	Expenses:Supplies	$154.38
+	Assets:Checking
+
+2020/08/06	PAYPAL TRANSFER; $11,704.83
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/08/10	STRIPE TRANSFER; $11,933.16
+	Revenue:MemberDues	-$228.33
+	Assets:Checking
+
+2020/08/10	PAYPAL TRANSFER; $11,967.09
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/08/13	AmazonSmilSEC:CCD; $12,012.15
+	Revenue:Donations:AmazonSmile	-$45.06
+	Assets:Checking
+
+2020/08/14	PAYPAL TRANSFER; $12,021.63
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/08/14	BLT*M&Mtoolparts 887-7583727 UT 08/13; $12,012.63
+	Expenses:Supplies	$9.00
+	Assets:Checking
+
+2020/08/17	STRIPE TRANSFER; $12,357.42
+	Revenue:MemberDues	-$344.79
+	Assets:Checking
+
+2020/08/17	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 9946169312; $12,417.42
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/08/17	PAYPAL TRANSFER; $12,475.80
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/08/17	PAYPAL TRANSFER; $12,509.73
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/08/17	PAYPAL TRANSFER; $12,519.21
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/08/19	BLT*M&Mtoolparts 887-7583727 UT 08/18; $12,528.21
+	Expenses:Supplies	-$9.00
+	Assets:Checking
+
+2020/08/21	USPS.COM POSTAL STORE 800-782-6724 MO 08/19; $12,515.91
+	Expenses:Administrative	$12.30
+	Assets:Checking
+
+2020/08/24	STRIPE TRANSFER; $13,147.12
+	Revenue:MemberDues	-$631.21
+	Assets:Checking
+
+2020/08/24	PAYPAL TRANSFER; $13,181.05
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/08/25	PAYPAL TRANSFER; $13,239.43
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/08/26	PAYPAL TRANSFER; $13,262.68
+	Revenue:Donations:PayPalGivingFund	-$23.25
+	Assets:Checking
+
+2020/08/28	THE HOME DEPOT 1950 CHICAGO IL 970390 08/28; $13,254.35
+	Expenses:Purchases:AirConditioner2	$8.33
+	Assets:Checking
+
+2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 772449 08/29; $13,274.46
+	Expenses:Purchases:AirConditioner2	-$20.11
+	Assets:Checking
+
+2020/08/31	STRIPE TRANSFER; $13,988.14
+	Revenue:MemberDues	-$713.68
+	Assets:Checking
+
+2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 928421 08/29; $13,774.51
+	Expenses:Purchases:AirConditioner2	$77.60
+	Expenses:Supplies	$136.03
+	Assets:Checking
+
+2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 430110 08/29; $13,739.50
+	Expenses:Purchases:AirConditioner2	$35.01
+	Assets:Checking
+
+2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 689640 08/29; $13,724.07
+	Expenses:Purchases:AirConditioner2	$15.43
+	Assets:Checking
