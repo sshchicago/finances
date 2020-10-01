@@ -95,8 +95,7 @@
 	Assets:Checking
 
 2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 928421 08/29; $13,774.51
-	Expenses:Purchases:AirConditioner2	$77.60
-	Expenses:Supplies	$136.03
+	Expenses:Purchases:AirConditioner2	$213.63
 	Assets:Checking
 
 2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 430110 08/29; $13,739.50
@@ -105,4 +104,84 @@
 
 2020/08/31	THE HOME DEPOT 1986 CHICAGO IL 689640 08/29; $13,724.07
 	Expenses:Purchases:AirConditioner2	$15.43
+	Assets:Checking
+
+2020/09/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 10179163862; $12,401.07
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/09/08	STRIPE TRANSFER; $12,711.93
+	Revenue:MemberDues	-$310.86
+	Assets:Checking
+
+2020/09/08	PAYPAL TRANSFER; $12,760.53
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/09/10	PAYPAL TRANSFER; $12,794.46
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/09/10	PARTSBUILT 3D HTTPSWWW.PART OH 09/09; $12,699.57
+	Expenses:Supplies	$94.89
+	Assets:Checking
+
+2020/09/14	THE HOME DEPOT 1986 CHICAGO IL 610310 09/12; $12,753.10
+	Expenses:Purchases:AirConditioner2	-$53.53
+	Assets:Checking
+
+2020/09/14	STRIPE TRANSFER; $13,151.38
+	Revenue:MemberDues	-$398.28
+	Assets:Checking
+
+2020/09/14	PAYPAL TRANSFER; $13,160.86
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/09/14	THE HOME DEPOT 1986 CHICAGO IL 950476 09/12; $13,126.23
+	Expenses:Purchases:AirConditioner2	$34.63
+	Assets:Checking
+
+2020/09/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 10122092154; $13,186.23
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/09/15	PAYPAL TRANSFER; $13,244.61
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/09/16	PAYPAL TRANSFER; $13,254.09
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/09/17	PAYPAL TRANSFER; $13,288.02
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/09/21	STRIPE TRANSFER; $13,870.63
+	Revenue:MemberDues	-$582.61
+	Assets:Checking
+
+2020/09/22	PAYPAL TRANSFER; $13,904.56
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/09/25	PAYPAL TRANSFER; $13,962.94
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/09/28	THE HOME DEPOT 1986 CHICAGO IL 041988 09/26; $13,965.54
+	Expenses:Purchases:AirConditioner2	-$2.60
+	Assets:Checking
+
+2020/09/28	STRIPE TRANSFER; $14,504.73
+	Revenue:MemberDues	-$539.19
+	Assets:Checking
+
+2020/09/28	PAYPAL TRANSFER; $14,505.73
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
+
+2020/09/30	CHECK 108; $14,490.73
+	Expenses:Administrative	$15.00
 	Assets:Checking
