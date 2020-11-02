@@ -185,3 +185,123 @@
 2020/09/30	CHECK 108; $14,490.73
 	Expenses:Administrative	$15.00
 	Assets:Checking
+
+2020/10/01	QuickPay with Zelle payment to COYLE CONTRACTORS LLC 10385348426; $14,475.73
+	Expenses:Purchases:AirConditioner2	$15.00
+	Assets:Checking
+
+2020/10/02	ATM CASH DEPOSIT 10/02 1130 W TAYLOR ST CHICAGO IL; $14,520.73
+	Revenue:MemberDues	-$45.00
+	Assets:Checking
+
+2020/10/02	GRIZZLY INDUSTRIAL PH 360-647-0801 WA 10/01; $14,491.61
+	Expenses:Supplies	$29.12
+	Assets:Checking
+
+2020/10/02	PAYPAL *ANVEO.COM 402-935-7733 PA 10/01; $14,476.61
+	Expenses:Administrative:911Service	$15.00
+	Assets:Checking
+
+2020/10/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 10364221063; $13,153.61
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/10/05	STRIPE TRANSFER; $13,643.85
+	Revenue:MemberDues	-$490.24
+	Assets:Checking
+
+2020/10/06	PAYPAL TRANSFER; $13,692.45
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/10/09	AMZN Mktp US*MK1OW0X Amzn.com/bill WA 10/09; $13,639.34
+	Expenses:Supplies	$53.11
+	Assets:Checking
+
+2020/10/13	STRIPE TRANSFER; $13,993.91
+	Revenue:MemberDues	-$354.57
+	Assets:Checking
+
+2020/10/13	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 10455418399; $14,038.91
+	Revenue:MemberDues	-$45.00
+	Assets:Checking
+
+2020/10/13	PAYPAL TRANSFER; $14,072.84
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/10/13	Amazon.com*MK7BE4DM0 Amzn.com/bill WA 10/12; $14,014.27
+	Expenses:Supplies	$58.57
+	Assets:Checking
+
+2020/10/14	PAYPAL TRANSFER; $14,023.75
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/10/15	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 10292218992; $14,083.75
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/10/15	PAYPAL TRANSFER; $14,142.13
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/10/15	TARGET T- 1940 W 33rd Chicago IL 10/15; $14,127.38
+	Expenses:Supplies	$14.75
+	Assets:Checking
+
+2020/10/16	PAYPAL TRANSFER; $14,136.86
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/10/19	STRIPE TRANSFER; $14,758.29
+	Revenue:MemberDues	-$621.43
+	Assets:Checking
+
+2020/10/19	PAYPAL TRANSFER; $14,792.22
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/10/19	AMZN Mktp US*2T7K230 Amzn.com/bill WA 10/18; $14,717.86
+	Expenses:Purchases:BatterySpotWelder	$74.36
+	Assets:Checking
+
+2020/10/19	AMZN Mktp US*2T5QC0Z Amzn.com/bill WA 10/18; $14,399.12
+	Expenses:Purchases:BatterySpotWelder	$318.74
+	Assets:Checking
+
+2020/10/19	THE HOME DEPOT 1986 CHICAGO IL 920060 10/18; $14,394.37
+	Expenses:Supplies	$4.75
+	Assets:Checking
+
+2020/10/21	MICRO ELE 2645 Elston Chicago IL 10/21; $14,377.84
+	Expenses:Supplies	$16.53
+	Assets:Checking
+
+2020/10/22	PAYPAL TRANSFER; $14,411.77
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/10/26	STRIPE TRANSFER; $14,878.21
+	Revenue:MemberDues	-$466.44
+	Assets:Checking
+
+2020/10/26	PAYPAL TRANSFER; $14,936.59
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/10/26	THE HOME DEPOT 1986 CHICAGO IL 304451 10/24; $14,890.53
+	Expenses:Supplies	$46.06
+	Assets:Checking
+
+2020/10/30	HORIZON HOBBY RETAIL 217-352-1913 IL 10/29; $14,694.34
+	Expenses:Purchases:RealFlightBundle	$196.19
+	Assets:Checking
+
+2020/10/31	POS DEBIT Amazon.com Amzn.com/bil WA; $14,682.13
+	Expenses:Purchases:RealFlightBundle	$12.21
+	Assets:Checking
+
+2020/10/31	POS DEBIT AMZN Mktp US Amzn.com/bil WA; $14,385.69
+	Expenses:Purchases:AirHose	$296.44
+	Assets:Checking
