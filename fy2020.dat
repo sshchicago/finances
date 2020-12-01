@@ -297,3 +297,83 @@
 2020/10/30	HORIZON HOBBY RETAIL 217-352-1913 IL 10/29; $14,694.34
 	Expenses:Purchases:RealFlightBundle	$196.19
 	Assets:Checking
+
+2020/11/02	STRIPE TRANSFER; $15,184.58
+	Revenue:MemberDues	-$490.24
+	Assets:Checking
+
+2020/11/02	AMZN Mktp US*287MX2A Amzn.com/bill WA 10/30; $14,888.14
+	Expenses:Purchases:AirHose	$296.44
+	Assets:Checking
+
+2020/11/02	Amazon.com*284U90AT0 Amzn.com/bill WA 10/31; $14,875.93
+	Expenses:Purchases:RealFlightBundle	$12.21
+	Assets:Checking
+
+2020/11/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 10390665228; $13,552.93
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2020/11/06	PAYPAL TRANSFER; $13,601.53
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2020/11/09	STRIPE TRANSFER; $13,956.10
+	Revenue:MemberDues	-$354.57
+	Assets:Checking
+
+2020/11/10	PAYPAL TRANSFER; $13,990.03
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/11/12	AmazonSmilSEC:CCD; $14,056.81
+	Revenue:Donations:AmazonSmile	-$66.78
+	Assets:Checking
+
+2020/11/12	1PASSWORD TORONTO ON 11/11; $14,041.73
+	Expenses:Administrative:PasswordManager	$15.08
+	Assets:Checking
+
+2020/11/16	STRIPE TRANSFER; $14,342.81
+	Revenue:MemberDues	-$301.08
+	Assets:Checking
+
+2020/11/16	PAYPAL TRANSFER; $14,401.19
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/11/16	PAYPAL TRANSFER; $14,410.67
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/11/16	PAYPAL TRANSFER; $14,420.15
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2020/11/17	PAYPAL TRANSFER; $14,454.08
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/11/19	QuickPay with Zelle payment from COYLE CONTRACTORS LLC 10665868471; $14,514.08
+	Revenue:MemberDues	-$60.00
+	Assets:Checking
+
+2020/11/23	STRIPE TRANSFER; $15,052.98
+	Revenue:MemberDues	-$538.90
+	Assets:Checking
+
+2020/11/23	PAYPAL TRANSFER; $15,086.91
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2020/11/25	PAYPAL TRANSFER; $15,145.29
+	Revenue:MemberDues	-$58.38
+	Assets:Checking
+
+2020/11/30	STRIPE TRANSFER; $15,781.33
+	Revenue:MemberDues	-$636.04
+	Assets:Checking
+
+2020/11/30	COSTCO WHSE #1107 CHICAGO IL 010667 11/28; $15,762.60
+	Expenses:Supplies	$18.73
+	Assets:Checking
