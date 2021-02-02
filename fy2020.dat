@@ -454,3 +454,71 @@
 	Expenses:Purchases:DrillPress	$219.06
 	Expenses:Purchases:BandsawUpgrade	$114.07
 	Assets:Checking
+
+2021/01/04	STRIPE TRANSFER; $17,195.86
+	Revenue:MemberDues	-$631.15
+	Assets:Checking
+
+2021/01/04	QuickPay with Zelle payment to BUBBLY DYNAMICS 10740310969; $15,872.86
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2021/01/04	CHECK 110; $15,457.86
+	Expenses:Purchases:Resin3DPrinter	$415.00
+	Assets:Checking
+
+2021/01/05	PAYPAL TRANSFER; $15,506.46
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2021/01/08	Amazon.com*DT35L8IY3 Amzn.com/bill WA 01/07; $15,416.79
+	Expenses:Supplies	$89.67
+	Assets:Checking
+
+2021/01/11	STRIPE TRANSFER; $15,907.38
+	Revenue:MemberDues	-$490.59
+	Assets:Checking
+
+2021/01/11	PAYPAL TRANSFER; $15,941.31
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/01/11	CHECK 111; $15,924.66
+	Expenses:Administrative:ExtinguisherInspection	$16.65
+	Assets:Checking
+
+2021/01/12	CHECK 112; $15,808.32
+	Expenses:Purchases:TableSaw	$116.34	; Back room tool storage
+	Assets:Checking
+
+2021/01/13	PAYPAL TRANSFER; $15,817.80
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/01/15	PAYPAL TRANSFER; $15,827.28
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/01/19	STRIPE TRANSFER; $16,259.20
+	Revenue:MemberDues	-$431.92
+	Assets:Checking
+
+2021/01/19	PAYPAL TRANSFER; $16,293.13
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/01/19	THE HOME DEPOT 1950 CHICAGO IL 525647 01/16; $16,275.01
+	Expenses:Purchases:TableSaw	$18.12	; Fix back room shelving leg
+	Assets:Checking
+
+2021/01/21	PAYPAL TRANSFER; $16,308.94
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/01/25	STRIPE TRANSFER; $16,901.62
+	Revenue:MemberDues	-$592.68
+	Assets:Checking
+
+2021/01/25	CHECK 113 01/25; $16,830.99
+	Expenses:Purchases:BandsawUpgrade	$70.63
+	Assets:Checking
