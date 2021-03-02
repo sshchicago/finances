@@ -522,3 +522,75 @@
 2021/01/25	CHECK 113 01/25; $16,830.99
 	Expenses:Purchases:BandsawUpgrade	$70.63
 	Assets:Checking
+
+2021/02/01	STRIPE TRANSFER; $17,457.25
+	Revenue:MemberDues	-$626.26
+	Assets:Checking
+
+2021/02/02	Amazon web services aws.amazon.co WA 02/01; $17,445.25
+	Expenses:Administrative:AmazonWebServices	$12.00	; Domain name renewal
+	Assets:Checking
+
+2021/02/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 10926995256; $16,122.25
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2021/02/05	PAYPAL TRANSFER; $16,170.85
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2021/02/08	STRIPE TRANSFER; $16,525.42
+	Revenue:MemberDues	-$354.57
+	Assets:Checking
+
+2021/02/08	CHECK 114; $16,455.08
+	Expenses:Purchases:TableSaw	$70.34	; Unistrut for overhead reels
+	Assets:Checking
+
+2021/02/09	PAYPAL TRANSFER; $16,489.01
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/02/16	STRIPE TRANSFER; $16,921.22
+	Revenue:MemberDues	-$432.21
+	Assets:Checking
+
+2021/02/16	PAYPAL TRANSFER; $16,955.15
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/02/16	PAYPAL TRANSFER; $16,964.63
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/02/16	PAYPAL TRANSFER; $16,974.11
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/02/16	THE HOME DEPOT 1986 CHICAGO IL 934729 02/13; $16,807.28
+	Expenses:Purchases:TableSaw	$166.83	; Hardware for overhead reels and shelf
+	Assets:Checking
+
+2021/02/16	THE HOME DEPOT 1986 CHICAGO IL 936239 02/13; $16,794.38
+	Expenses:Purchases:TableSaw	$12.90	; More hardware for overhead reels and shelf
+	Assets:Checking
+
+2021/02/22	STRIPE TRANSFER; $17,240.97
+	Revenue:MemberDues	-$446.59
+	Assets:Checking
+
+2021/02/22	AmazonSmilSEC:CCD; $17,317.27
+	Revenue:Donations:AmazonSmile	-$76.30
+	Assets:Checking
+
+2021/02/22	PAYPAL TRANSFER; $17,351.20
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/02/22	CHECK 115; $17,295.09
+	Expenses:Purchases:TableSaw	$56.11	; Back room improvements
+	Assets:Checking
+
+2021/02/25	PAYPAL TRANSFER; $17,297.09
+	Revenue:Donations:PayPalGivingFund	-$2.00
+	Assets:Checking
