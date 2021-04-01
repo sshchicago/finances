@@ -594,3 +594,71 @@
 2021/02/25	PAYPAL TRANSFER; $17,297.09
 	Revenue:Donations:PayPalGivingFund	-$2.00
 	Assets:Checking
+
+2021/03/01	STRIPE TRANSFER; $18,107.97
+	Revenue:MemberDues	-$810.88
+	Assets:Checking
+
+2021/03/02	QuickPay with Zelle payment to BUBBLY DYNAMICS 11112538532; $16,784.97
+	Expenses:Rent	$1,323.00
+	Assets:Checking
+
+2021/03/04	WALMART.COM AV 800-966-6546 AR 03/03; $16,676.38
+	Expenses:Purchases:AirCompressorAccessories	$108.59
+	Assets:Checking
+
+2021/03/04	AMZN Mktp US*YG1Z33V Amzn.com/bill WA 03/03; $16,610.99
+	Expenses:Purchases:AirCompressorAccessories	$65.39
+	Assets:Checking
+
+2021/03/05	PAYPAL TRANSFER; $16,659.59
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2021/03/08	THE HOME DEPOT 1986 CHICAGO IL 03/06; $16,747.59
+	Expenses:Purchases:AirCompressorAccessories	-$88.00
+	Assets:Checking
+
+2021/03/08	STRIPE TRANSFER; $17,417.91
+	Revenue:MemberDues	-$670.32
+	Assets:Checking
+
+2021/03/08	THE HOME DEPOT 1986 CHICAGO IL 03/06; $17,267.91
+	Expenses:Purchases:AirCompressorAccessories	$150.00
+	Assets:Checking
+
+2021/03/08	MARIANOS 3145 S ASHLA CHICAGO IL 03/06; $17,247.09
+	Expenses:Programming:HackerspaceBirthday	$20.82
+	Assets:Checking
+
+2021/03/09	PAYPAL TRANSFER; $17,281.02
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/03/15	STRIPE TRANSFER; $17,723.01
+	Revenue:MemberDues	-$441.99
+	Assets:Checking
+
+2021/03/15	PAYPAL TRANSFER; $17,732.49
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/03/16	PAYPAL TRANSFER; $17,741.97
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/03/17	PAYPAL TRANSFER; $17,775.90
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/03/22	STRIPE TRANSFER; $18,178.78
+	Revenue:MemberDues	-$402.88
+	Assets:Checking
+
+2021/03/22	PAYPAL TRANSFER; $18,212.71
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/03/29	STRIPE TRANSFER; $19,023.59
+	Revenue:MemberDues	-$810.88
+	Assets:Checking
