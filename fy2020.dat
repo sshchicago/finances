@@ -850,3 +850,91 @@
 2021/05/25	IN *ASW MACHINERY INC. 866-7925288 DE 05/24; $15,895.34
 	Expenses:Supplies	$102.33
 	Assets:Checking
+
+2021/06/01	STRIPE TRANSFER; $16,609.02
+	Revenue:MemberDues	-$713.68
+	Assets:Checking
+
+2021/06/02	Zelle payment from DMITRIY VYSOTSKIY 11899839593; $18,109.02
+	Expenses:InternetService	-$1,500.00
+	Assets:Checking
+
+2021/06/02	eReplacementparts.com 866-3229842 FL 06/01; $18,095.87
+	Expenses:Supplies	$13.15
+	Assets:Checking
+
+2021/06/02	Zelle payment to BUBBLY DYNAMICS 11707300462; $16,718.87
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2021/06/03	Zelle payment from DMITRIY VYSOTSKIY 11899846161; $18,218.87
+	Expenses:InternetService	-$1,500.00
+	Assets:Checking
+
+2021/06/03	GOOGLE *WEBPASS 800-932-7277 CA 06/03; $15,088.87
+	Expenses:InternetService	$3,130.00
+	Assets:Checking
+
+2021/06/03	Zelle payment to Daniel Meyer 11901042958; $14,820.87
+	Expenses:Supplies	$268.00
+	Assets:Checking
+
+2021/06/07	STRIPE TRANSFER; $15,219.15
+	Revenue:MemberDues	-$398.28
+	Assets:Checking
+
+2021/06/07	PAYPAL TRANSFER; $15,267.75
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2021/06/07	EBAY EDI PAYMENTS; $15,313.33
+	Revenue:Sales	-$45.58
+	Assets:Checking
+
+2021/06/09	PAYPAL TRANSFER; $15,347.26
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/06/09	CHECK 116; $15,337.26
+	Expenses:Administrative:Government	$10.00
+	Assets:Checking
+
+2021/06/14	STRIPE TRANSFER; $15,866.67
+	Revenue:MemberDues	-$529.41
+	Assets:Checking
+
+2021/06/14	PAYPAL TRANSFER; $15,876.15
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/06/15	PAYPAL TRANSFER; $15,930.63
+	Revenue:MemberDues	-$54.48
+	Assets:Checking
+
+2021/06/16	PAYPAL TRANSFER; $15,964.56
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/06/21	STRIPE TRANSFER; $16,585.99
+	Revenue:MemberDues	-$621.43
+	Assets:Checking
+
+2021/06/21	PAYPAL TRANSFER; $16,619.92
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/06/21	COSTCO WHSE #1153 NORTH RIVERS IL 941463 06/20; $16,603.65
+	Expenses:Supplies	$16.27
+	Assets:Checking
+
+2021/06/25	GOOGLE *WEBPASS 800-932-7277 CA 06/24; $16,473.65
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2021/06/28	STRIPE TRANSFER; $17,061.44
+	Revenue:MemberDues	-$587.79
+	Assets:Checking
+
+2021/06/30	1PASSWORD TORONTO ON 06/29; $16,893.86
+	Expenses:Administrative:PasswordManager	$167.58
+	Assets:Checking
