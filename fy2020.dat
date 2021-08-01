@@ -938,3 +938,68 @@
 2021/06/30	1PASSWORD TORONTO ON 06/29; $16,893.86
 	Expenses:Administrative:PasswordManager	$167.58
 	Assets:Checking
+
+2021/07/02	Zelle payment to BUBBLY DYNAMICS 11893534802; $15,516.86
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2021/07/06	STRIPE TRANSFER; $16,104.30
+	Revenue:MemberDues	-$587.44
+	Assets:Checking
+
+2021/07/06	PAYPAL TRANSFER; $16,152.90
+	Revenue:MemberDues	-$48.60
+	Assets:Checking
+
+2021/07/09	PAYPAL TRANSFER; $16,186.83
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/07/12	STRIPE TRANSFER; $16,677.42
+	Revenue:MemberDues	-$490.59
+	Assets:Checking
+
+2021/07/13	PAYPAL TRANSFER; $16,686.90
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/07/15	PAYPAL TRANSFER; $16,696.38
+	Revenue:MemberDues	-$9.48
+	Assets:Checking
+
+2021/07/16	PAYPAL TRANSFER; $16,730.31
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/07/19	STRIPE TRANSFER; $17,473.09
+	Revenue:MemberDues	-$742.78
+	Assets:Checking
+
+2021/07/21	PAYPAL TRANSFER; $17,507.02
+	Revenue:MemberDues	-$33.93
+	Assets:Checking
+
+2021/07/23	PAYPAL TRANSFER; $17,509.02
+	Revenue:MemberDues	-$2.00
+	Assets:Checking
+
+2021/07/26	STRIPE TRANSFER; $18,019.17
+	Revenue:MemberDues	-$510.15
+	Assets:Checking
+
+2021/07/26	THE HOME DEPOT #1901 BROADVIEW IL 07/22; $17,983.49
+	Expenses:Supplies	$22.83
+	Expenses:Purchases:AirConditioner3	$12.85
+	Assets:Checking
+
+2021/07/26	GOOGLE *WEBPASS 800-932-7277 CA 07/24; $17,853.49
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2021/07/28	IN *ASW MACHINERY INC. 866-7925288 DE 07/27; $17,737.73
+	Expenses:Supplies	$115.76
+	Assets:Checking
+
+2021/07/31	POS DEBIT ZORO TOOLS INC 847--2477664 IL; $17,693.54
+	Expenses:Supplies	$44.19
+	Assets:Checking
