@@ -1003,3 +1003,7 @@
 2021/07/31	POS DEBIT ZORO TOOLS INC 847--2477664 IL; $17,693.54
 	Expenses:Supplies	$44.19
 	Assets:Checking
+
+2021/07/31	POS DEBIT AMTRUST NORTH AMERICA I 215-6438649 OH; $15,706.54
+	Expenses:Insurance	$1,987.00	; Paid in 08/2021 but placed here to not break math
+	Assets:Checking
