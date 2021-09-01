@@ -1,3 +1,87 @@
 2021/08/01	Opening Balance
 	Assets:Checking	$15,706.54
 	Equity
+
+2021/08/02	STRIPE TRANSFER; $16,201.67
+	Revenue:MemberDues	-$495.13
+	Assets:Checking
+
+2021/08/02	Zelle payment to BUBBLY DYNAMICS 12093445761; $14,824.67
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2021/08/05	PAYPAL TRANSFER; $14,873.18
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2021/08/05	IN *ASW MACHINERY INC. 866-7925288 DE 08/04; $14,842.43
+	Expenses:Supplies	$30.75
+	Assets:Checking
+
+2021/08/09	STRIPE TRANSFER; $15,328.13
+	Revenue:MemberDues	-$485.70
+	Assets:Checking
+
+2021/08/09	PAYPAL TRANSFER; $15,361.94
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/08/10	TECHSOUP 4156339300 CA 08/10; $15,266.94
+	Expenses:Administrative:AmazonWebServices	$95.00
+	Assets:Checking
+
+2021/08/13	PAYPAL TRANSFER; $15,276.25
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/08/16	STRIPE TRANSFER; $15,630.82
+	Revenue:MemberDues	-$354.57
+	Assets:Checking
+
+2021/08/16	AMAZON SMILE; $15,724.86
+	Revenue:Donations:AmazonSmile	-$94.04
+	Assets:Checking
+
+2021/08/16	PAYPAL TRANSFER; $15,758.67
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/08/16	PAYPAL TRANSFER; $15,767.98
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/08/23	STRIPE TRANSFER; $16,520.54
+	Revenue:MemberDues	-$752.56
+	Assets:Checking
+
+2021/08/23	PAYPAL TRANSFER; $16,554.35
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/08/24	PAYPAL TRANSFER; $16,555.93
+	Revenue:Donations:PayPalGivingFund	-$1.58
+	Assets:Checking
+
+2021/08/25	GOOGLE *WEBPASS 800-932-7277 CA 08/24; $16,425.93
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2021/08/27	Amazon.com*2D1P13KW2 Amzn.com/bill WA 08/26; $16,404.99
+	Expenses:Purchases:Resin3DPrinter	$20.94
+	Assets:Checking
+
+2021/08/27	AMZN Mktp US*255R63J Amzn.com/bill WA 08/26; $16,347.68
+	Expenses:Purchases:Resin3DPrinter	$57.31
+	Assets:Checking
+
+2021/08/27	AMZN Mktp US*252OA4T Amzn.com/bill WA 08/26; $16,327.85
+	Expenses:Purchases:Resin3DPrinter	$19.83
+	Assets:Checking
+
+2021/08/30	STRIPE TRANSFER; $16,963.89
+	Revenue:MemberDues	-$636.04
+	Assets:Checking
+
+2021/08/30	AMZN Mktp US*254XJ81 Amzn.com/bill WA 08/28; $16,925.31
+	Expenses:Purchases:Resin3DPrinter	$38.58
+	Assets:Checking
