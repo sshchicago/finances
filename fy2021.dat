@@ -85,3 +85,83 @@
 2021/08/30	AMZN Mktp US*254XJ81 Amzn.com/bill WA 08/28; $16,925.31
 	Expenses:Purchases:Resin3DPrinter	$38.58
 	Assets:Checking
+
+2021/09/02	Zelle payment to BUBBLY DYNAMICS 12297404794; $15,548.31
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2021/09/07	STRIPE TRANSFER; $16,034.01
+	Revenue:MemberDues	-$485.70
+	Assets:Checking
+
+2021/09/07	PAYPAL TRANSFER; $16,082.52
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2021/09/09	PAYPAL TRANSFER; $16,116.33
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/09/13	STRIPE TRANSFER; $16,602.03
+	Revenue:MemberDues	-$485.70
+	Assets:Checking
+
+2021/09/13	PAYPAL TRANSFER; $16,611.34
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/09/13	OFFICE MA 9290 JOLIET HODGKINS IL 09/13; $16,586.60
+	Expenses:Supplies	$24.74
+	Assets:Checking
+
+2021/09/15	PAYPAL TRANSFER; $16,595.91
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/09/16	PAYPAL TRANSFER; $16,629.72
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/09/17	MYWOODCUTTERS/SHELIXHEA SOOKE BC 09/15; $16,259.77
+	Expenses:Purchases:JointerCutterHead	$369.95
+	Assets:Checking
+
+2021/09/17	MFASCO HEALTH & SAFET 800-221-9222 MI 09/17; $16,238.15
+	Expenses:Supplies	$21.62
+	Assets:Checking
+
+2021/09/20	STRIPE TRANSFER; $16,947.00
+	Revenue:MemberDues	-$708.85
+	Assets:Checking
+
+2021/09/20	NATIONAL OFFICE LIQUID CHICAGO IL 09/17; $16,401.26
+	Expenses:Purchases:NestingOfficeChairs	$545.74
+	Assets:Checking
+
+2021/09/21	PAYPAL TRANSFER; $16,435.07
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/09/22	AMZN Mktp US*2G7ZI4B Amzn.com/bill WA 09/21; $16,228.86
+	Expenses:Purchases:BackYardKickoffFund	$206.21
+	Assets:Checking
+
+2021/09/27	STRIPE TRANSFER; $16,816.65
+	Revenue:MemberDues	-$587.79
+	Assets:Checking
+
+2021/09/27	GOOGLE *WEBPASS 800-932-7277 CA 09/24; $16,686.65
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2021/09/27	BINNYS BEVERAGE DEPOT OAK BROOK IL 909932 09/26; $16,584.56
+	Expenses:Programming:CocktailEvent	$102.09
+	Assets:Checking
+
+2021/09/30	PAYPAL *ANVEO INC 402-935-7733 PA 09/30; $16,569.56
+	Expenses:Administrative:911Service	$15.00
+	Assets:Checking
+
+2021/09/30	COSTCO WHSE #1107 CHICAGO IL 329181 09/30; $16,502.04
+	Expenses:Programming:CocktailEvent	$67.52
+	Assets:Checking
