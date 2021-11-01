@@ -165,3 +165,63 @@
 2021/09/30	COSTCO WHSE #1107 CHICAGO IL 329181 09/30; $16,502.04
 	Expenses:Programming:CocktailEvent	$67.52
 	Assets:Checking
+
+2021/10/04	STRIPE TRANSFER; $17,172.01
+	Revenue:MemberDues	-$669.97
+	Assets:Checking
+
+2021/10/04	Zelle payment to BUBBLY DYNAMICS 12507475043; $15,795.01
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2021/10/05	PAYPAL TRANSFER; $15,843.52
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2021/10/12	STRIPE TRANSFER; $16,421.53
+	Revenue:MemberDues	-$578.01
+	Assets:Checking
+
+2021/10/12	PAYPAL TRANSFER; $16,455.34
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/10/12	COSTCO WHSE #1107 CHICAGO IL 781642 10/09; $16,436.72
+	Expenses:Supplies	$18.62
+	Assets:Checking
+
+2021/10/13	PAYPAL TRANSFER; $16,446.03
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/10/15	PAYPAL TRANSFER; $16,455.34
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/10/18	STRIPE TRANSFER; $16,935.86
+	Revenue:MemberDues	-$480.52
+	Assets:Checking
+
+2021/10/18	PAYPAL TRANSFER; $16,969.67
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/10/19	AMZN Mktp US*2Y9G78P Amzn.com/bill WA 10/19; $16,914.68
+	Expenses:Purchases:14x40Lathe	$54.99
+	Assets:Checking
+
+2021/10/19	AMZN Mktp US*271QZ2U Amzn.com/bill WA 10/18; $16,617.73
+	Expenses:Purchases:14x40Lathe	$296.95
+	Assets:Checking
+
+2021/10/21	PAYPAL TRANSFER; $16,651.54
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/10/25	STRIPE TRANSFER; $17,419.06
+	Revenue:MemberDues	-$767.52
+	Assets:Checking
+
+2021/10/25	GOOGLE *WEBPASS 800-932-7277 CA 10/24; $17,289.06
+	Expenses:InternetService	$130.00
+	Assets:Checking
