@@ -289,3 +289,79 @@
 2021/11/29	STRIPE TRANSFER; $18,754.48
 	Revenue:MemberDues	-$680.10
 	Assets:Checking
+
+2021/12/01	CHECK 117 12/01; $18,739.48
+	Expenses:Administrative	$15.00
+	Assets:Checking
+
+2021/12/02	PAYPAL *FULLSPECTRU 402-935-7733 NV 12/02; $18,674.48
+	Expenses:Supplies	$65.00
+	Assets:Checking
+
+2021/12/02	Zelle payment to BUBBLY DYNAMICS 12928975501; $17,297.48
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2021/12/02	Zelle payment to DMITRIY VYSOTSKIY 13141021147; $14,164.16
+	Expenses:Purchases:ShaperOrigin	$3,133.32
+	Assets:Checking
+
+2021/12/06	STRIPE TRANSFER; $14,906.88
+	Revenue:MemberDues	-$742.72
+	Assets:Checking
+
+2021/12/06	PAYPAL TRANSFER; $14,955.39
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2021/12/06	COSTCO WHSE #1153 NORTH RIVERS IL 804774 12/04; $14,945.50
+	Expenses:Supplies	$9.89
+	Assets:Checking
+
+2021/12/09	PAYPAL TRANSFER; $14,979.31
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/12/09	THE HOME DEPOT #1901 BROADVIEW IL 902476 12/09; $14,939.53
+	Expenses:Supplies	$39.78
+	Assets:Checking
+
+2021/12/13	STRIPE TRANSFER; $15,337.81
+	Revenue:MemberDues	-$398.28
+	Assets:Checking
+
+2021/12/13	PAYPAL TRANSFER; $15,347.12
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/12/13	COSTCO WHSE #1153 NORTH RIVERS IL 456848 12/11; $15,332.83
+	Expenses:Supplies	$14.29
+	Assets:Checking
+
+2021/12/15	PAYPAL TRANSFER; $15,342.14
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2021/12/20	STRIPE TRANSFER; $16,133.52
+	Revenue:MemberDues	-$791.38
+	Assets:Checking
+
+2021/12/20	Zelle payment to Mark Creasy JPM910122485; $15,794.40
+	Expenses:Programming	$339.12
+	Assets:Checking
+
+2021/12/21	PAYPAL TRANSFER; $15,828.21
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2021/12/24	AMZN Mktp US*9V4T45A Amzn.com/bill WA 12/23; $15,596.91
+	Expenses:Purchases:PrecisionScrewdriverSet	$231.30
+	Assets:Checking
+
+2021/12/27	STRIPE TRANSFER; $16,097.28
+	Revenue:MemberDues	-$500.37
+	Assets:Checking
+
+2021/12/27	GOOGLE *WEBPASS 800-932-7277 CA 12/24; $15,967.28
+	Expenses:InternetService	$130.00
+	Assets:Checking
