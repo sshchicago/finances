@@ -450,3 +450,63 @@
 2022/01/31	PARTSBUILT 3D HTTPSWWW.PART OH 01/28; $16,305.76
 	Expenses:Supplies	$64.26
 	Assets:Checking
+
+2022/02/02	Amazon web services aws.amazon.co WA 02/01; $16,293.76
+	Expenses:Administrative:AmazonWebServices	$12.00	; Domain name renewal
+	Assets:Checking
+
+2022/02/02	Zelle payment to BUBBLY DYNAMICS 13363910024; $14,916.76
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2022/02/07	STRIPE TRANSFER; $15,397.57
+	Revenue:MemberDues	-$480.81
+	Assets:Checking
+
+2022/02/07	PAYPAL TRANSFER; $15,446.08
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/02/07	MNRD-HODGKINS 6100 EAS HODGKINS IL 433045 02/07; $15,429.01
+	Expenses:Supplies	$17.07
+	Assets:Checking
+
+2022/02/09	PAYPAL TRANSFER; $15,462.82
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/02/14	STRIPE TRANSFER; $15,899.92
+	Revenue:MemberDues	-$437.10
+	Assets:Checking
+
+2022/02/14	PAYPAL TRANSFER; $15,909.23
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/02/15	PAYPAL TRANSFER; $15,918.54
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/02/22	STRIPE TRANSFER; $16,627.39
+	Revenue:MemberDues	-$708.85
+	Assets:Checking
+
+2022/02/22	PAYPAL TRANSFER; $16,661.20
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/02/24	PAYPAL TRANSFER; $16,662.20
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
+
+2022/02/25	GOOGLE *WEBPASS 800-932-7277 CA 02/24; $16,532.20
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/02/28	STRIPE TRANSFER; $17,168.59
+	Revenue:MemberDues	-$636.39
+	Assets:Checking
+
+2022/02/28	ZORO TOOLS INC 855-2899676 IL 02/26; $17,136.43
+	Expenses:Supplies	$32.16
+	Assets:Checking
