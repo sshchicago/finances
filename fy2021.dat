@@ -578,3 +578,80 @@
 2022/03/28	STRIPE TRANSFER; $17,198.66
 	Revenue:MemberDues	-$592.68
 	Assets:Checking
+
+2022/04/04	STRIPE TRANSFER; $17,902.56
+	Revenue:MemberDues	-$703.90
+	Assets:Checking
+
+2022/04/04	Zelle payment to BUBBLY DYNAMICS 13785792424; $16,525.56
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2022/04/05	PAYPAL TRANSFER; $16,574.07
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/04/08	GRIZZLY INDUSTRIAL PH 360-647-0801 WA 04/07; $16,521.65
+	Expenses:Supplies	$52.42
+	Assets:Checking
+
+2022/04/11	STRIPE TRANSFER; $17,051.06
+	Revenue:MemberDues	-$529.41
+	Assets:Checking
+
+2022/04/11	PAYPAL TRANSFER; $17,084.87
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/04/11	ZORO TOOLS INC 855-2899676 IL 04/08; $15,526.08
+	Expenses:Supplies	$193.57
+	Expenses:Purchases:AirCompressor	$1365.22
+	Assets:Checking
+
+2022/04/13	PAYPAL TRANSFER; $15,535.39
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/04/13	FORREST MFG CO INC 973-4735236 NJ 04/12; $15,499.39
+	Expenses:Supplies	$36.00
+	Assets:Checking
+
+2022/04/14	Offer: Zoro; $15,541.17
+	Expenses:Supplies	-$41.78
+	Assets:Checking
+
+2022/04/15	PAYPAL TRANSFER; $15,550.48
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/04/18	STRIPE TRANSFER; $16,079.60
+	Revenue:MemberDues	-$529.12
+	Assets:Checking
+
+2022/04/18	AMZN Mktp US*1A1YA08 Amzn.com/bill WA 04/16; $16,025.89
+	Expenses:Purchases:AirCompressor	$53.71
+	Assets:Checking
+
+2022/04/18	AMZN Mktp US*1A37E1S Amzn.com/bill WA 04/17; $16,011.61
+	Expenses:Purchases:AirCompressor	$14.28
+	Assets:Checking
+
+2022/04/21	PAYPAL TRANSFER; $16,045.42
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/04/25	STRIPE TRANSFER; $16,594.39
+	Revenue:MemberDues	-$548.97
+	Assets:Checking
+
+2022/04/25	AMZN Mktp US*1O0IF90 Amzn.com/bill WA 04/23; $16,084.10
+	Expenses:Purchases:OcculusQuest2	$510.29
+	Assets:Checking
+
+2022/04/25	COSTCO WHSE #1153 NORTH RIVERS IL 631728 04/23; $15,975.38
+	Expenses:Supplies	$108.72
+	Assets:Checking
+
+2022/04/25	GOOGLE *WEBPASS 800-932-7277 CA 04/24; $15,845.38
+	Expenses:InternetService	$130.00
+	Assets:Checking
