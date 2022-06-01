@@ -655,3 +655,71 @@
 2022/04/25	GOOGLE *WEBPASS 800-932-7277 CA 04/24; $15,845.38
 	Expenses:InternetService	$130.00
 	Assets:Checking
+
+2022/05/02	STRIPE TRANSFER; $16,510.46
+	Revenue:MemberDues	-$665.08
+	Assets:Checking
+
+2022/05/02	Zelle payment to BUBBLY DYNAMICS 14021192143; $15,133.46
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2022/05/05	PAYPAL TRANSFER; $15,181.97
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/05/09	STRIPE TRANSFER; $15,798.80
+	Revenue:MemberDues	-$616.83
+	Assets:Checking
+
+2022/05/09	PAYPAL TRANSFER; $15,832.61
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/05/09	CHECK 118 05/09; $15,523.61
+	Expenses:Supplies	$309.00	; Planer repair
+	Assets:Checking
+
+2022/05/12	Zelle payment to Mark Creasy JPM999brj6hd; $15,502.17
+	Expenses:Programming	$21.44	; Modeling software fees
+	Assets:Checking
+
+2022/05/13	PAYPAL TRANSFER; $15,511.48
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/05/16	STRIPE TRANSFER; $15,904.87
+	Revenue:MemberDues	-$393.39
+	Assets:Checking
+
+2022/05/16	PAYPAL TRANSFER; $15,914.18
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/05/23	STRIPE TRANSFER; $16,540.50
+	Revenue:MemberDues	-$626.32
+	Assets:Checking
+
+2022/05/23	PAYPAL TRANSFER; $16,574.31
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/05/23	PAYPAL TRANSFER; $16,575.75
+	Revenue:Donations:PayPalGivingFund	-$1.44
+	Assets:Checking
+
+2022/05/25	GOOGLE *WEBPASS 800-932-7277 CA 05/24; $16,445.75
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/05/26	Zelle payment to DMITRIY VYSOTSKIY 14428894806; $16,302.75
+	Expenses:Purchases:RhinoCart	$143.00
+	Assets:Checking
+
+2022/05/31	STRIPE TRANSFER; $17,113.63
+	Revenue:MemberDues	-$810.88
+	Assets:Checking
+
+2022/05/31	AMAZON SMILE; $17,198.35
+	Revenue:Donations:AmazonSmile	-$84.72
+	Assets:Checking
