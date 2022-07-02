@@ -723,3 +723,63 @@
 2022/05/31	AMAZON SMILE; $17,198.35
 	Revenue:Donations:AmazonSmile	-$84.72
 	Assets:Checking
+
+2022/06/02	Zelle payment to BUBBLY DYNAMICS 14245647608; $15,821.35
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2022/06/03	Amazon web services aws.amazon.co WA 06/03; $15,767.95
+	Expenses:Administrative:AmazonWebServices	$53.40
+	Assets:Checking
+
+2022/06/06	STRIPE TRANSFER; $16,248.76
+	Revenue:MemberDues	-$480.81
+	Assets:Checking
+
+2022/06/06	PAYPAL TRANSFER; $16,297.27
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/06/09	PAYPAL TRANSFER; $16,331.08
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/06/13	STRIPE TRANSFER; $16,719.58
+	Revenue:MemberDues	-$388.50
+	Assets:Checking
+
+2022/06/13	PAYPAL TRANSFER; $16,728.89
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/06/15	PAYPAL TRANSFER; $16,738.20
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/06/21	STRIPE TRANSFER; $17,451.94
+	Revenue:MemberDues	-$713.74
+	Assets:Checking
+
+2022/06/21	PAYPAL TRANSFER; $17,485.75
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/06/27	STRIPE TRANSFER; $18,117.25
+	Revenue:MemberDues	-$631.50
+	Assets:Checking
+
+2022/06/27	GOOGLE *WEBPASS 800-932-7277 CA 06/24; $17,987.25
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/06/28	PAYPAL TRANSFER; $18,271.96
+	Revenue:Donations:Benevity	-$284.71	; Erin Microsoft donation
+	Assets:Checking
+
+2022/06/28	CHECK 119; $18,261.96
+	Expenses:Administrative:Government	$10.00
+	Assets:Checking
+
+2022/06/30	1PASSWORD TORONTO ON 06/30; $18,079.30
+	Expenses:Administrative:PasswordManager	$182.66
+	Assets:Checking
