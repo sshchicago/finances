@@ -783,3 +783,95 @@
 2022/06/30	1PASSWORD TORONTO ON 06/30; $18,079.30
 	Expenses:Administrative:PasswordManager	$182.66
 	Assets:Checking
+
+2022/07/05	STRIPE TRANSFER; $18,788.09
+	Revenue:MemberDues	-$708.79
+	Assets:Checking
+
+2022/07/05	PAYPAL TRANSFER; $18,836.60
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/07/05	Zelle payment to BUBBLY DYNAMICS 14481416279; $17,459.60
+	Expenses:Rent	$1,377.00
+	Assets:Checking
+
+2022/07/05	Amazon web services aws.amazon.co WA 07/02; $17,373.34
+	Expenses:Administrative:AmazonWebServices	$86.26
+	Assets:Checking
+
+2022/07/05	THE HOME DEPOT 1986 CHICAGO IL 950353 07/02; $17,365.64
+	Expenses:Supplies	$7.70
+	Assets:Checking
+
+2022/07/05	COSTCO WHSE #1153 NORTH RIVERS IL 259696 07/03; $17,344.97
+	Expenses:Supplies	$20.67
+	Assets:Checking
+
+2022/07/06	TECHSOUP 4156339300 CA 07/05; $17,249.97
+	Expenses:Administrative:AmazonWebServices	$95.00
+	Assets:Checking
+
+2022/07/07	PARTSBUILT 3D HTTPSWWW.PART OH 07/07; $17,205.53
+	Expenses:Supplies	$44.44
+	Assets:Checking
+
+2022/07/11	STRIPE TRANSFER; $17,686.34
+	Revenue:MemberDues	-$480.81
+	Assets:Checking
+
+2022/07/11	PAYPAL TRANSFER; $17,720.15
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/07/13	PAYPAL TRANSFER; $17,729.46
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/07/15	PAYPAL TRANSFER; $17,738.77
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/07/18	STRIPE TRANSFER; $18,267.89
+	Revenue:MemberDues	-$529.12
+	Assets:Checking
+
+2022/07/21	PAYPAL TRANSFER; $18,301.70
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/07/25	STRIPE TRANSFER; $18,894.38
+	Revenue:MemberDues	-$592.68
+	Assets:Checking
+
+2022/07/25	AMTRUST NORTH AMERICA 877-5287878 OH 07/22; $16,947.38
+	Expenses:Insurance	$1,947.00
+	Assets:Checking
+
+2022/07/25	GOOGLE *WEBPASS 800-932-7277 CA 07/24; $16,817.38
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/07/25	PAYPAL *BAOYUANCHUA 402-935-7733 CA 07/25; $16,734.08
+	Expenses:Supplies	$83.30
+	Assets:Checking
+
+2022/07/25	CHECK 120 07/25; $16,613.33
+	Expenses:Supplies	$120.75	; Bandsaw blades
+	Assets:Checking
+
+2022/07/28	Zelle payment to DMITRIY VYSOTSKIY 14907668661; $16,400.49
+	Expenses:Supplies	$212.84
+	Assets:Checking
+
+2022/07/28	Zelle payment to DMITRIY VYSOTSKIY 14914189990; $16,114.49
+	Expenses:BackYard	$286.00
+	Assets:Checking
+
+2022/07/29	SP DISCOUNT BROS HTTPSDISCOUNT IL 07/28; $15,951.73
+	Expenses:BackYard	$162.76
+	Assets:Checking
+
+2022/07/30	POS DEBIT BESTBUY.COM RICHFIELD MN; $15,914.38
+	Expenses:Supplies	$37.35
+	Assets:Checking
