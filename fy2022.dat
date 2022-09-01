@@ -1,0 +1,63 @@
+2022/08/01	Opening Balance
+	Assets:Checking	$15,914.38
+	Equity
+
+2022/08/01	STRIPE TRANSFER; $16,623.17
+	Revenue:MemberDues	-$708.79
+	Assets:Checking
+
+2022/08/01	Zelle payment to DMITRIY VYSOTSKIY 14934430043; $16,614.33
+	Expenses:Supplies	$8.84	; back door replacement handle
+	Assets:Checking
+
+2022/08/02	Zelle payment to BUBBLY DYNAMICS 14905935499; $15,206.33
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2022/08/05	PAYPAL TRANSFER; $15,254.84
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/08/05	Zelle payment from DMITRIY VYSOTSKIY 14981419395; $15,299.84
+	Revenue:MemberDues	-$45.00	; Thorne's cash payment
+	Assets:Checking
+
+2022/08/08	STRIPE TRANSFER; $15,736.94
+	Revenue:MemberDues	-$437.10
+	Assets:Checking
+
+2022/08/09	PAYPAL TRANSFER; $15,770.75
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/08/15	STRIPE TRANSFER; $16,251.56
+	Revenue:MemberDues	-$480.81
+	Assets:Checking
+
+2022/08/15	PAYPAL TRANSFER; $16,260.87
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/08/15	PAYPAL TRANSFER; $16,270.18
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/08/22	STRIPE TRANSFER; $16,760.48
+	Revenue:MemberDues	-$490.30
+	Assets:Checking
+
+2022/08/22	PAYPAL TRANSFER; $16,794.29
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/08/25	GOOGLE *WEBPASS 800-932-7277 CA 08/24; $16,664.29
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/08/29	STRIPE TRANSFER; $17,523.77
+	Revenue:MemberDues	-$859.48
+	Assets:Checking
+
+2022/08/31	AMZN Mktp US*8D0GU2X Amzn.com/bill WA 08/30; $17,507.24
+	Expenses:Supplies	$16.53	; Tronxy 3D printer stickers
+	Assets:Checking
