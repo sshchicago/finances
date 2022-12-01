@@ -213,3 +213,72 @@
 2022/10/31	STRIPE TRANSFER; $19,342.00
 	Revenue:MemberDues	-$849.70
 	Assets:Checking
+
+2022/11/02	REMOTE ONLINE DEPOSIT # 1; $19,362.00
+	Revenue:Refund	-$20.00	; Insurance payment refund
+	Assets:Checking
+
+2022/11/02	Zelle payment to BUBBLY DYNAMICS 15442206799; $17,954.00
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2022/11/04	ZORO TOOLS INC 855-2899676 IL 11/02; $17,917.49
+	Expenses:Supplies	$36.51
+	Assets:Checking
+
+2022/11/07	STRIPE TRANSFER; $18,398.30
+	Revenue:MemberDues	-$480.81
+	Assets:Checking
+
+2022/11/07	PAYPAL TRANSFER; $18,446.81
+	Revenue:MemberDues	-$48.51
+	Assets:Checking
+
+2022/11/09	PAYPAL TRANSFER; $18,480.62
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/11/14	STRIPE TRANSFER; $18,874.01
+	Revenue:MemberDues	-$393.39
+	Assets:Checking
+
+2022/11/14	PAYPAL TRANSFER; $18,883.32
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/11/14	MFASCO HEALTH & SAFET 800-221-9222 MI 11/11; $18,850.20
+	Expenses:Supplies	$33.12
+	Assets:Checking
+
+2022/11/15	PAYPAL TRANSFER; $18,859.51
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/11/21	STRIPE TRANSFER; $19,529.54
+	Revenue:MemberDues	-$670.03
+	Assets:Checking
+
+2022/11/21	AMAZON SMILE; $19,610.13
+	Revenue:Donations:AmazonSmile	-$80.59
+	Assets:Checking
+
+2022/11/21	PAYPAL TRANSFER; $19,643.94
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/11/22	PAYPAL TRANSFER; $19,988.69
+	Revenue:Donations:Benevity	-$343.75	; Erin Microsoft donation
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
+
+2022/11/25	Amazon.com*HW1I64G01 Amzn.com/bill WA 11/24; $19,965.01
+	Expenses:Purchases:Shed	$23.68
+	Assets:Checking
+
+2022/11/25	GOOGLE *WEBPASS 800-932-7277 CA 11/24; $19,835.01
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/11/28	STRIPE TRANSFER; $20,524.89
+	Revenue:MemberDues	-$689.88
+	Assets:Checking
