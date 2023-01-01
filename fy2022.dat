@@ -282,3 +282,83 @@
 2022/11/28	STRIPE TRANSFER; $20,524.89
 	Revenue:MemberDues	-$689.88
 	Assets:Checking
+
+2022/12/02	Zelle payment to BUBBLY DYNAMICS 15690376622; $19,116.89
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2022/12/05	STRIPE TRANSFER; $19,825.68
+	Revenue:MemberDues	-$708.79
+	Assets:Checking
+
+2022/12/06	eBay Payments; $19,870.25
+	Revenue:Sales	-$44.57
+	Assets:Checking
+
+2022/12/09	PAYPAL TRANSFER; $19,904.06
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/12/09	ZORO TOOLS INC 855-2899676 IL 12/05; $19,804.97
+	Expenses:Supplies	$99.09
+	Assets:Checking
+
+2022/12/12	STRIPE TRANSFER; $20,285.78
+	Revenue:MemberDues	-$480.81
+	Assets:Checking
+
+2022/12/13	PAYPAL TRANSFER; $20,295.09
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/12/14	Amazon.com*5H1W54PU3 Amzn.com/bill WA 12/14; $20,262.03
+	Expenses:Supplies	$33.06
+	Assets:Checking
+
+2022/12/15	PAYPAL TRANSFER; $20,271.34
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2022/12/16	ACE HARDWARE CORPORAT 800-453-0660 IL 12/16; $20,163.85
+	Expenses:Purchases:WetTileSaw	$107.49
+	Assets:Checking
+
+2022/12/16	ACMETOOLS.COM 877-345-2263 ND 12/15; $20,025.50
+	Expenses:Purchases:RandomOrbitSander	$138.35
+	Assets:Checking
+
+2022/12/16	CHECK 123; $19,592.37
+	Expenses:Purchases:Shed	$433.13
+	Assets:Checking
+
+2022/12/16	CHECK 122; $19,490.72
+	Expenses:Purchases:TuftingKit	$101.65
+	Assets:Checking
+
+2022/12/19	STRIPE TRANSFER; $20,150.97
+	Revenue:MemberDues	-$660.25
+	Assets:Checking
+
+2022/12/21	PAYPAL TRANSFER; $20,184.78
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2022/12/22	PAYPAL TRANSFER; $20,186.78
+	Revenue:MemberDues	-$2.00
+	Assets:Checking
+
+2022/12/23	ZORO TOOLS INC 855-2899676 IL 12/22; $20,116.59
+	Expenses:Supplies	$70.19
+	Assets:Checking
+
+2022/12/27	STRIPE TRANSFER; $20,665.56
+	Revenue:MemberDues	-$548.97
+	Assets:Checking
+
+2022/12/27	GOOGLE *WEBPASS 800-932-7277 CA 12/24; $20,535.56
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2022/12/31	POS DEBIT USCUTTER TUKWILA WA; $20,415.51
+	Expenses:Supplies	$120.05
+	Assets:Checking
