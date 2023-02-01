@@ -359,6 +359,86 @@
 	Expenses:InternetService	$130.00
 	Assets:Checking
 
-2022/12/31	POS DEBIT USCUTTER TUKWILA WA; $20,415.51
+2023/01/03	STRIPE TRANSFER; $21,200.64
+	Revenue:MemberDues	-$665.08
+	Assets:Checking
+
+2023/01/03	USCUTTER 425-481-3555 WA 12/30; $21,080.59
 	Expenses:Supplies	$120.05
+	Assets:Checking
+
+2023/01/03	Zelle payment to BUBBLY DYNAMICS 15932219921; $19,672.59
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2023/01/09	STRIPE TRANSFER; $20,240.82
+	Revenue:MemberDues	-$568.23
+	Assets:Checking
+
+2023/01/09	PAYPAL TRANSFER; $20,274.63
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/01/09	CHECK 124; $20,257.98
+	Expenses:Administrative:ExtinguisherInspection	$16.65
+	Assets:Checking
+
+2023/01/10	ZORO TOOLS INC 855-2899676 IL 01/05; $20,357.07
+	Expenses:Supplies	-$99.09
+	Assets:Checking
+
+2023/01/12	ZORO TOOLS INC 855-2899676 IL 01/09; $20,290.34
+	Expenses:Supplies	$66.73
+	Assets:Checking
+
+2023/01/13	USCUTTER 4254813555 WA 01/12; $20,401.90
+	Expenses:Supplies	-$111.56
+	Assets:Checking
+
+2023/01/13	PAYPAL TRANSFER; $20,411.21
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/01/17	STRIPE TRANSFER; $20,950.40
+	Revenue:MemberDues	-$539.19
+	Assets:Checking
+
+2023/01/17	PAYPAL TRANSFER; $20,959.71
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/01/23	STRIPE TRANSFER; $21,759.49
+	Revenue:MemberDues	-$799.78
+	Assets:Checking
+
+2023/01/23	Zelle payment from ZACHARY A CORNELIUS 16347771968; $22,009.49
+	Revenue:Sales	-$250.00	; Sale of HTC Vive
+	Assets:Checking
+
+2023/01/23	PAYPAL TRANSFER; $22,043.30
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/01/24	PAYPAL TRANSFER; $22,044.30
+	Revenue:Donations:PayPalGivingFund	-$1.00
+	Assets:Checking
+
+2023/01/25	GOOGLE *WEBPASS 800-932-7277 CA 01/24; $21,959.30
+	Expenses:InternetService	$85.00
+	Assets:Checking
+
+2023/01/26	TEKNATOOL USA INC 866-748-3025 FL 01/26; $21,807.31
+	Expenses:Purchases:DrillPressExtendedWarranty	$151.99
+	Assets:Checking
+
+2023/01/27	ORIG CO NAME:eBay ORIG ID:4263863381 DESC DATE: CO ENTRY DESCR:PAYOUT SEC:CCD TRACE#:091000016820946 EED:230127 IND ID:TX29823177800XT IND NAME:South Side Hackerspace TRN*1*TX29823177800XT**3RX9ER5XPLYR BHJ5\RMR*IK*P 5751433011 TX29823177 7800XT\ 20C7ZB5XPM5VT0QZ TRN: 0276820946TC; $21,837.66
+	Revenue:Sales	-$30.35	; Sale of computer equipment
+	Assets:Checking
+
+2023/01/27	Amazon.com*2Q7HX39O3 Amzn.com/bill WA 01/27; $21,743.96
+	Expenses:Administrative	$93.70	; Pikachu Instax printer
+	Assets:Checking
+
+2023/01/30	STRIPE TRANSFER; $22,507.16
+	Revenue:MemberDues	-$763.20
 	Assets:Checking
