@@ -151,7 +151,7 @@
 	Assets:Checking
 
 2013/12/23	ACH WEB-SINGLE ECHECK PAYPAL J222222AAEQBG; $984.38
-	Expenses:Uncategorized:PayPal	$185.00
+	Expenses:Purchases:ComputerEquipment	$185.00	; 2 HP Proliant 120 servers, cisco catalyst 3500 switch, power cords
 	Assets:Checking
 
 2013/12/24	ACH CREDIT TRANSFER PAYPAL 5GWJ27PTGYPYJ; $1042.34
