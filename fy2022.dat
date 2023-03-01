@@ -442,3 +442,79 @@
 2023/01/30	STRIPE TRANSFER; $22,507.16
 	Revenue:MemberDues	-$763.20
 	Assets:Checking
+
+2023/02/02	Amazon web services aws.amazon.co WA 02/02; $22,495.16
+	Expenses:Administrative:AmazonWebServices	$12.00	; Domain name renewal
+	Assets:Checking
+
+2023/02/02	Zelle payment to BUBBLY DYNAMICS 16185426937; $21,087.16
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2023/02/06	STRIPE TRANSFER; $21,565.50
+	Revenue:MemberDues	-$478.34
+	Assets:Checking
+
+2023/02/06	CHECK 125; $20,065.50
+	Expenses:Purchases:Lockers	$1,500.00
+	Assets:Checking
+
+2023/02/09	PAYPAL TRANSFER; $20,099.31
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/02/09	RSC-LOCKERS-WEB RSCLOCKERS.CO PA 02/09; $19,747.31
+	Expenses:Purchases:LockerLocks	$352.00
+	Assets:Checking
+
+2023/02/10	Amazon.com*YH5EQ6113 Amzn.com/bill WA 02/10; $19,677.12
+	Expenses:Supplies	$70.19
+	Assets:Checking
+
+2023/02/13	STRIPE TRANSFER; $20,125.06
+	Revenue:MemberDues	-$447.94
+	Assets:Checking
+
+2023/02/13	AMAZON SMILE; $20,196.06
+	Revenue:Donations:AmazonSmile	-$71.00
+	Assets:Checking
+
+2023/02/13	PAYPAL TRANSFER; $20,205.37
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/02/13	PAYPAL *ALIPAYUSINC 402-935-7733 CA 02/11; $20,179.97
+	Expenses:Administrative	$25.40	; key fobs
+	Assets:Checking
+
+2023/02/15	PAYPAL TRANSFER; $20,189.28
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/02/16	Amazon.com Amzn.com/bill WA 02/16; $20,259.47
+	Expenses:Supplies	-$70.19	; refund
+	Assets:Checking
+
+2023/02/17	Amazon.com*HE2BH6QE1 Amzn.com/bill WA 02/16; $20,189.28
+	Expenses:Supplies	$70.19	; trying above refunded purchase again
+	Assets:Checking
+
+2023/02/21	STRIPE TRANSFER; $20,995.60
+	Revenue:MemberDues	-$806.32
+	Assets:Checking
+
+2023/02/21	PAYPAL TRANSFER; $21,029.41
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/02/27	STRIPE TRANSFER; $21,793.43
+	Revenue:MemberDues	-$764.02
+	Assets:Checking
+
+2023/02/27	GOOGLE *WEBPASS 800-932-7277 CA 02/24; $21,663.43
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/02/28	POS DEBIT ROCKLER MEDINA MN; $21,620.84
+	Expenses:Purchases:TableSaw	$42.59	; hose holder
+	Assets:Checking
