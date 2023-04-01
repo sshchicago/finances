@@ -516,5 +516,81 @@
 	Assets:Checking
 
 2023/02/28	POS DEBIT ROCKLER MEDINA MN; $21,620.84
-	Expenses:Purchases:TableSaw	$42.59	; hose holder
+	Expenses:Supplies	$42.49
+	Assets:Checking
+
+2023/03/02	Zelle payment to BUBBLY DYNAMICS 16439538891; $20,212.94
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2023/03/06	STRIPE TRANSFER; $20,961.55
+	Revenue:MemberDues	-$748.61
+	Assets:Checking
+
+2023/03/09	PAYPAL TRANSFER; $20,995.36
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/03/13	STRIPE TRANSFER; $21,488.29
+	Revenue:MemberDues	-$492.93
+	Assets:Checking
+
+2023/03/14	PAYPAL TRANSFER; $21,497.60
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/03/14	GRIZZLY INDUSTRIAL PH 360-647-0801 WA 03/13; $21,479.58
+	Expenses:Supplies	$18.02
+	Assets:Checking
+
+2023/03/14	Zelle payment to Tim Mata 16819717652; $20,972.71
+	Expenses:Programming:BirthdayParty	$506.87
+	Assets:Checking
+
+2023/03/15	PAYPAL TRANSFER; $20,982.02
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/03/16	Zelle payment to DMITRIY VYSOTSKIY 16842959440; $19,982.02
+	Expenses:Purchases:MerchandiserRefrigerator	$1,000.00
+	Assets:Checking
+
+2023/03/17	AMZN Mktp US*HC52W3C Amzn.com/bill WA 03/16; $19,963.29
+	Expenses:Supplies	$18.73
+	Assets:Checking
+
+2023/03/20	STRIPE TRANSFER; $20,677.98
+	Revenue:MemberDues	-$714.69
+	Assets:Checking
+
+2023/03/21	PAYPAL TRANSFER; $20,711.79
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/03/21	AMZN Mktp US*H76YZ30 Amzn.com/bill WA 03/21; $20,644.72
+	Expenses:Supplies	$67.07
+	Assets:Checking
+
+2023/03/24	PAYPAL TRANSFER; $20,648.33
+	Revenue:Donations:PayPalGivingFund	-$3.61
+	Assets:Checking
+
+2023/03/27	STRIPE TRANSFER; $21,407.00
+	Revenue:MemberDues	-$758.67
+	Assets:Checking
+
+2023/03/27	GOOGLE *WEBPASS 800-932-7277 CA 03/24; $21,277.00
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/03/27	eReplacementparts.com 866-3229842 FL 03/24; $21,224.41
+	Expenses:Supplies	$52.59
+	Assets:Checking
+
+2023/03/27	AMZN Mktp US*H74ZO5Q Amzn.com/bill WA 03/25; $21,188.84
+	Expenses:Supplies	$35.57
+	Assets:Checking
+
+2023/03/29	AMZN Mktp US*HY4UF5A Amzn.com/bill WA 03/29; $21,166.80
+	Expenses:Programming	$22.04
 	Assets:Checking
