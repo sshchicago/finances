@@ -594,3 +594,75 @@
 2023/03/29	AMZN Mktp US*HY4UF5A Amzn.com/bill WA 03/29; $21,166.80
 	Expenses:Programming	$22.04
 	Assets:Checking
+
+2023/04/03	STRIPE TRANSFER; $21,872.17
+	Revenue:MemberDues	-$705.37
+	Assets:Checking
+
+2023/04/03	Zelle payment to BUBBLY DYNAMICS 16715911461; $20,464.17
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2023/04/10	STRIPE TRANSFER; $20,816.66
+	Revenue:MemberDues	-$352.49
+	Assets:Checking
+
+2023/04/10	PAYPAL TRANSFER; $20,850.47
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/04/13	PAYPAL TRANSFER; $20,859.78
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/04/17	STRIPE TRANSFER; $21,492.68
+	Revenue:MemberDues	-$632.90
+	Assets:Checking
+
+2023/04/17	PAYPAL TRANSFER; $21,501.99
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/04/17	Amazon Prime*HV3664T Amzn.com/bill WA 04/16; $21,485.80
+	Expenses:Other	$16.19	; Potential fraud - reversed below
+	Assets:Checking
+
+2023/04/17	Zelle payment to Tim Mata 17104864003; $21,447.69
+	Expenses:Programming:StickerParty	$38.11
+	Assets:Checking
+
+2023/04/18	Reversal: Amazon Prime*HV3664T Amzn.com/bill WA 04/16 ClaimId: 954846491100001; $21,463.88
+	Expenses:Other	-$16.19	; Potential fraud that was reversed
+	Assets:Checking
+
+2023/04/18	Zelle payment to William Cwik 17120394758; $21,160.43
+	Expenses:Purchases:FilmProcessing	$303.45
+	Assets:Checking
+
+2023/04/24	STRIPE TRANSFER; $21,696.04
+	Revenue:MemberDues	-$535.61
+	Assets:Checking
+
+2023/04/24	PAYPAL TRANSFER; $21,729.85
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/04/25	PAYPAL TRANSFER; $21,979.85
+	Revenue:Donations:Benevity	-$250.00	; Erin Microsoft volunteering
+	Assets:Checking
+
+2023/04/25	ORIG CO NAME:PAYPAL ORIG ID:PAYPALMTCU DESC DATE:230424 CO ENTRY DESCR:TRANSFER SEC:WEB TRACE#:091000015295369 EED:230425 IND ID:GOOGLE WEBPASS IND NAME:SOUTH SIDE HACKERSPACE TRANSFER TRN: 1155295369TC; $21,849.85
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/04/26	PARTSBUILT 3D HTTPSWWW.PART OH 04/26; $21,834.91
+	Expenses:Supplies	$14.94
+	Assets:Checking
+
+2023/04/27	GRIZZLY INDUSTRIAL PH 360-647-0801 WA 04/26; $21,778.77
+	Expenses:Supplies	$56.14
+	Assets:Checking
+
+2023/04/30	ZELLE PAYMENT TO WILLIAM CWIK 17226441964; $21,770.79
+	Expenses:Purchases:FilmProcessing	$7.98
+	Assets:Checking
