@@ -666,3 +666,83 @@
 2023/04/30	ZELLE PAYMENT TO WILLIAM CWIK 17226441964; $21,770.79
 	Expenses:Purchases:FilmProcessing	$7.98
 	Assets:Checking
+
+2023/05/01	STRIPE TRANSFER; $22,573.33
+	Revenue:MemberDues	-$802.54
+	Assets:Checking
+
+2023/05/02	Zelle payment to BUBBLY DYNAMICS 16983776574; $21,165.33
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2023/05/03	eBay O*17-10013-55151 408-3766151 CA 05/03; $21,108.18
+	Expenses:Supplies	$57.15
+	Assets:Checking
+
+2023/05/04	AMAZON SMILE; $21,167.90
+	Revenue:Donations:AmazonSmile	-$59.72
+	Assets:Checking
+
+2023/05/04	eBay O*05-10023-74480 408-3766151 CA 05/04; $21,117.20
+	Expenses:Supplies	$50.70
+	Assets:Checking
+
+2023/05/08	STRIPE TRANSFER; $21,512.97
+	Revenue:MemberDues	-$395.77
+	Assets:Checking
+
+2023/05/09	PAYPAL TRANSFER; $21,546.78
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/05/12	COSTCO WHSE #1153 NORTH RIVERS IL 823589 05/12; $21,502.91
+	Expenses:Supplies	$43.87
+	Assets:Checking
+
+2023/05/15	STRIPE TRANSFER; $22,043.71
+	Revenue:MemberDues	-$540.80
+	Assets:Checking
+
+2023/05/15	PAYPAL TRANSFER; $22,053.02
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/05/15	PAYPAL TRANSFER; $22,062.33
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/05/17	Zelle payment to COYLE CONTRACTORS LLC 17381835529; $21,911.34
+	Expenses:BackYard	$150.99
+	Assets:Checking
+
+2023/05/22	STRIPE TRANSFER; $22,486.30
+	Revenue:MemberDues	-$574.96
+	Assets:Checking
+
+2023/05/22	AMAZON SMILE; $22,576.49
+	Revenue:Donations:AmazonSmile	-$90.19
+	Assets:Checking
+
+2023/05/22	PAYPAL TRANSFER; $22,610.30
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/05/25	GOOGLE *WEBPASS 800-932-7277 CA 05/24; $22,480.30
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/05/26	MYWOODCUTTERS COM 250-5895879 BC 05/24; $21,863.45
+	Expenses:Purchases:PlanerCutterHead	$616.85
+	Assets:Checking
+
+2023/05/26	AMZN Mktp US*456VC0V Amzn.com/bill WA 05/26; $21,824.37
+	Expenses:Supplies	$39.08
+	Assets:Checking
+
+2023/05/30	STRIPE TRANSFER; $22,635.73
+	Revenue:MemberDues	-$811.36
+	Assets:Checking
+
+2023/05/30	Zelle payment to DMITRIY VYSOTSKIY 17481784334; $22,630.25
+	Expenses:Supplies	$5.48
+	Assets:Checking
