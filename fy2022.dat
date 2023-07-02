@@ -746,3 +746,95 @@
 2023/05/30	Zelle payment to DMITRIY VYSOTSKIY 17481784334; $22,630.25
 	Expenses:Supplies	$5.48
 	Assets:Checking
+
+2023/06/01	AMZN Mktp US*4845F9A Amzn.com/bill WA 06/01; $22,603.80
+	Expenses:Supplies	$26.45
+	Assets:Checking
+
+2023/06/02	Zelle payment to BUBBLY DYNAMICS 17242607861; $21,195.80
+	Expenses:Rent	$1,408.00
+	Assets:Checking
+
+2023/06/05	STRIPE TRANSFER; $21,718.50
+	Revenue:MemberDues	-$522.70
+	Assets:Checking
+
+2023/06/05	CHECK 126; $21,708.50
+	Expenses:Administrative:Government	$10.00
+	Assets:Checking
+
+2023/06/09	PAYPAL TRANSFER; $21,742.31
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/06/12	STRIPE TRANSFER; $22,191.52
+	Revenue:MemberDues	-$449.21
+	Assets:Checking
+
+2023/06/13	PAYPAL TRANSFER; $22,200.83
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/06/15	PAYPAL TRANSFER; $22,210.14
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/06/20	STRIPE TRANSFER; $23,094.10
+	Revenue:MemberDues	-$883.96
+	Assets:Checking
+
+2023/06/20	Zelle payment from ROOPASHREE PREMKUMAR BACl8jhmhyig; $23,139.10
+	Revenue:MemberDues	-$45.00
+	Assets:Checking
+
+2023/06/21	PAYPAL TRANSFER; $23,172.91
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/06/21	THE HOME DEPOT 1950 CHICAGO IL 619875 06/21; $23,168.50
+	Expenses:Supplies	$4.41
+	Assets:Checking
+
+2023/06/22	Zelle payment to Daniel Meyer JPM999y9igos; $21,668.50
+	Expenses:Purchases:CarveyCNC	$1,500.00
+	Assets:Checking
+
+2023/06/23	AMZN Mktp US*8P7JE3X Amzn.com/bill WA 06/23; $21,638.74
+	Expenses:Supplies	$29.76
+	Assets:Checking
+
+2023/06/26	STRIPE TRANSFER; $22,184.22
+	Revenue:MemberDues	-$545.48
+	Assets:Checking
+
+2023/06/26	AMZN Mktp US*NL63N48 Amzn.com/bill WA 06/25; $21,484.18
+	Expenses:Purchases:SDSMaxHammerDrill	$700.04
+	Assets:Checking
+
+2023/06/26	Amazon.com*VG3OO4ZA3 Amzn.com/bill WA 06/23; $21,371.53
+	Expenses:Projects:LaserCutterExhaust	$112.65
+	Assets:Checking
+
+2023/06/26	Amazon.com*Z32RN41F3 Amzn.com/bill WA 06/24; $21,332.95
+	Expenses:Projects:LaserCutterExhaust	$38.58
+	Assets:Checking
+
+2023/06/26	GOOGLE *WEBPASS 800-932-7277 CA 06/24; $21,202.95
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/06/26	Amazon.com*KP2O768I3 Amzn.com/bill WA 06/25; $21,160.02
+	Expenses:Projects:LaserCutterExhaust	$42.93
+	Assets:Checking
+
+2023/06/28	AMZN Mktp US*OR1MK6E Amzn.com/bill WA 06/28; $21,150.77
+	Expenses:Supplies	$9.25
+	Assets:Checking
+
+2023/06/29	NATIONAL OFFICE LIQUID CHICAGO IL 06/28; $20,737.33
+	Expenses:Purchases:MoreNestingOfficeChairs	$413.44
+	Assets:Checking
+
+2023/06/30	1PASSWORD TORONTO ON 06/30; $20,554.75
+	Expenses:Administrative:PasswordManager	$182.58
+	Assets:Checking
