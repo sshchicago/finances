@@ -55,7 +55,7 @@
 	Assets:Checking
 
 2023/08/15	BERNIE'S SAW & SUPPLY FOREST PARK IL 08/14; $17,962.40
-	Expenses:Supplies:Maintenance	$86.38
+	Expenses:Supplies:Maintenance	$86.38	; Saw blade sharpening
 	Assets:Checking
 
 2023/08/16	Zelle payment from JOHN COAKLEY 0DE0EB5CVSZ8; $18,462.40
@@ -67,7 +67,7 @@
 	Assets:Checking
 
 2023/08/21	HOMEDEPOT.COM 800-430-3376 GA 08/17; $19,022.61
-	Expenses:CutOffTool	$198.92
+	Expenses:Purchases:CutOffTool	$198.92
 	Assets:Checking
 
 2023/08/21	eBay O*11-10429-63091 408-3766151 CA 08/18; $18,837.40
@@ -139,11 +139,11 @@
 	Assets:Checking
 
 2023/09/12	IN *ASW MACHINERY INC. 866-7925288 DE 09/11; $17,851.75
-	Expenses:Supplies	$31.82
+	Expenses:Supplies:Maintenance	$31.82	; Table saw parts
 	Assets:Checking
 
 2023/09/12	IN *ASW MACHINERY INC. 866-7925288 DE 09/11; $17,825.31
-	Expenses:Supplies	$26.44
+	Expenses:Supplies:Maintenance	$26.44	; Table saw parts
 	Assets:Checking
 
 2023/09/13	PAYPAL TRANSFER; $17,834.62
@@ -183,7 +183,7 @@
 	Assets:Checking
 
 2023/09/26	eReplacementparts.com 866-3229842 FL 09/25; $18,695.84
-	Expenses:Supplies	$14.59
+	Expenses:Supplies:Maintenance	$14.59	; Planer parts - screw and washer
 	Assets:Checking
 
 2023/09/26	AMZN Mktp US*T16QQ64 Amzn.com/bill WA 09/26; $18,666.13
@@ -331,7 +331,7 @@
 	Assets:Checking
 
 2023/11/10	AMZN Mktp US*NQ17J8B Amzn.com/bill WA 11/10; $18,728.29
-	Expenses:Supplies	$27.13
+	Expenses:Supplies:Maintenance	$27.13	; Planer part - pulley
 	Assets:Checking
 
 2023/11/13	STRIPE TRANSFER; $19,133.73
@@ -355,7 +355,7 @@
 	Assets:Checking
 
 2023/11/20	AMZN Mktp US*HL5AC3H Amzn.com/bill WA 11/20; $19,908.33
-	Expenses:Supplies	$59.49
+	Expenses:Supplies:Maintenance	$59.49	; Sewing machine pedal and 3d printer build plate
 	Assets:Checking
 
 2023/11/21	PAYPAL TRANSFER; $19,942.14
