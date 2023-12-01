@@ -310,3 +310,87 @@
 	Expenses:VOIP	$9.99
 	Assets:Checking
 
+2023/11/02	Zelle payment to BUBBLY DYNAMICS 18604436310; $17,953.90
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2023/11/03	TARGET 00020818 BROADVIEW IL 11/02; $17,931.91
+	Expenses:Supplies	$21.99
+	Assets:Checking
+
+2023/11/06	STRIPE TRANSFER; $18,672.01
+	Revenue:MemberDues	-$740.10
+	Assets:Checking
+
+2023/11/06	EBAY; $18,721.61
+	Revenue:Sales:eBay	-$49.60
+	Assets:Checking
+
+2023/11/09	PAYPAL TRANSFER; $18,755.42
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/11/10	AMZN Mktp US*NQ17J8B Amzn.com/bill WA 11/10; $18,728.29
+	Expenses:Supplies	$27.13
+	Assets:Checking
+
+2023/11/13	STRIPE TRANSFER; $19,133.73
+	Revenue:MemberDues	-$405.44
+	Assets:Checking
+
+2023/11/13	PAYPAL TRANSFER; $19,143.04
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/11/13	Zelle payment to DMITRIY VYSOTSKIY 18983138831; $19,126.72
+	Expenses:Supplies	$16.32
+	Assets:Checking
+
+2023/11/15	PAYPAL TRANSFER; $19,136.03
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/11/20	STRIPE TRANSFER; $19,967.82
+	Revenue:MemberDues	-$831.79
+	Assets:Checking
+
+2023/11/20	AMZN Mktp US*HL5AC3H Amzn.com/bill WA 11/20; $19,908.33
+	Expenses:Supplies	$59.49
+	Assets:Checking
+
+2023/11/21	PAYPAL TRANSFER; $19,942.14
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/11/27	STRIPE TRANSFER; $20,433.46
+	Revenue:MemberDues	-$491.32
+	Assets:Checking
+
+2023/11/27	BANK OF AMERICA ACCTVERIFY; $20,433.47
+	Revenue:AccountVerification	-$0.01
+	Assets:Checking
+
+2023/11/27	GOOGLE *WEBPASS 800-932-7277 CA 11/24; $20,303.47
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/11/27	Zelle payment to DMITRIY VYSOTSKIY 19118612254; $20,052.70
+	Expenses:Supplies	$250.77
+	Assets:Checking
+
+2023/11/28	UBIQUITI INC. UI.COM NY 11/28; $20,042.71
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2023/11/28	WWW.BONAFIDEMASKS.CO WWW.BONAFIDEM NY 11/28; $19,953.47
+	Expenses:Supplies	$89.24
+	Assets:Checking
+
+2023/11/29	NATIONAL SPACE G; $24,842.32
+	Expenses:Funds:NEBPCostReimbursment	-$4,888.85
+	Assets:Checking
+
+2023/11/30	CHECK 128; $20,783.56
+	Expenses:Funds:NEBPCostReimbursment	$4,058.76
+	Assets:Checking
+
