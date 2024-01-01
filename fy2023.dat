@@ -394,3 +394,71 @@
 	Expenses:Funds:NEBPCostReimbursment	$4,058.76
 	Assets:Checking
 
+2023/12/04	STRIPE TRANSFER; $21,799.31
+	Revenue:MemberDues	-$1,015.75
+	Assets:Checking
+
+2023/12/04	Zelle payment to BUBBLY DYNAMICS 18890264656; $20,364.31
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2023/12/08	Amazon.com*0V1MT45J3 Amzn.com/bill WA 12/07; $20,341.86
+	Expenses:Supplies	$22.45
+	Assets:Checking
+
+2023/12/08	AMZN Mktp US*9N9S086 Amzn.com/bill WA 12/08; $20,288.36
+	Expenses:Supplies	$53.50
+	Assets:Checking
+
+2023/12/08	CHECK 107; $20,273.36
+	Expenses:Administrative	$15.00
+	Assets:Checking
+
+2023/12/11	STRIPE TRANSFER; $20,804.87
+	Revenue:MemberDues	-$531.51
+	Assets:Checking
+
+2023/12/11	PAYPAL TRANSFER; $20,838.68
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/12/13	PAYPAL TRANSFER; $20,847.99
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/12/13	Zelle payment to DMITRIY VYSOTSKIY 19281523719; $20,448.35
+	Expenses:Purchases:HatchEmbroiderySoftwareUpgrade	$300.00
+	Expenses:Supplies:Maintenance	$99.64	; Guider 3D printer parts
+	Assets:Checking
+
+2023/12/15	PAYPAL TRANSFER; $20,457.66
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2023/12/18	STRIPE TRANSFER; $21,214.89
+	Revenue:MemberDues	-$757.23
+	Assets:Checking
+
+2023/12/21	PAYPAL TRANSFER; $21,248.70
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2023/12/26	STRIPE TRANSFER; $22,002.25
+	Revenue:MemberDues	-$753.55
+	Assets:Checking
+
+2023/12/26	GOOGLE *WEBPASS 800-932-7277 CA 12/24; $21,872.25
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2023/12/28	UBIQUITI INC. UI.COM NY 12/28; $21,862.26
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2023/12/28	AMZN Mktp US*HH2U519 Amzn.com/bill WA 12/28; $21,836.85
+	Expenses:Supplies	$25.41
+	Assets:Checking
+
+2023/12/29	PAYPAL TRANSFER; $21,930.60
+	Revenue:MemberDues	-$93.75
+	Assets:Checking
