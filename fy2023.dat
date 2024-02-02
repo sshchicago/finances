@@ -462,3 +462,92 @@
 2023/12/29	PAYPAL TRANSFER; $21,930.60
 	Revenue:Donations:Benevity	-$93.75	; Erin Microsoft donation
 	Assets:Checking
+
+2024/01/02	STRIPE TRANSFER; $22,721.96
+	Revenue:MemberDues	-$791.36
+	Assets:Checking
+
+2024/01/02	Zelle payment to BUBBLY DYNAMICS 19172601053; $21,286.96
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2024/01/03	ACMETOOLS.COM 877-3452263 ND 01/03; $21,181.69
+	Expenses:Supplies:Maintenance	$105.27
+	Assets:Checking
+
+2024/01/08	STRIPE TRANSFER; $21,664.04
+	Revenue:MemberDues	-$482.35
+	Assets:Checking
+
+2024/01/09	PAYPAL TRANSFER; $21,697.85
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/01/12	MFASCO HEALTH & SAFET 800-221-9222 MI 01/12; $21,659.95
+	Expenses:Supplies	$37.90
+	Assets:Checking
+
+2024/01/16	STRIPE TRANSFER; $22,205.09
+	Revenue:MemberDues	-$545.14
+	Assets:Checking
+
+2024/01/16	PAYPAL TRANSFER; $22,214.40
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/01/16	PAYPAL TRANSFER; $22,223.71
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/01/18	ORIG CO NAME:O.M.S. TOOL COMP ORIG ID:770510487C DESC DATE: CO ENTRY DESCR:IAT PAYPALSEC:WEB TRACE#:021000020898263 EED:240118 IND ID:1031981493918 IND NAME:DMITRIY VYSOTSKIY IATCV240118PPZ115 TRN: 0180898263TC; $21,893.21
+	Expenses:Purchases:DowelJig	$330.50
+	Assets:Checking
+
+2024/01/19	AMZN Mktp US*R81MT3W Amzn.com/bill WA 01/19; $21,840.83
+	Expenses:Supplies	$52.38
+	Assets:Checking
+
+2024/01/22	STRIPE TRANSFER; $22,579.75
+	Revenue:MemberDues	-$738.92
+	Assets:Checking
+
+2024/01/22	PAYPAL TRANSFER; $22,613.56
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/01/24	IN *ASW MACHINERY INC. 866-7925288 DE 01/23; $22,613.76
+	Expenses:Supplies:Maintenance	-$0.20	; Random credit for table saw parts?
+	Assets:Checking
+
+2024/01/25	GOOGLE *WEBPASS 800-932-7277 CA 01/24; $22,483.76
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/01/25	Zelle payment to Chelsea Griffin JPM99a8f9o62; $22,461.82
+	Expenses:Programming:HolidayParty	$21.94
+	Assets:Checking
+
+2024/01/29	STRIPE TRANSFER; $23,356.15
+	Revenue:MemberDues	-$894.33
+	Assets:Checking
+
+2024/01/29	AMZN Mktp US*R00US4T Amzn.com/bill WA 01/27; $23,294.41
+	Expenses:Purchases:UltrasonicCleaner	$61.74
+	Assets:Checking
+
+2024/01/29	UBIQUITI INC. UI.COM NY 01/28; $23,284.42
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2024/01/29	Zelle payment to Rachel Siciliano 19696559818; $23,053.92
+	Expenses:Programming:HolidayParty	$230.50
+	Assets:Checking
+
+2024/01/30	Zelle payment to Tim Mata 19711566395; $23,002.08
+	Expenses:Programming:HolidayParty	$51.84
+	Assets:Checking
+
+2024/01/31	CHECK 129; $22,982.08
+	Expenses:Administrative:ExtinguisherInspection	$20.00
+	Assets:Checking
+
