@@ -551,3 +551,87 @@
 	Expenses:Administrative:ExtinguisherInspection	$20.00
 	Assets:Checking
 
+2024/02/02	Zelle payment to BUBBLY DYNAMICS 19459868130; $21,547.08
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2024/02/05	STRIPE TRANSFER; $22,199.34
+	Revenue:MemberDues	-$652.26
+	Assets:Checking
+
+2024/02/05	ADAFRUIT INDUSTRIES 646-465-3692 NY 02/02; $22,089.76
+	Expenses:Purchases:RaspberryPi5	$109.58
+	Assets:Checking
+
+2024/02/05	Amazon web services aws.amazon.co WA 02/03; $22,077.76
+	Expenses:Administrative:AmazonWebServices	$12.00	; Domain name renewal
+	Assets:Checking
+
+2024/02/07	AMZN Mktp US*RB52Q1T Amzn.com/bill WA 02/07; $22,040.12
+	Expenses:Purchases:RaspberryPi5	$37.64
+	Assets:Checking
+
+2024/02/08	HARBOR FREIGHT TOOLS33 BROADVIEW IL 02/08; $22,030.23
+	Expenses:Purchases:UltrasonicCleaner	$9.89	; cleaner powder
+	Assets:Checking
+
+2024/02/09	PAYPAL TRANSFER; $22,064.04
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/02/12	ATM CASH DEPOSIT 02/12 2800 S 17TH AVE BROADVIEW IL; $22,109.04
+	Revenue:MemberDues	-$45.00
+	Assets:Checking
+
+2024/02/12	STRIPE TRANSFER; $22,557.18
+	Revenue:MemberDues	-$448.14
+	Assets:Checking
+
+2024/02/13	PAYPAL TRANSFER; $22,566.49
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/02/14	AMZN Mktp US*RI03N8J Amzn.com/bill WA 02/14; $22,551.37
+	Expenses:Supplies:Maintenance	$15.12	; Artillery ribbon cables
+	Assets:Checking
+
+2024/02/15	PAYPAL TRANSFER; $22,560.68
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/02/20	STRIPE TRANSFER; $23,483.23
+	Revenue:MemberDues	-$922.55
+	Assets:Checking
+
+2024/02/20	COSTCO WHSE #1153 NORTH RIVERS IL 222016 02/17; $23,435.96
+	Expenses:Supplies	$47.27	; Batteries
+	Assets:Checking
+
+2024/02/21	PAYPAL TRANSFER; $23,469.77
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/02/23	CHECK 180; $19,970.78
+	Expenses:Funds:NEBPCostReimbursment	$3,498.99
+	Assets:Checking
+
+2024/02/26	STRIPE TRANSFER; $20,518.06
+	Revenue:MemberDues	-$547.28
+	Assets:Checking
+
+2024/02/26	GOOGLE *WEBPASS 800-932-7277 CA 02/24; $20,388.06
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/02/27	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:240227 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000023660371 EED:240227 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 0583660371TC; $23,887.05
+	Expenses:Funds:NEBPCostReimbursment	-$3,498.99
+	Assets:Checking
+
+2024/02/28	Amazon.com*RW0MJ6531 Amzn.com/bill WA 02/27; $23,773.17
+	Expenses:Supplies	$113.88	; Air cleaner filters
+	Assets:Checking
+
+2024/02/28	UBIQUITI INC. UI.COM NY 02/28; $23,763.18
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
