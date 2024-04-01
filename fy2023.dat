@@ -635,3 +635,74 @@
 	Expenses:VOIP	$9.99
 	Assets:Checking
 
+2024/03/04	STRIPE TRANSFER; $24,816.86
+	Revenue:MemberDues	-$1,053.68
+	Assets:Checking
+
+2024/03/04	Zelle payment to BUBBLY DYNAMICS 19746734350; $23,381.86
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2024/03/04	Zelle payment to Rachel Siciliano 20052368115; $22,963.50
+	Expenses:Programming:BirthdayParty	$418.36
+	Assets:Checking
+
+2024/03/11	STRIPE TRANSFER; $23,364.07
+	Revenue:MemberDues	-$400.57
+	Assets:Checking
+
+2024/03/11	PAYPAL TRANSFER; $23,397.88
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/03/13	PAYPAL TRANSFER; $23,407.19
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/03/15	PAYPAL TRANSFER; $23,416.50
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/03/18	STRIPE TRANSFER; $24,138.25
+	Revenue:MemberDues	-$721.75
+	Assets:Checking
+
+2024/03/21	PAYPAL TRANSFER; $24,172.06
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/03/21	eBay O*27-11327-66847 408-3766151 CA 03/21; $24,046.37
+	Expenses:Supplies:Maintenance	$125.69	; vending machine bill acceptor
+	Assets:Checking
+
+2024/03/22	US GAS 7083891402 IL 03/21; $23,244.93
+	Expenses:Funds:NEBPCostReimbursment	$801.44
+	Assets:Checking
+
+2024/03/25	STRIPE TRANSFER; $24,043.09
+	Revenue:MemberDues	-$798.16
+	Assets:Checking
+
+2024/03/25	US GAS 7083891402 IL 03/22; $23,571.59
+	Expenses:Funds:NEBPCostReimbursment	$471.50
+	Assets:Checking
+
+2024/03/25	GOOGLE *WEBPASS 800-932-7277 CA 03/24; $23,441.59
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/03/28	UBIQUITI INC. UI.COM NY 03/28; $23,431.60
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2024/03/28	AMZN Mktp US*Q53NT4N Amzn.com/bill WA 03/28; $23,344.50
+	Expenses:Supplies	$87.10
+	Assets:Checking
+
+2024/03/30	POS DEBIT AMZN Mktp US Amzn.com/bil WA; $23,282.77
+	Expenses:Supplies	$61.73
+	Assets:Checking
+
+2024/03/30	POS DEBIT US GAS ALSIP IL; $21,986.27
+	Expenses:Funds:NEBPCostReimbursment	$1,296.50
+	Assets:Checking
