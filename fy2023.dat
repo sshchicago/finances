@@ -706,3 +706,83 @@
 2024/03/30	POS DEBIT US GAS ALSIP IL; $21,986.27
 	Expenses:Funds:NEBPCostReimbursment	$1,296.50
 	Assets:Checking
+
+2024/04/01	STRIPE TRANSFER; $22,821.41
+	Revenue:MemberDues	-$835.14
+	Assets:Checking
+
+2024/04/02	Zelle payment to BUBBLY DYNAMICS 20034539862; $21,386.41
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2024/04/08	STRIPE TRANSFER; $21,781.11
+	Revenue:MemberDues	-$394.70
+	Assets:Checking
+
+2024/04/08	Zelle payment to Samantha Vajgert JPM99af21190; $21,636.11
+	Expenses:Supplies:Maintenance	$145.00 ; sewing machine repair
+	Assets:Checking
+
+2024/04/08	Zelle payment to ISABELLA L HERNANDEZ 20388553107; $21,236.11
+	Expenses:Funds:RapidAction	$400.00 ; new tables for front room
+	Assets:Checking
+
+2024/04/08	eBay O*18-11410-96500 408-3766151 CA 04/08; $21,223.99
+	Expenses:FrontRoom	$12.12 ; new Sony AVR remote
+	Assets:Checking
+
+2024/04/09	PAYPAL TRANSFER; $21,257.80
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/04/09	CHECK 131; $19,437.80
+	Expenses:Purchases:MuseLaserRepair	$1,820.00
+	Assets:Checking
+
+2024/04/10	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:240410 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000027378898 EED:240410 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 1017378898TC; $25,506.23
+	Expenses:Funds:NEBPCostReimbursment	-$6,068.43
+	Assets:Checking
+
+2024/04/15	STRIPE TRANSFER; $26,051.60
+	Revenue:MemberDues	-$545.37
+	Assets:Checking
+
+2024/04/15	PAYPAL TRANSFER; $26,060.91
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/04/15	PAYPAL TRANSFER; $26,070.22
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/04/18	COSTCO WHSE #1153 NORTH RIVERS IL 028354 04/18; $26,048.34
+	Expenses:Supplies	$21.88 ; paper towels
+	Assets:Checking
+
+2024/04/19	CHECK 132; $22,549.35
+	Expenses:Funds:NEBPCostReimbursment	$3,498.99
+	Assets:Checking
+
+2024/04/22	STRIPE TRANSFER; $23,201.05
+	Revenue:MemberDues	-$651.70
+	Assets:Checking
+
+2024/04/22	PAYPAL TRANSFER; $23,234.86
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/04/22	Zelle payment to Power Racing Series NFP 20532553245; $22,734.86
+	Expenses:Purchases:PRSSponsorship	$500.00
+	Assets:Checking
+
+2024/04/25	GOOGLE *WEBPASS 800-932-7277 CA 04/24; $22,604.86
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/04/29	STRIPE TRANSFER; $23,455.26
+	Revenue:MemberDues	-$850.40
+	Assets:Checking
+
+2024/04/29	UBIQUITI INC. UI.COM NY 04/28; $23,445.27
+	Expenses:Administrative:VOIP	$9.99
+	Assets:Checking
