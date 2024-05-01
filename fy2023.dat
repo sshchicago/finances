@@ -720,15 +720,15 @@
 	Assets:Checking
 
 2024/04/08	Zelle payment to Samantha Vajgert JPM99af21190; $21,636.11
-	Expenses:Supplies:Maintenance	$145.00 ; sewing machine repair
+	Expenses:Supplies:Maintenance	$145.00	; sewing machine repair
 	Assets:Checking
 
 2024/04/08	Zelle payment to ISABELLA L HERNANDEZ 20388553107; $21,236.11
-	Expenses:Funds:RapidAction	$400.00 ; new tables for front room
+	Expenses:Funds:RapidAction	$400.00	; new tables for front room
 	Assets:Checking
 
 2024/04/08	eBay O*18-11410-96500 408-3766151 CA 04/08; $21,223.99
-	Expenses:FrontRoom	$12.12 ; new Sony AVR remote
+	Expenses:FrontRoom	$12.12	; new Sony AVR remote
 	Assets:Checking
 
 2024/04/09	PAYPAL TRANSFER; $21,257.80
@@ -756,7 +756,7 @@
 	Assets:Checking
 
 2024/04/18	COSTCO WHSE #1153 NORTH RIVERS IL 028354 04/18; $26,048.34
-	Expenses:Supplies	$21.88 ; paper towels
+	Expenses:Supplies	$21.88	; paper towels
 	Assets:Checking
 
 2024/04/19	CHECK 132; $22,549.35
