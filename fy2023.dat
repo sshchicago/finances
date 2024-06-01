@@ -784,5 +784,110 @@
 	Assets:Checking
 
 2024/04/29	UBIQUITI INC. UI.COM NY 04/28; $23,445.27
-	Expenses:Administrative:VOIP	$9.99
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2024/05/02	Zelle payment to BUBBLY DYNAMICS 20339796720; $22,010.27
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2024/05/06	STRIPE TRANSFER; $22,749.73
+	Revenue:MemberDues	-$739.46
+	Assets:Checking
+
+2024/05/06	Zelle payment from POWER RACING SERIES NFP 20698980884; $22,899.73
+	Expenses:Programming:PRSParty	-$150.00
+	Assets:Checking
+
+2024/05/06	MARIANOS 3145 S ASHLA CHICAGO IL 05/04; $22,890.92
+	Expenses:Programming:PRSParty	$8.81	; ice
+	Assets:Checking
+
+2024/05/06	Zelle payment to Rachel Siciliano 20699140863; $22,576.68
+	Expenses:Programming:PRSParty	$293.81	; bulk of food
+	Expenses:Programming:GardenParty	$50.43
+	Assets:Checking
+
+2024/05/08	Zelle payment to Chelsea Griffin JPM99agq66nj; $22,541.60
+	Expenses:Programming:PRSParty	$35.08
+	Assets:Checking
+
+2024/05/09	PAYPAL TRANSFER; $22,575.41
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/05/13	STRIPE TRANSFER; $23,111.47
+	Revenue:MemberDues	-$536.06
+	Assets:Checking
+
+2024/05/13	PAYPAL TRANSFER; $23,120.78
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/05/14	Zelle payment to Kalina Jakymec JPM99ah1soe9; $22,657.73
+	Expenses:BackYard	$463.05	; soil
+	Assets:Checking
+
+2024/05/15	PAYPAL TRANSFER; $22,667.04
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/05/16	Zelle payment to Adam Kadzban JPM99ah5hlep; $22,400.37
+	Expenses:Funds:NEBPCostReimbursment	$266.67
+	Assets:Checking
+
+2024/05/16	Zelle payment to DMITRIY VYSOTSKIY 20796319043; $22,385.37
+	Expenses:Supplies	$15.00	; instax film
+	Assets:Checking
+
+2024/05/17	CHECK 133; $21,775.34
+	Expenses:Funds:NEBPCostReimbursment	$610.03
+	Assets:Checking
+
+2024/05/20	STRIPE TRANSFER; $22,788.75
+	Revenue:MemberDues	-$1,013.41
+	Assets:Checking
+
+2024/05/20	Zelle payment to William Cwik 20827029631; $22,622.86
+	Expenses:BackRoom	$165.89	; various small items
+	Assets:Checking
+
+2024/05/20	COSTCO WHSE #1153 NORTH RIVERS IL 087983 05/20; $22,585.48
+	Expenses:Supplies	$37.38	; cleaning supplies
+	Assets:Checking
+
+2024/05/21	PAYPAL TRANSFER; $22,619.29
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/05/21	Zelle payment to DMITRIY VYSOTSKIY 20845932149; $19,660.62
+	Expenses:Purchases:RouterTable	$2,958.67
+	Assets:Checking
+
+2024/05/23	AMZN Mktp US*W94IG1Z Amzn.com/bill WA 05/23; $19,641.89
+	Expenses:Purchases:UltrasonicCleaner	$18.73
+	Assets:Checking
+
+2024/05/23	AMZN Mktp US*KK3ML5D Amzn.com/bill WA 05/23; $19,629.00
+	Expenses:Purchases:UltrasonicCleaner	$12.89
+	Assets:Checking
+
+2024/05/28	STRIPE TRANSFER; $20,251.19
+	Revenue:MemberDues	-$622.19
+	Assets:Checking
+
+2024/05/28	GOOGLE *WEBPASS 800-932-7277 CA 05/24; $20,121.19
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/05/28	UBIQUITI INC. UI.COM NY 05/28; $20,111.20
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2024/05/30	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:240530 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000029451608 EED:240530 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 1519451608TC; $21,019.90
+	Expenses:Funds:NEBPCostReimbursment	-$908.70
+	Assets:Checking
+
+2024/05/31	POS DEBIT INKOWL COM 8884465695 888-4465695 NY; $20,840.01
+	Expenses:Purchases:CanonPrinterInkRefillKit	$179.89
 	Assets:Checking
