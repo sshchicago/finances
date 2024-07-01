@@ -891,3 +891,83 @@
 2024/05/31	POS DEBIT INKOWL COM 8884465695 888-4465695 NY; $20,840.01
 	Expenses:Purchases:CanonPrinterInkRefillKit	$179.89
 	Assets:Checking
+
+2024/06/03	STRIPE TRANSFER; $21,763.75
+	Revenue:MemberDues	-$923.74
+	Assets:Checking
+
+2024/06/03	WOODCRAFT 519 WOODRIDGE IL 893198 06/01; $21,706.65
+	Expenses:Purchases:RouterTable	$57.10
+	Assets:Checking
+
+2024/06/03	Zelle payment to BUBBLY DYNAMICS 20646662879; $20,271.65
+	Expenses:Rent	$1,435.00
+	Assets:Checking
+
+2024/06/04	ZORO TOOLS INC 855-2899676 IL 06/01; $20,132.47
+	Expenses:Supplies	$139.18	; big roll of filter foam for AC
+	Assets:Checking
+
+2024/06/07	US GAS 708-389-1402 IL 06/06; $20,097.59
+	Expenses:Funds:NEBPCostReimbursment	$34.88
+	Assets:Checking
+
+2024/06/10	STRIPE TRANSFER; $20,406.83
+	Revenue:MemberDues	-$309.24
+	Assets:Checking
+
+2024/06/10	PAYPAL TRANSFER; $20,440.64
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/06/10	THE HOME DEPOT 1950 CHICAGO IL 761119 06/08; $20,433.03
+	Expenses:Purchases:RouterTable	$7.61
+	Assets:Checking
+
+2024/06/10	CHECK 134; $20,423.03
+	Expenses:Administrative:Government	$10.00
+	Assets:Checking
+
+2024/06/12	NAME-CHEAP.COM* GWZV WWW.NAMECHEAP AZ 06/12; $20,415.87
+	Expenses:Administrative	$7.16
+	Assets:Checking
+
+2024/06/13	PAYPAL TRANSFER; $20,425.18
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/06/14	TUREK & SONS CHICAGO IL 06/13; $20,316.18
+	Expenses:Supplies:Maintenance	$109.00	; replacement dewalt powerhead
+	Assets:Checking
+
+2024/06/17	STRIPE TRANSFER; $20,991.80
+	Revenue:MemberDues	-$675.62
+	Assets:Checking
+
+2024/06/17	PAYPAL TRANSFER; $21,001.11
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/06/20	Zelle payment to DMITRIY VYSOTSKIY 21153545265; $20,973.43
+	Expenses:Supplies	$27.68	; ac cleaning supplies
+	Assets:Checking
+
+2024/06/21	PAYPAL TRANSFER; $21,007.24
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/06/24	STRIPE TRANSFER; $21,881.00
+	Revenue:MemberDues	-$873.76
+	Assets:Checking
+
+2024/06/24	Zelle payment to William Cwik 21184257953; $21,809.78
+	Expenses:Purchases:RouterTable	$71.22
+	Assets:Checking
+
+2024/06/25	GOOGLE *WEBPASS 800-932-7277 CA 06/24; $21,679.78
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/06/28	UBIQUITI INC. UI.COM NY 06/28; $21,669.79
+	Expenses:VOIP	$9.99
+	Assets:Checking
