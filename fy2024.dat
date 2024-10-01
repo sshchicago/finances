@@ -78,3 +78,78 @@
 	Expenses:Purchases:3DScanner	$1,766.27
 	Assets:Checking
 
+2024/09/03	STRIPE TRANSFER; $20,075.86
+	Revenue:MemberDues	-$877.08
+	Assets:Checking
+
+2024/09/03	THE HOME DEPOT 1950 CHICAGO IL 481714 09/01; $20,070.37
+	Expenses:Purchases:AirConditioner5	$5.49	; great stuff for new timeout install
+	Assets:Checking
+
+2024/09/03	Zelle payment to BUBBLY DYNAMICS 21595870273; $18,604.37
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2024/09/05	EBAYCOMMERCE SAN JOSE CA 784743 09/05; $18,590.05
+	Expenses:Supplies:Maintenance	$14.32	; Door strike solenoid
+	Assets:Checking
+
+2024/09/09	STRIPE TRANSFER; $18,986.19
+	Revenue:MemberDues	-$396.14
+	Assets:Checking
+
+2024/09/09	PAYPAL TRANSFER; $19,020.00
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/09/09	JPW INDUSTRIES HOLDIN 888-804-7129 TN 09/05; $18,969.88
+	Expenses:Supplies:Maintenance	$50.12	; Lathe parts
+	Assets:Checking
+
+2024/09/09	Zelle payment to DMITRIY VYSOTSKIY 22001216005; $18,903.03
+	Expenses:Supplies	$66.85	; Costco
+	Assets:Checking
+
+2024/09/13	PAYPAL TRANSFER; $18,912.34
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/09/16	STRIPE TRANSFER; $19,603.78
+	Revenue:MemberDues	-$691.44
+	Assets:Checking
+
+2024/09/16	PAYPAL TRANSFER; $19,613.09
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/09/23	JPW INDUSTRIES HOLDINGS LA VERGNE TN 09/19; $19,632.20
+	Expenses:Supplies:Maintenance	-$19.11	; Lathe parts reimbursement
+	Assets:Checking
+
+2024/09/23	STRIPE TRANSFER; $20,501.34
+	Revenue:MemberDues	-$869.14
+	Assets:Checking
+
+2024/09/23	PAYPAL TRANSFER; $20,535.15
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/09/23	CHECK 136; $20,350.15
+	Expenses:Purchases:MuseLaserRepair	$185.00	; Laser tube from Rabbit Laser
+	Assets:Checking
+
+2024/09/25	GOOGLE *WEBPASS 800-932-7277 CA 09/24; $20,220.15
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/09/30	STRIPE TRANSFER; $21,113.13
+	Revenue:MemberDues	-$892.98
+	Assets:Checking
+
+2024/09/30	UBIQUITI INC. UI.COM NY 09/28; $21,103.14
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2024/09/30	PARTSBUILT 3D HTTPSWWW.PART OH 09/29; $20,973.17
+	Expenses:Supplies:Maintenance	$129.97	; Guider hotend and artillery hotend/cable parts
+	Assets:Checking
