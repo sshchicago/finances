@@ -153,3 +153,75 @@
 2024/09/30	PARTSBUILT 3D HTTPSWWW.PART OH 09/29; $20,973.17
 	Expenses:Supplies:Maintenance	$129.97	; Guider hotend and artillery hotend/cable parts
 	Assets:Checking
+
+2024/10/02	AMAZON MKTPL*XX1VC3U Amzn.com/bill WA 10/02; $20,933.59
+	Expenses:Purchases:3DScanner	$39.58	; scanning spray
+	Assets:Checking
+
+2024/10/02	Zelle payment to BUBBLY DYNAMICS 21922912307; $19,467.59
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2024/10/02	THE HOME DEPOT 1950 CHICAGO IL 043795 10/02; $19,435.64
+	Expenses:Supplies	$31.95	; floor leveling compound
+	Assets:Checking
+
+2024/10/03	AMAZON MKTPL*5215311 Amzn.com/bill WA 10/02; $19,388.47
+	Expenses:Purchases:3DScanner	$47.17	; scanning markers
+	Assets:Checking
+
+2024/10/03	Zelle payment to Adam Kadzban JPM99aorpml9; $19,087.63
+	Expenses:Purchases:WallHangingSystem	$300.84
+	Assets:Checking
+
+2024/10/07	STRIPE TRANSFER; $19,740.99
+	Revenue:MemberDues	-$653.36
+	Assets:Checking
+
+2024/10/07	Zelle payment to William Cwik 22307035804; $19,703.56
+	Expenses:BackRoom	$37.43	; drill bit and deburring tool
+	Assets:Checking
+
+2024/10/09	PAYPAL TRANSFER; $19,737.37
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/10/15	STRIPE TRANSFER; $20,236.39
+	Revenue:MemberDues	-$499.02
+	Assets:Checking
+
+2024/10/15	PAYPAL TRANSFER; $20,245.70
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/10/15	PAYPAL TRANSFER; $20,255.01
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/10/21	STRIPE TRANSFER; $21,322.19
+	Revenue:MemberDues	-$1,067.18
+	Assets:Checking
+
+2024/10/21	PAYPAL TRANSFER; $21,356.00
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/10/25	GOOGLE *WEBPASS 800-932-7277 CA 10/24; $21,226.00
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/10/28	STRIPE TRANSFER; $22,122.67
+	Revenue:MemberDues	-$896.67
+	Assets:Checking
+
+2024/10/28	UBIQUITI INC. UI.COM NY 10/28; $22,112.68
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2024/10/30	eBay; $22,123.49
+	Revenue:Sales	-$10.81	; sale of server drive blanks
+	Assets:Checking
+
+2024/10/31	ZELLE PAYMENT TO DMITRIY VYSOTSKIY 22554574904; $21,703.09
+	Expenses:Purchases:MuseLaserRepair	$420.40	; parts order from FSL
+	Assets:Checking
