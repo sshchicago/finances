@@ -225,3 +225,63 @@
 2024/10/31	ZELLE PAYMENT TO DMITRIY VYSOTSKIY 22554574904; $21,703.09
 	Expenses:Purchases:MuseLaserRepair	$420.40	; parts order from FSL
 	Assets:Checking
+
+2024/11/04	STRIPE TRANSFER; $22,529.39
+	Revenue:MemberDues	-$826.30
+	Assets:Checking
+
+2024/11/04	MENARDS HODGKINS IL HODGKINS IL 11/01; $22,520.95
+	Expenses:Supplies	$8.44
+	Assets:Checking
+
+2024/11/04	Zelle payment to BUBBLY DYNAMICS 22244846650; $21,054.95
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2024/11/07	Zelle payment to DMITRIY VYSOTSKIY 22639780517; $21,039.95
+	Expenses:Supplies	$15.00	; instax film
+	Assets:Checking
+
+2024/11/08	AMAZON MKTPL*KU9DM3Z Amzn.com/bill WA 11/08; $21,019.10
+	Expenses:Supplies	$20.85
+	Assets:Checking
+
+2024/11/08	Zelle payment to Rachel Siciliano 22646760386; $20,930.49
+	Expenses:Programming:HalloweenStorytelling	$88.61
+	Assets:Checking
+
+2024/11/12	STRIPE TRANSFER; $21,325.51
+	Revenue:MemberDues	-$395.02
+	Assets:Checking
+
+2024/11/12	PAYPAL TRANSFER; $21,359.32
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/11/13	PAYPAL TRANSFER; $21,368.63
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/11/15	PAYPAL TRANSFER; $21,377.94
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2024/11/18	STRIPE TRANSFER; $22,190.32
+	Revenue:MemberDues	-$812.38
+	Assets:Checking
+
+2024/11/21	PAYPAL TRANSFER; $22,224.13
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2024/11/25	STRIPE TRANSFER; $23,199.42
+	Revenue:MemberDues	-$975.29
+	Assets:Checking
+
+2024/11/25	GOOGLE *WEBPASS 800-932-7277 CA 11/24; $23,069.42
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2024/11/29	UBIQUITI INC. UI.COM NY 11/28; $23,059.43
+	Expenses:VOIP	$9.99
+	Assets:Checking
