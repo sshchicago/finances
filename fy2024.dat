@@ -349,3 +349,103 @@
 2024/12/30	UBIQUITI INC. UI.COM NY 12/28; $25,182.95
 	Expenses:VOIP	$9.99
 	Assets:Checking
+
+2025/01/02	Zelle payment to BUBBLY DYNAMICS 22907480990; $23,716.95
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/01/03	AMAZON MKTPL*ZD9EZ4N Amzn.com/bill WA 01/02; $23,686.10
+	Expenses:Supplies	$30.85	; General use filament
+	Assets:Checking
+
+2025/01/06	STRIPE TRANSFER; $24,397.72
+	Revenue:MemberDues	-$711.62
+	Assets:Checking
+
+2025/01/09	PAYPAL TRANSFER; $24,431.53
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/01/13	STRIPE TRANSFER; $25,105.87
+	Revenue:MemberDues	-$674.34
+	Assets:Checking
+
+2025/01/13	PAYPAL TRANSFER; $25,115.18
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/01/15	PAYPAL TRANSFER; $25,124.49
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/01/17	AMZN Mktp US*Z57VN5C Amzn.com/bill WA 01/16; $25,042.24
+	Expenses:Purchases:CupDispenser	$82.25
+	Assets:Checking
+
+2025/01/17	Zelle payment to Philip Strong JPM99av6dwu4; $24,933.79
+	Expenses:Administrative:ExtinguisherInspection	$108.45
+	Assets:Checking
+
+2025/01/21	STRIPE TRANSFER; $26,006.73
+	Revenue:MemberDues	-$1,072.94
+	Assets:Checking
+
+2025/01/21	PAYPAL TRANSFER; $26,040.54
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/01/21	Zelle payment to Benjamin Moroney JPM99avcmdld; $25,976.53
+	Expenses:Programming:WinterParty	$64.01
+	Assets:Checking
+
+2025/01/21	PARTSBUILT 3D PARTSBUILT.CO OH 01/19; $25,921.69
+	Expenses:Supplies:Maintenance	$54.84	; Guider touch probe and other parts
+	Assets:Checking
+
+2025/01/21	Zelle payment to DMITRIY VYSOTSKIY 23446740332; $25,741.67
+	Expenses:Programming:WinterParty	$180.02
+	Assets:Checking
+
+2025/01/24	LIGHT OBJECTS 209-5726089 CA 01/23; $25,546.67
+	Expenses:Supplies:Maintenance	$195.00	; Laser cutter tube
+	Assets:Checking
+
+2025/01/24	AMAZON MKTPL*ZG18N1Z Amzn.com/bill WA 01/24; $25,477.16
+	Expenses:Supplies:Maintenance	$69.51	; Laser cutter tube accessories
+	Assets:Checking
+
+2025/01/27	STRIPE TRANSFER; $26,243.17
+	Revenue:MemberDues	-$766.01
+	Assets:Checking
+
+2025/01/27	GOOGLE *WEBPASS 800-932-7277 CA 01/24; $26,113.17
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/01/27	Zelle payment to Power Racing Series NFP 23509580304; $25,613.17
+	Expenses:Programming	$500.00
+	Assets:Checking
+
+2025/01/28	UBIQUITI INC. UI.COM NY 01/28; $25,603.18
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/01/28	Amazon.com*Z75U36A62 Amzn.com/bill WA 01/28; $25,492.99
+	Expenses:Supplies	$110.19	; 12V charger
+	Assets:Checking
+
+2025/01/29	PAYPAL TRANSFER; $25,685.81
+	Revenue:MemberDues	-$192.82
+	Assets:Checking
+
+2025/01/30	AMAZON MKTPL*ZC0K31Q Amzn.com/bill WA 01/29; $25,671.49
+	Expenses:Supplies:Maintenance	$14.32	; Belts for planer
+	Assets:Checking
+
+2025/01/31	POS DEBIT AMAZON MKTPLACE PMTS AMZN.COM/BIL WA 7235; $25,650.55
+	Expenses:Supplies	$20.94	; Case for 12V charger
+	Assets:Checking
+
+2025/01/31	POS DEBIT MCMASTER-C ELMHURST IL; $25,617.16
+	Expenses:Supplies:Maintenance	$33.39	; Flow indicator for laser cutter
+	Assets:Checking
