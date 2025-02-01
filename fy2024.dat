@@ -411,7 +411,7 @@
 	Assets:Checking
 
 2025/01/24	AMAZON MKTPL*ZG18N1Z Amzn.com/bill WA 01/24; $25,477.16
-	Expenses:Supplies:Maintenance	$69.51	; Laser cutter tube accessories
+	Expenses:Purchases:MuseLaserRepair	$69.51	; Replacement laser cutter cooling accessories
 	Assets:Checking
 
 2025/01/27	STRIPE TRANSFER; $26,243.17
@@ -447,5 +447,6 @@
 	Assets:Checking
 
 2025/01/31	POS DEBIT MCMASTER-C ELMHURST IL; $25,617.16
-	Expenses:Supplies:Maintenance	$33.39	; Flow indicator for laser cutter
+	Expenses:Purchases:MuseLaserRepair	$5.09
+	Expenses:Supplies:Maintenance	$28.30	; Flow indicator for laser cutter
 	Assets:Checking
