@@ -450,3 +450,75 @@
 	Expenses:Purchases:MuseLaserRepair	$5.09
 	Expenses:Supplies:Maintenance	$28.30	; Flow indicator for laser cutter
 	Assets:Checking
+
+2025/02/03	STRIPE TRANSFER; $26,627.03
+	Revenue:MemberDues	-$1,009.87
+	Assets:Checking
+
+2025/02/03	AMAZON MKTPL*ZC4QR06 Amzn.com/bill WA 02/02; $26,587.46
+	Expenses:Supplies:Maintenance	$39.57	; Thickness planer parts
+	Assets:Checking
+
+2025/02/03	Zelle payment to BUBBLY DYNAMICS 23249863787; $25,121.46
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/02/07	MCMASTER-CARR 630-834-9600 IL 02/05; $25,104.54
+	Expenses:Supplies:Maintenance	$16.92	; Machine key stock for planer
+	Assets:Checking
+
+2025/02/10	STRIPE TRANSFER; $25,408.67
+	Revenue:MemberDues	-$304.13
+	Assets:Checking
+
+2025/02/10	PAYPAL TRANSFER; $25,442.48
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/02/10	Amazon.com*8F7ND0I43 Amzn.com/bill WA 02/08; $25,410.72
+	Expenses:Supplies	$31.76	; Labelmaker tape
+	Assets:Checking
+
+2025/02/11	Amazon.com*WC1BG89B3 Amzn.com/bill WA 02/11; $25,372.43
+	Expenses:Supplies	$38.29	; Single bottle of oil for air compressor
+	Assets:Checking
+
+2025/02/13	PAYPAL TRANSFER; $25,381.74
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/02/14	AMZN Mktp US*VX0WW6Z Amzn.com/bill WA 02/13; $25,252.75
+	Expenses:Supplies	$128.99	; Maintenance kit for air compressor
+	Assets:Checking
+
+2025/02/18	STRIPE TRANSFER; $26,212.09
+	Revenue:MemberDues	-$959.34
+	Assets:Checking
+
+2025/02/18	PAYPAL TRANSFER; $26,221.40
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/02/21	PAYPAL TRANSFER; $26,255.21
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/02/24	STRIPE TRANSFER; $27,047.27
+	Revenue:MemberDues	-$792.06
+	Assets:Checking
+
+2025/02/25	GOOGLE *WEBPASS 800-932-7277 CA 02/24; $26,917.27
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/02/27	AMAZON MKTPL*X412D37 Amzn.com/bill WA 02/27; $26,889.14
+	Expenses:Supplies	$28.13	; QuickClot and USB adapter
+	Assets:Checking
+
+2025/02/28	POS DEBIT UBIQUITI INC. +16467807958 NY 0691; $26,879.15
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/02/28	POS DEBIT AMAZON MKTPLACE PMTS Amzn.com/bil WA 7235; $26,851.60
+	Expenses:Supplies	$27.55	; Superglue
+	Assets:Checking
