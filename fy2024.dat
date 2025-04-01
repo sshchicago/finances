@@ -522,3 +522,103 @@
 2025/02/28	POS DEBIT AMAZON MKTPLACE PMTS Amzn.com/bil WA 7235; $26,851.60
 	Expenses:Supplies	$27.55	; Superglue
 	Assets:Checking
+
+2025/03/03	STRIPE TRANSFER; $27,882.57
+	Revenue:MemberDues	-$1,030.97
+	Assets:Checking
+
+2025/03/03	Zelle payment to BUBBLY DYNAMICS 23590013095; $26,416.57
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/03/03	Amazon web services aws.amazon.co WA 03/02; $26,402.57
+	Expenses:Administrative:AmazonWebServices	$14.00	; domain name renewal
+	Assets:Checking
+
+2025/03/03	AMAZON MKTPL*8F3QM8A Amzn.com/bill WA 03/03; $26,346.27
+	Expenses:Supplies	$56.30	; pockethole jig parts and supplies
+	Assets:Checking
+
+2025/03/10	STRIPE TRANSFER; $27,130.51
+	Revenue:MemberDues	-$784.24
+	Assets:Checking
+
+2025/03/10	PAYPAL TRANSFER; $27,164.32
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/03/10	COSTCO WHSE #1153 NORTH RIVERS IL 863105 03/08; $27,104.25
+	Expenses:Programming:BirthdayParty	$60.07
+	Assets:Checking
+
+2025/03/13	PAYPAL TRANSFER; $27,113.56
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/03/17	STRIPE TRANSFER; $28,117.31
+	Revenue:MemberDues	-$1,003.75
+	Assets:Checking
+
+2025/03/17	PAYPAL TRANSFER; $28,126.62
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/03/17	MNRD-HODGKINS 6100 EAS HODGKINS IL 865062 03/15; $28,093.63
+	Expenses:Supplies	$32.99	; replacement pushbroom
+	Assets:Checking
+
+2025/03/17	AMAZON MKTPL*9Y5L030 Amzn.com/bill WA 03/17; $27,969.15
+	Expenses:Purchases:SmallMetalsStartup	$124.48
+	Assets:Checking
+
+2025/03/18	AMAZON MKTPL*8Z2D696 Amzn.com/bill WA 03/18; $27,892.55
+	Expenses:Purchases:SmallMetalsStartup	$76.60
+	Assets:Checking
+
+2025/03/19	AMAZON MKTPL*M91CY87 Amzn.com/bill WA 03/18; $27,874.77
+	Expenses:Purchases:SmallMetalsStartup	$17.78
+	Assets:Checking
+
+2025/03/19	FULLMER LOCKSMITH NORTH RIVERSI IL 03/18; $27,845.89
+	Expenses:Administrative	$28.88	; metal keys for hackerspace unit
+	Assets:Checking
+
+2025/03/20	Zelle payment to Erin Scanlon JPM99b1xddpx; $27,230.15
+	Expenses:Purchases:Clamps	$615.74
+	Assets:Checking
+
+2025/03/21	PAYPAL TRANSFER; $27,263.96
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/03/24	STRIPE TRANSFER; $28,055.59
+	Revenue:MemberDues	-$791.63
+	Assets:Checking
+
+2025/03/24	ZORO TOOLS INC 855-2899676 IL 03/21; $28,003.52
+	Expenses:Supplies	$52.07	; kraft paper roll
+	Assets:Checking
+
+2025/03/25	AMAZON MKTPL*SE2H437 Amzn.com/bill WA 03/24; $27,424.21
+	Expenses:Purchases:SmallMetalsStartup	$579.31
+	Assets:Checking
+
+2025/03/25	GOOGLE *WEBPASS 800-932-7277 CA 03/24; $27,294.21
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/03/28	AMAZON MKTPL*UC18N7W Amzn.com/bill WA 03/28; $27,263.35
+	Expenses:Supplies	$30.86	; resin printer FEP film and frames
+	Assets:Checking
+
+2025/03/28	ZORO TOOLS INC 855-2899676 IL 03/27; $27,235.83
+	Expenses:Supplies	$27.52	; wood glue
+	Assets:Checking
+
+2025/03/28	UBIQUITI INC. UI.COM NY 03/28; $27,225.84
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/03/31	STRIPE TRANSFER; $28,258.85
+	Revenue:MemberDues	-$1,033.01
+	Assets:Checking
