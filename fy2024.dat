@@ -622,3 +622,91 @@
 2025/03/31	STRIPE TRANSFER; $28,258.85
 	Revenue:MemberDues	-$1,033.01
 	Assets:Checking
+
+2025/04/01	eReplacementparts.com 866-3229842 FL 03/31; $28,193.50
+	Expenses:Supplies:Maintenance	$65.35	; planer belt
+	Assets:Checking
+
+2025/04/01	COSTCO WHSE #1153 NORTH RIVERS IL 267130 04/01; $28,187.38
+	Expenses:Supplies	$6.12
+	Assets:Checking
+
+2025/04/02	Zelle payment to BUBBLY DYNAMICS 23911258705; $26,721.38
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/04/07	STRIPE TRANSFER; $27,243.38
+	Revenue:MemberDues	-$522.00
+	Assets:Checking
+
+2025/04/07	Amazon.com*I10AS9RR3 Amzn.com/bill WA 04/06; $27,188.34
+	Expenses:Supplies	$55.04
+	Assets:Checking
+
+2025/04/09	PAYPAL TRANSFER; $27,222.15
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/04/09	Zelle payment to Kalina Jakymec JPM99b48t202; $26,692.67
+	Expenses:Programming:BirthdayParty	$529.48
+	Assets:Checking
+
+2025/04/09	Zelle payment to Kalina Jakymec JPM99b48t7cb; $26,470.16
+	Expenses:Purchases:YardSpigot	$222.51
+	Assets:Checking
+
+2025/04/09	Zelle payment to Kalina Jakymec JPM99b48taqt; $26,409.54
+	Expenses:BackYard	$60.62
+	Assets:Checking
+
+2025/04/11	Amazon.com*KX5S77DP3 Amzn.com/bill WA 04/11; $26,375.26
+	Expenses:Supplies	$34.28
+	Assets:Checking
+
+2025/04/14	STRIPE TRANSFER; $27,005.35
+	Revenue:MemberDues	-$630.09
+	Assets:Checking
+
+2025/04/14	PAYPAL TRANSFER; $27,014.66
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/04/15	PAYPAL TRANSFER; $27,023.97
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/04/17	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:250417 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000029655532 EED:250417 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 1079655532TC; $27,917.38
+	Revenue:Funds:NEBPCostReimbursment	-$893.41
+	Assets:Checking
+
+2025/04/17	Zelle payment to Adam Kadzban JPM99b55xlxz; $27,067.79
+	Revenue:Funds:NEBPCostReimbursment	$849.59
+	Assets:Checking
+
+2025/04/21	STRIPE TRANSFER; $27,967.88
+	Revenue:MemberDues	-$900.09
+	Assets:Checking
+
+2025/04/21	PAYPAL TRANSFER; $28,001.69
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/04/24	Zelle payment to William Cwik 24523412666; $27,935.61
+	Expenses:BackRoom	$66.08
+	Assets:Checking
+
+2025/04/25	GOOGLE *WEBPASS 800-932-7277 CA 04/24; $27,805.61
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/04/25	CHECK 138; $27,761.79
+	Revenue:Funds:NEBPCostReimbursment	$43.82
+	Assets:Checking
+
+2025/04/28	STRIPE TRANSFER; $28,576.14
+	Revenue:MemberDues	-$814.35
+	Assets:Checking
+
+2025/04/28	UBIQUITI INC. UI.COM NY 04/28; $28,566.15
+	Expenses:VOIP	$9.99
+	Assets:Checking
