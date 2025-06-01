@@ -710,3 +710,99 @@
 2025/04/28	UBIQUITI INC. UI.COM NY 04/28; $28,566.15
 	Expenses:VOIP	$9.99
 	Assets:Checking
+
+2025/05/01	Zelle payment to COYLE CONTRACTORS LLC 24608913398; $28,546.32
+	Expenses:Purchases:EmbroideryHoops	$19.83
+	Assets:Checking
+
+2025/05/02	Zelle payment to BUBBLY DYNAMICS 24267034751; $27,080.32
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/05/05	STRIPE TRANSFER; $28,085.80
+	Revenue:MemberDues	-$1,005.48
+	Assets:Checking
+
+2025/05/05	AMAZON MKTPL*N247Z3R Amzn.com/bill WA 05/02; $28,007.66
+	Expenses:Purchases:EmbroideryHoops	$78.14
+	Assets:Checking
+
+2025/05/05	CHECK 137; $27,896.60
+	Expenses:Purchases:SmallMetalsStartup	$111.06	; bronze ingot
+	Assets:Checking
+
+2025/05/06	Zelle payment to DMITRIY VYSOTSKIY 24670917394; $27,519.19
+	Expenses:Purchases:DesolderingTool	$377.41
+	Assets:Checking
+
+2025/05/06	Zelle payment to DMITRIY VYSOTSKIY 24670928131; $27,464.92
+	Expenses:Supplies:Maintenance	$54.27	; desoldering tool tip assembly
+	Assets:Checking
+
+2025/05/06	COSTCO WHSE #1153 NORTH RIVERS IL 772375 05/06; $27,430.84
+	Expenses:Supplies	$34.08	; trash bags
+	Assets:Checking
+
+2025/05/09	PAYPAL TRANSFER; $27,464.65
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/05/09	AMAZON MKTPL*NI0QU2F Amzn.com/bill WA 05/08; $27,451.43
+	Expenses:Supplies:Maintenance	$13.22	; air compressor whip lead-in hose
+	Assets:Checking
+
+2025/05/12	STRIPE TRANSFER; $27,990.49
+	Revenue:MemberDues	-$539.06
+	Assets:Checking
+
+2025/05/13	PAYPAL TRANSFER; $27,999.80
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/05/13	NAME-CHEAP.COM* YHPA WWW.NAMECHEAP AZ 05/13; $27,990.64
+	Expenses:Administrative:Domain	$9.16
+	Assets:Checking
+
+2025/05/15	PAYPAL TRANSFER; $27,999.95
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/05/19	STRIPE TRANSFER; $28,855.34
+	Revenue:MemberDues	-$855.39
+	Assets:Checking
+
+2025/05/19	Zelle payment to DMITRIY VYSOTSKIY 24809499242; $28,819.88
+	Expenses:Supplies	$35.46	; printer toner
+	Assets:Checking
+
+2025/05/21	PAYPAL TRANSFER; $28,853.69
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/05/27	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:250527 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000026067616 EED:250527 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 1476067616TC; $30,980.33
+	Revenue:Funds:NEBPCostReimbursment	-$2,126.64
+	Assets:Checking
+
+2025/05/27	STRIPE TRANSFER; $31,743.14
+	Revenue:MemberDues	-$762.81
+	Assets:Checking
+
+2025/05/27	GOOGLE *WEBPASS 800-932-7277 CA 05/24; $31,613.14
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/05/27	Zelle payment to Adam Kadzban JPM99b9nxbkj; $30,154.18
+	Revenue:Funds:NEBPCostReimbursment	$1,458.96
+	Assets:Checking
+
+2025/05/28	UBIQUITI INC. UI.COM NY 05/28; $30,144.19
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/05/28	CHECK 140; $29,476.51
+	Revenue:Funds:NEBPCostReimbursment	$667.68
+	Assets:Checking
+
+2025/05/30	ORIG CO NAME:eBay Com3F2C7HC8 ORIG ID:1618206000 DESC DATE:250530 CO ENTRY DESCR:PAYMENTS SEC:CCD TRACE#:021000028515396 EED:250530 IND ID:MB6NOXQQ8YYUG63 IND NAME:SOUTH SIDE HACKERSPACE NTE*ZZZ*P6900404355\ TRN: 1508515396TC; $29,497.66
+	Revenue:Sales:eBay	-$21.15
+	Assets:Checking
