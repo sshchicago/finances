@@ -806,3 +806,131 @@
 2025/05/30	ORIG CO NAME:eBay Com3F2C7HC8 ORIG ID:1618206000 DESC DATE:250530 CO ENTRY DESCR:PAYMENTS SEC:CCD TRACE#:021000028515396 EED:250530 IND ID:MB6NOXQQ8YYUG63 IND NAME:SOUTH SIDE HACKERSPACE NTE*ZZZ*P6900404355\ TRN: 1508515396TC; $29,497.66
 	Revenue:Sales:eBay	-$21.15
 	Assets:Checking
+
+2025/06/02	STRIPE TRANSFER; $30,428.61
+	Revenue:MemberDues	-$930.95
+	Assets:Checking
+
+2025/06/02	ZORO TOOLS INC 855-2899676 IL 05/31; $30,394.45
+	Expenses:Supplies	$34.16	; wood glue and part of following charge
+	Assets:Checking
+
+2025/06/02	Zelle payment to BUBBLY DYNAMICS 24616880314; $28,928.45
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/06/03	ZORO TOOLS INC 855-2899676 IL 06/02; $28,720.04
+	Expenses:Supplies	$208.41	; razors, sandpaper, polybags, files
+	Assets:Checking
+
+2025/06/03	ZORO TOOLS INC 855-2899676 IL 06/02; $28,711.54
+	Expenses:Supplies	$8.50	; part of previous charge
+	Assets:Checking
+
+2025/06/05	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:250605 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000025531761 EED:250605 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 1565531761TC; $29,996.94
+	Revenue:Funds:NEBPCostReimbursment	-$1,285.40
+	Assets:Checking
+
+2025/06/05	ORIG CO NAME:NATIONAL SPACE G ORIG ID:S941687665 DESC DATE:250605 CO ENTRY DESCR:VENDOR PMTSEC:PPD TRACE#:113000025531762 EED:250605 IND ID: IND NAME:SOUTH SIDE HACKE TRN: 1565531762TC; $31,280.49
+	Revenue:Funds:NEBPCostReimbursment	-$1,283.55
+	Assets:Checking
+
+2025/06/05	ZORO TOOLS INC 855-2899676 IL 06/04; $31,261.61
+	Expenses:Supplies	$18.88	; part of previous charge
+	Assets:Checking
+
+2025/06/05	Zelle payment to Adam Kadzban JPM99bb2t5uv; $29,221.90
+	Revenue:Funds:NEBPCostReimbursment	$2,039.71
+	Assets:Checking
+
+2025/06/09	STRIPE TRANSFER; $29,744.13
+	Revenue:MemberDues	-$522.23
+	Assets:Checking
+
+2025/06/09	PAYPAL TRANSFER; $29,777.94
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/06/09	Zelle payment to DMITRIY VYSOTSKIY 25059740949; $29,753.54
+	Expenses:Supplies	$24.40	; paper towels
+	Assets:Checking
+
+2025/06/09	Zelle payment to DMITRIY VYSOTSKIY 25059770321; $29,626.68
+	Expenses:Supplies	$126.86	; chop saw blade for aluminum
+	Assets:Checking
+
+2025/06/09	CHECK 141; $29,097.44
+	Revenue:Funds:NEBPCostReimbursment	$529.24
+	Assets:Checking
+
+2025/06/13	PAYPAL TRANSFER; $29,106.75
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/06/13	ZORO TOOLS INC 855-2899676 IL 06/11; $29,086.04
+	Expenses:Supplies	$20.71	; coin rolls
+	Assets:Checking
+
+2025/06/13	ZORO TOOLS INC 855-2899676 IL 06/12; $29,052.09
+	Expenses:Purchases:CompressorHourMeter	$33.95	; air compressor hour meter
+	Assets:Checking
+
+2025/06/16	STRIPE TRANSFER; $29,835.54
+	Revenue:MemberDues	-$783.45
+	Assets:Checking
+
+2025/06/16	PAYPAL TRANSFER; $29,844.85
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/06/16	CHECK 139; $29,834.85
+	Expenses:Administrative:Government	$10.00	; IL Secretary of State
+	Assets:Checking
+
+2025/06/18	ZORO TOOLS INC 855-2899676 IL 06/04; $29,666.53
+	Expenses:Supplies	$168.32	; latex gloves
+	Assets:Checking
+
+2025/06/23	STRIPE TRANSFER; $30,325.89
+	Revenue:MemberDues	-$659.36
+	Assets:Checking
+
+2025/06/23	PAYPAL TRANSFER; $30,359.70
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/06/25	REMOTE ONLINE DEPOSIT # 1; $30,404.70
+	Revenue:MemberDues	-$45.00
+	Assets:Checking
+
+2025/06/25	GOOGLE *WEBPASS 800-932-7277 CA 06/24; $30,274.70
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/06/30	STRIPE TRANSFER; $31,311.58
+	Revenue:MemberDues	-$1,036.88
+	Assets:Checking
+
+2025/06/30	UBIQUITI INC. UI.COM NY 06/28; $31,301.59
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/06/30	Zelle payment to Kalina Jakymec JPM99bdu6udn; $31,171.09
+	Expenses:Programming:July4Party	$130.50
+	Assets:Checking
+
+2025/06/30	Zelle payment to Erin Scanlon JPM99bdu6sar; $31,138.71
+	Expenses:Supplies	$32.38	; air compressor fittings
+	Assets:Checking
+
+2025/06/30	AMAZON MKTPL*N34SU6A Amzn.com/bill WA 06/29; $31,122.18
+	Expenses:Supplies	$16.53	; air compressor drain hose
+	Assets:Checking
+
+2025/06/30	Zelle payment to DMITRIY VYSOTSKIY 25296304291; $31,102.18
+	Expenses:Supplies	$20.00	; propane refill
+	Assets:Checking
+
+2025/06/30	1PASSWORD TORONTO ON 06/29; $30,995.89
+	Expenses:Administrative:PasswordManager	$106.29
+	Assets:Checking
