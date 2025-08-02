@@ -934,3 +934,146 @@
 2025/06/30	1PASSWORD TORONTO ON 06/29; $30,995.89
 	Expenses:Administrative:PasswordManager	$106.29
 	Assets:Checking
+
+2025/07/02	Zelle payment to BUBBLY DYNAMICS 24980666017; $29,529.89
+	Expenses:Rent	$1,466.00
+	Assets:Checking
+
+2025/07/03	Zelle payment to DMITRIY VYSOTSKIY 25353473584; $29,260.78
+	Expenses:Programming:4thofJuly	$269.11	; Costco food and supplies
+	Assets:Checking
+
+2025/07/03	EBAY COMMERCE INC. SAN JOSE CA 07/03; $29,211.22
+	Expenses:Purchases:SmallMetalsStartup	$49.56	; Aluminum ingots
+	Assets:Checking
+
+2025/07/07	STRIPE TRANSFER; $30,037.51
+	Revenue:MemberDues	-$826.29
+	Assets:Checking
+
+2025/07/07	AMAZON MKTPL*N357R75 Amzn.com/bill WA 07/04; $29,994.92
+	Expenses:Purchases:SmallMetalsStartup	$42.59	; Resin for casting
+	Assets:Checking
+
+2025/07/07	MARIANOS 3145 S ASHLA CHICAGO IL 07/04; $29,911.94
+	Expenses:Programming:4thofJuly	$82.98	; More food
+	Assets:Checking
+
+2025/07/09	PAYPAL TRANSFER; $29,945.75
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/07/10	ORIG CO NAME:eBay Com6KIO6NGL ORIG ID:1618206000 DESC DATE:250710 CO ENTRY DESCR:PAYMENTS SEC:CCD TRACE#:021000022812284 EED:250710 IND ID:KYZQ8JFQCYBYO61 IND NAME:SOUTH SIDE HACKERSPACE NTE*ZZZ*P6965813115\ TRN: 1912812284TC; $30,139.58
+	Revenue:Sales	-$193.83	; M1000e network cards
+	Assets:Checking
+
+2025/07/10	Zelle payment to DMITRIY VYSOTSKIY 25440563746; $29,503.12
+	Expenses:Purchases:BambuLabA13DPrinter	$636.46
+	Assets:Checking
+
+2025/07/14	STRIPE TRANSFER; $30,037.96
+	Revenue:MemberDues	-$534.84
+	Assets:Checking
+
+2025/07/14	PAYPAL TRANSFER; $30,047.27
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/07/14	LA GRANGE PK ACE HRD LA GRANGE PAR IL 07/12; $30,032.14
+	Expenses:Supplies	$9.89	; duct tape
+	Expenses:Purchases:BambuLabA13DPrinter	$5.24	; screws for AMS VESA mount
+	Assets:Checking
+
+2025/07/14	MNRD-HODGKINS 6100 EAS HODGKINS IL 203774 07/14; $30,024.47
+	Expenses:Purchases:BambuLabA13DPrinter	$7.67	; gasketed clear bin for filament
+	Assets:Checking
+
+2025/07/14	Zelle payment to William Cwik 25478859222; $29,912.57
+	Expenses:BackRoom	$65.00
+	Expenses:Supplies	$46.90	; sandblaster supplies
+	Assets:Checking
+
+2025/07/15	PAYPAL TRANSFER; $29,921.88
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/07/15	TECHSOUP 4156339300 CA 07/14; $29,826.88
+	Expenses:Administrative:AmazonWebServices	$95.00
+	Assets:Checking
+
+2025/07/15	Zelle payment to DMITRIY VYSOTSKIY 25494699409; $29,709.62
+	Expenses:RPA	$117.26	; wire shelving components
+	Assets:Checking
+
+2025/07/16	ORIG CO NAME:AMTRUST NA ORIG ID:9578755001 DESC DATE:JUL 15 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:021000025344132 EED:250716 IND ID:40566991 IND NAME:SOUTH SIDE HACKERSPACE TRN: 1975344132TC; $28,434.62
+	Expenses:Insurance	$1,275.00
+	Assets:Checking
+
+2025/07/16	ORIG CO NAME:AMTRUST NA ORIG ID:9578755001 DESC DATE:JUL 15 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:021000025344131 EED:250716 IND ID:40566990 IND NAME:SOUTH SIDE HACKERSPACE TRN: 1975344131TC; $27,332.62
+	Expenses:Insurance	$1,102.00
+	Assets:Checking
+
+2025/07/21	STRIPE TRANSFER; $28,231.17
+	Revenue:MemberDues	-$898.55
+	Assets:Checking
+
+2025/07/21	PAYPAL TRANSFER; $28,264.98
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/07/25	GOOGLE *WEBPASS 800-932-7277 CA 07/24; $28,134.98
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/07/28	STRIPE TRANSFER; $29,034.23
+	Revenue:MemberDues	-$899.25
+	Assets:Checking
+
+2025/07/28	SP ADVMACHINERY.COM ADVMACHINERY. DE 07/25; $28,750.18
+	Expenses:Purchases:TormekSharpenerExtendedSupport	$284.05
+	Assets:Checking
+
+2025/07/28	Zelle payment to William Cwik 25629384808; $28,664.96
+	Expenses:Supplies	$34.92	; sandblaster supplies
+	Expenses:BackRoom	$50.30
+	Assets:Checking
+
+2025/07/28	UBIQUITI INC. UI.COM NY 07/28; $28,654.97
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/07/28	Zelle payment to Kalina Jakymec JPM99bh9yuki; $28,372.54
+	Expenses:Programming:4thofJuly	$98.04	; Marianos
+	Expenses:BackYard	$173.11
+	Expenses:Purchases:YardSpigot	$11.28
+	Assets:Checking
+
+2025/07/29	AMAZON MKTPL*DF83Y32 Amzn.com/bill WA 07/29; $28,277.74
+	Expenses:Supplies:Maintenance	$94.80	; Magnetic starter for air compressor
+	Assets:Checking
+
+2025/07/30	ZORO TOOLS INC 855-2899676 IL 07/29; $28,163.80
+	Expenses:Supplies:Maintenance	$113.94	; Replacement pressure switch for air compressor
+	Assets:Checking
+
+2025/07/31	POS DEBIT ZORO TOOLS INC 8552899676 IL; $27,912.93
+	Expenses:Supplies	$162.49	; first aid refill, drill bits, sand blaster nozzles
+	Expenses:FrontRoom	$59.17	; banker boxes
+	Expenses:BackRoom	$29.21	; 3 cheap tape measures
+	Assets:Checking
+
+2025/07/31	POS DEBIT THE HOME DEPOT #1901 BROADVIEW IL; $27,902.48
+	Expenses:Supplies:Maintenance	$10.45	; sjoow cord for air compressor
+	Assets:Checking
+
+2025/07/31	POS DEBIT THE HOME DEPOT #1901 BROADVIEW IL; $27,873.05
+	Expenses:Supplies	$29.43	; HVAC foam cleaner in bulk
+	Assets:Checking
+
+2025/07/31	POS DEBIT THE HOME DEPOT #1901 BROADVIEW IL; $27,822.94
+	Expenses:FrontRoom	$50.11	; plywood for locker shelving
+	Assets:Checking
+
+2025/07/31	POS DEBIT THE HOME DEPOT #1901 BROADVIEW IL; $27,691.09
+	Expenses:RPA	$131.85	; wire shelving components
+	Assets:Checking
