@@ -51,7 +51,7 @@
 	Assets:Checking
 
 2025/08/19	AMAZON MKTPLACE PMTS Amzn.com/bill WA 08/18; $28,214.78
-	Revenue:Purchases:HotWireCutter	-$128.86	; return of accidental purchase
+	Expenses:Purchases:HotWireCutter	-$128.86	; return of accidental purchase
 	Assets:Checking
 
 2025/08/21	PAYPAL TRANSFER; $28,248.59
@@ -67,7 +67,7 @@
 	Assets:Checking
 
 2025/08/27	CASWELL INC 315-9461213 NY 08/26; $28,516.50
-	Expenses:Purchases:HotWireCutter	$502.95
+	Expenses:Purchases:ElectroplatingKit	$502.95
 	Assets:Checking
 
 2025/08/28	UBIQUITI INC. UI.COM NY 08/28; $28,506.51
