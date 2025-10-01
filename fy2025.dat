@@ -89,3 +89,83 @@
 2025/08/30	POS DEBIT ZORO TOOLS INC 8552899676 IL; $28,197.81
 	Expenses:Purchases:CrimpingTool	$203.34
 	Assets:Checking
+
+2025/09/02	STRIPE TRANSFER; $28,994.79
+	Revenue:MemberDues	-$796.98
+	Assets:Checking
+
+2025/09/02	Zelle payment to BUBBLY DYNAMICS 25705071587; $27,500.79
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2025/09/08	STRIPE TRANSFER; $28,200.73
+	Revenue:MemberDues	-$699.94
+	Assets:Checking
+
+2025/09/08	Zelle payment to COYLE CONTRACTORS LLC 26142111727; $28,152.77
+	Expenses:Supplies	$47.96
+	Assets:Checking
+
+2025/09/09	PAYPAL TRANSFER; $28,186.58
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/09/15	STRIPE TRANSFER; $28,824.53
+	Revenue:MemberDues	-$637.95
+	Assets:Checking
+
+2025/09/15	PAYPAL TRANSFER; $28,833.84
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/09/15	PAYPAL TRANSFER; $28,843.15
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/09/15	COSTCO WHSE #1153 NORTH RIVERSI IL 724274 09/14; $28,780.47
+	Expenses:Supplies	$62.68
+	Assets:Checking
+
+2025/09/16	CHECK 142; $28,765.47
+	Expenses:Administrative	$15.00
+	Assets:Checking
+
+2025/09/22	STRIPE TRANSFER; $29,510.38
+	Revenue:MemberDues	-$744.91
+	Assets:Checking
+
+2025/09/22	PAYPAL TRANSFER; $29,544.19
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/09/22	PAYPAL PK66 18026947861 09/18; $29,415.19
+	Expenses:Purchases:MeshtasticNode	$129.00
+	Assets:Checking
+
+2025/09/23	AMAZON MKTPL*8K1NT2O Amzn.com/bill WA 09/22; $29,211.90
+	Expenses:Purchases:MeshtasticNode	$203.29
+	Assets:Checking
+
+2025/09/23	AMAZON MKTPL*N052U0P Amzn.com/bill WA 09/22; $29,175.33
+	Expenses:Purchases:MeshtasticNode	$36.57
+	Assets:Checking
+
+2025/09/25	GOOGLE *WEBPASS 800-932-7277 CA 09/24; $29,045.33
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/09/25	AMAZON MKTPL*NJ0VN70 Amzn.com/bill WA 09/24; $28,328.76
+	Expenses:Purchases:SmallMetalsExpansion	$716.57
+	Assets:Checking
+
+2025/09/29	STRIPE TRANSFER; $29,233.25
+	Revenue:MemberDues	-$904.49
+	Assets:Checking
+
+2025/09/29	AMAZON MKTPL*WR8QJ2E Amzn.com/bill WA 09/27; $29,096.21
+	Expenses:Purchases:SmallMetalsExpansion	$137.04
+	Assets:Checking
+
+2025/09/29	UBIQUITI INC. UI.COM NY 09/28; $29,086.22
+	Expenses:VOIP	$9.99
+	Assets:Checking
