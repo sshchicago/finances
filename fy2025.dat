@@ -169,3 +169,87 @@
 2025/09/29	UBIQUITI INC. UI.COM NY 09/28; $29,086.22
 	Expenses:VOIP	$9.99
 	Assets:Checking
+
+2025/10/01	AMAZON MKTPL*NV78221 Amzn.com/bill WA 10/01; $28,230.03
+	Expenses:Purchases:SmallMetalsExpansion	$856.19
+	Assets:Checking
+
+2025/10/01	AMAZON MKTPL*NJ7UH9G Amzn.com/bill WA 10/01; $28,197.07
+	Expenses:Purchases:SmallMetalsExpansion	$32.96
+	Assets:Checking
+
+2025/10/02	AMAZON MKTPL*NV6VG4V Amzn.com/bill WA 10/01; $28,185.43
+	Expenses:Purchases:SmallMetalsExpansion	$11.64
+	Assets:Checking
+
+2025/10/02	Zelle payment to BUBBLY DYNAMICS 26069876255; $26,691.43
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2025/10/06	STRIPE TRANSFER; $27,429.71
+	Revenue:MemberDues	-$738.28
+	Assets:Checking
+
+2025/10/09	PAYPAL TRANSFER; $27,463.52
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/10/09	eBay O*11-13677-23005 800-4563229 CA 10/09; $27,436.56
+	Expenses:Supplies:Maintenance	$26.96	; Collet for Ryobi router
+	Assets:Checking
+
+2025/10/14	STRIPE TRANSFER; $28,187.46
+	Revenue:MemberDues	-$750.90
+	Assets:Checking
+
+2025/10/14	PAYPAL TRANSFER; $28,196.77
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/10/15	PAYPAL TRANSFER; $28,206.08
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/10/16	HARBOR FREIGHT TOOLS U BROADVIEW IL 10/16; $28,129.09
+	Expenses:Supplies	$76.99	; Sandblaster grit
+	Assets:Checking
+
+2025/10/20	STRIPE TRANSFER; $29,029.15
+	Revenue:MemberDues	-$900.06
+	Assets:Checking
+
+2025/10/20	SP VENDING WORKS VENDINGWORKS. CA 10/17; $28,459.64
+	Expenses:Supplies:Maintenance	$569.51	; Cooling deck for vending machine
+	Assets:Checking
+
+2025/10/21	PAYPAL TRANSFER; $28,493.45
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/10/27	STRIPE TRANSFER; $29,256.43
+	Revenue:MemberDues	-$762.98
+	Assets:Checking
+
+2025/10/27	GOOGLE *WEBPASS 800-932-7277 CA 10/24; $29,126.43
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/10/27	THE HOME DEPOT #1901 BROADVIEW IL 022090 10/27; $29,071.63
+	Expenses:Supplies	$54.80	; acetone, brushes, double sided tape
+	Assets:Checking
+
+2025/10/27	Zelle payment to Kalina Jakymec JPM99bsftxj9; $28,966.19
+	Expenses:Programming:GhostsInTheGarden	$105.44
+	Assets:Checking
+
+2025/10/28	UBIQUITI INC. UI.COM NY 10/28; $28,956.20
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/10/29	Rockler Woodworking and Medina MN 10/29; $28,789.76
+	Expenses:Purchases:SmallMetalsExpansion	$166.44
+	Assets:Checking
+
+2025/10/29	Zelle payment to Kwame Shorter 26757390057; $28,723.71
+	Expenses:Programming:GhostsInTheGarden	$66.05
+	Assets:Checking
