@@ -15,7 +15,7 @@
 	Assets:Checking
 
 2025/08/04	Zelle payment to Erin Scanlon JPM99bi8l2st; $27,110.75
-	Expenses:Supplies	$5.07	; Air compressor repair parts
+	Expenses:Supplies:Maintenance	$5.07	; Air compressor repair parts
 	Assets:Checking
 
 2025/08/11	STRIPE TRANSFER; $27,678.89
@@ -252,4 +252,152 @@
 
 2025/10/29	Zelle payment to Kwame Shorter 26757390057; $28,723.71
 	Expenses:Programming:GhostsInTheGarden	$66.05
+	Assets:Checking
+
+2025/11/03	STRIPE TRANSFER; $29,566.05
+	Revenue:MemberDues	-$842.34
+	Assets:Checking
+
+2025/11/03	Zelle payment to BUBBLY DYNAMICS 26433783420; $28,072.05
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2025/11/03	THE HOME DEPOT #1986 CHICAGO IL 615080 11/02; $28,044.58
+	Expenses:Purchases:SmallMetalsExpansion	$27.47
+	Assets:Checking
+
+2025/11/04	THE HOME DEPOT #1901 BROADVIEW IL 416998 11/04; $28,038.11
+	Expenses:Purchases:SmallMetalsExpansion	$6.47
+	Assets:Checking
+
+2025/11/05	Amazon.com*BT8PM6FN0 Amzn.com/bill WA 11/05; $28,006.72
+	Expenses:Supplies	$31.39	; track saw blades, small gluesticks
+	Assets:Checking
+
+2025/11/07	SP VENDING WORKS PHELAN CA 11/05; $28,106.72
+	Expenses:Supplies	-$100.00	; credit for vending machine cooling deck core
+	Assets:Checking
+
+2025/11/07	TOOLSTODAY.COM LLC 718-554-7007 NY 11/06; $27,998.67
+	Expenses:Purchases:Pushblocks	$108.05
+	Assets:Checking
+
+2025/11/07	Zelle payment to DMITRIY VYSOTSKIY 26878522414; $21,284.42
+	Expenses:Purchases:SCMBandsaw	$6,714.25
+	Assets:Checking
+
+2025/11/10	STRIPE TRANSFER; $21,891.55
+	Revenue:MemberDues	-$607.13
+	Assets:Checking
+
+2025/11/10	PAYPAL TRANSFER; $21,925.36
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/11/12	THE HOME DEPOT #1901 BROADVIEW IL 190562 11/11; $21,900.19
+	Expenses:Supplies	$25.17	; double sided outdoor tape
+	Assets:Checking
+
+2025/11/13	PAYPAL TRANSFER; $21,909.50
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/11/17	STRIPE TRANSFER; $22,864.69
+	Revenue:MemberDues	-$955.19
+	Assets:Checking
+
+2025/11/17	PAYPAL TRANSFER; $22,874.00
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/11/20	Zelle payment to MARTIN HAMMETT JPM99bvbesh3; $22,820.25
+	Expenses:Programming:BoardGames	$53.75	; snacks
+	Assets:Checking
+
+2025/11/20	PAYPAL *E FIREX 402-935-7733 CA 11/20; $22,674.23
+	Expenses:Purchases:LithiumFireExtinguisher	$146.02
+	Assets:Checking
+
+2025/11/21	PAYPAL TRANSFER; $22,708.04
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/11/21	Zelle payment to MARTIN HAMMETT JPM99bvfp49a; $22,678.04
+	Expenses:FrontRoom	$30.00	; can recycling bin
+	Assets:Checking
+
+2025/11/21	WALGREENS STORE 1931 W CHICAGO IL 484060 11/21; $22,668.86
+	Expenses:Supplies	$9.18	; 91% isopropyl alcohol
+	Assets:Checking
+
+2025/11/24	STRIPE TRANSFER; $23,368.32
+	Revenue:MemberDues	-$699.46
+	Assets:Checking
+
+2025/11/24	MMTOOLPARTS 866-485-8200 UT 11/22; $23,336.45
+	Expenses:Supplies:Maintenance	$31.87	; cancelled parts order
+	Assets:Checking
+
+2025/11/25	MMTOOLPARTS 8664858200 UT 11/24; $23,368.32
+	Expenses:Supplies:Maintenance	-$31.87	; refunded parts order
+	Assets:Checking
+
+2025/11/25	GOOGLE *WEBPASS 800-932-7277 CA 11/24; $23,238.32
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/11/26	MMTOOLPARTS 866-485-8200 UT 11/25; $23,194.60
+	Expenses:Supplies:Maintenance	$43.72	; dewalt sander and saw horse parts
+	Assets:Checking
+
+2025/11/26	AMAZON MKTPL*B28QU06 Amzn.com/bill WA 11/26; $23,184.80
+	Expenses:Supplies:Maintenance	$9.80	; dewalt sander part
+	Assets:Checking
+
+2025/11/28	U.S. SAFETY & SUPPLY 162-633-6298 CA 11/27; $22,842.96
+	Expenses:Purchases:SmallMetalsExpansion2	$341.84
+	Assets:Checking
+
+2025/11/28	UBIQUITI INC. UI.COM NY 11/28; $22,832.97
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2025/11/29	POS DEBIT HOMEDEPOT.COM 800-430-3376 GA; $22,782.30
+	Expenses:Purchases:SmallMetalsExpansion2	$50.67
+	Assets:Checking
+
+2025/11/29	POS DEBIT BLT*KC Tool 913-4409766 KS; $22,681.08
+	Expenses:Supplies:Maintenance	$101.22	; replacement wera precision screwdrivers
+	Assets:Checking
+
+2025/11/29	POS DEBIT RIO GRANDE INC 800-545-6566 NM; $22,519.40
+	Expenses:Purchases:SmallMetalsExpansion2	$161.68
+	Assets:Checking
+
+2025/11/29	POS DEBIT HOMEDEPOT.COM 800-430-3376 GA; $22,025.50
+	Expenses:Purchases:DewaltBlackFridayTools	$493.90
+	Assets:Checking
+
+2025/11/30	POS DEBIT COSTCO WHSE #1153 NORTH RIVERS IL; $21,983.94
+	Expenses:Supplies	$41.56	; shop towels and trash bags
+	Assets:Checking
+
+2025/11/30	ZELLE PAYMENT TO MARTIN HAMMETT JPM99BWHDAK6; $21,970.74
+	Expenses:FrontRoom	$13.20	; scrubbing brush drill attachment
+	Assets:Checking
+
+2025/11/30	ZELLE PAYMENT TO ERIN SCANLON JPM99BWHDHH5; $21,964.15
+	Expenses:Supplies	$6.59	; zep bottle
+	Assets:Checking
+
+2025/11/30	ZELLE PAYMENT TO ERIN SCANLON JPM99BWHDX2S; $21,728.86
+	Expenses:Purchases:SCMBandsaw	$235.29
+	Assets:Checking
+
+2025/11/30	POS DEBIT ZORO TOOLS INC 8552899676 IL; $21,678.32
+	Expenses:Supplies	$50.54	; Tylenol, pilot bits, respirators
+	Assets:Checking
+
+2025/11/30	POS DEBIT AMAZON MKTPLACE PMTS AMZN.COM/BIL WA 7235; $21,658.21
+	Expenses:Supplies	$20.11	; wera screwdriver pouch
 	Assets:Checking
