@@ -401,3 +401,87 @@
 2025/11/30	POS DEBIT AMAZON MKTPLACE PMTS AMZN.COM/BIL WA 7235; $21,658.21
 	Expenses:Supplies	$20.11	; wera screwdriver pouch
 	Assets:Checking
+
+2025/12/01	STRIPE TRANSFER; $22,468.83
+	Revenue:MemberDues	-$810.62
+	Assets:Checking
+
+2025/12/02	Zelle payment to BUBBLY DYNAMICS 26812187224; $20,974.83
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2025/12/04	Amazon.com*BI25P4FJ1 Amzn.com/bill WA 12/03; $20,934.26
+	Expenses:Supplies	$40.57	; lens cleaning wipes
+	Assets:Checking
+
+2025/12/08	STRIPE TRANSFER; $21,764.34
+	Revenue:MemberDues	-$830.08
+	Assets:Checking
+
+2025/12/09	PAYPAL TRANSFER; $21,798.15
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/12/10	AMAZON MKTPL*9C5AU2D Amzn.com/bill WA 12/10; $21,761.22
+	Expenses:Supplies	$36.93	; drill bit and pica markers
+	Assets:Checking
+
+2025/12/10	AMAZON MKTPL*T58P17P Amzn.com/bill WA 12/10; $21,729.45
+	Expenses:Supplies:Maintenance	$31.77	; FEP film for resin printer
+	Assets:Checking
+
+2025/12/10	Zelle payment to Kwame Shorter 27282115497; $21,612.94
+	Expenses:Programming	$116.51	; board game day snacks
+	Assets:Checking
+
+2025/12/15	STRIPE TRANSFER; $22,424.58
+	Revenue:MemberDues	-$811.64
+	Assets:Checking
+
+2025/12/15	PAYPAL TRANSFER; $22,433.89
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/12/15	PAYPAL TRANSFER; $22,443.20
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2025/12/18	Zelle payment to Erin Scanlon JPM99bywfh50; $22,355.33
+	Expenses:Purchases:SCMBandsaw	$87.87	; bandsaw blades
+	Assets:Checking
+
+2025/12/19	AMAZON MKTPL*SE2L19A Amzn.com/bill WA 12/19; $22,305.44
+	Expenses:Supplies	$49.89	; camphor and unistrut nuts
+	Assets:Checking
+
+2025/12/19	MNRD-HODGKINS 6100 EAS HODGKINS IL 750412 12/19; $22,297.75
+	Expenses:Supplies	$7.69	; broomhandle
+	Assets:Checking
+
+2025/12/22	STRIPE TRANSFER; $22,941.87
+	Revenue:MemberDues	-$644.12
+	Assets:Checking
+
+2025/12/22	Zelle payment from DMITRIY VYSOTSKIY 27411946168; $23,436.86
+	Revenue:Supplies	-$494.99	; refund for router spindle
+	Assets:Checking
+
+2025/12/22	PAYPAL TRANSFER; $23,470.67
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2025/12/26	GOOGLE *WEBPASS 800-932-7277 CA 12/24; $23,340.67
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2025/12/26	Zelle payment to Benjamin Moroney JPM99bzum4oc; $23,291.03
+	Expenses:Programming	$49.64	; movie night snacks
+	Assets:Checking
+
+2025/12/29	STRIPE TRANSFER; $24,093.13
+	Revenue:MemberDues	-$802.10
+	Assets:Checking
+
+2025/12/29	UBIQUITI INC. UI.COM NY 12/28; $24,083.14
+	Expenses:VOIP	$9.99
+	Assets:Checking
