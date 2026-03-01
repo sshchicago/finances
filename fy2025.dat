@@ -605,3 +605,88 @@
 2026/01/29	Zelle payment to Karl Bitikofer JPM99c3nbm0m; $23,633.79
 	Expenses:Programming:ColdParty	$71.82
 	Assets:Checking
+
+2026/02/02	STRIPE TRANSFER; $24,567.11
+	Revenue:MemberDues	-$933.32
+	Assets:Checking
+
+2026/02/02	MNRD-HODGKINS 6100 EAS HODGKINS IL 394463 02/01; $24,520.04
+	Expenses:Purchases:CordReel2	$47.07	; reel hanging hardware
+	Assets:Checking
+
+2026/02/02	Zelle payment to BUBBLY DYNAMICS 27551086706; $23,026.04
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2026/02/05	Zelle payment to Benjamin Moroney JPM99c4jzsy3; $22,955.96
+	Expenses:Programming	$70.08	; movie night pizza
+	Assets:Checking
+
+2026/02/09	STRIPE TRANSFER; $23,562.88
+	Revenue:MemberDues	-$606.92
+	Assets:Checking
+
+2026/02/09	PAYPAL TRANSFER; $23,596.69
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/02/09	COSTCO WHSE #1153 NORTH RIVERSI IL 045499 02/08; $23,533.13
+	Expenses:Supplies	$63.56	; clorox wipes and printer paper
+	Assets:Checking
+
+2026/02/10	Amazon.com*T33Y298S3 Amzn.com/bill WA 02/10; $23,519.90
+	Expenses:Supplies	$13.23	; dry erase markers
+	Assets:Checking
+
+2026/02/11	Amazon.com*7X02V4PK3 Amzn.com/bill WA 02/11; $23,492.74
+	Expenses:Supplies	$27.16	; gear floss for 3d printer
+	Assets:Checking
+
+2026/02/11	Zelle payment to MARTIN HAMMETT JPM99c58uxwi; $23,472.74
+	Expenses:FrontRoom	$20.00	; monitor arm
+	Assets:Checking
+
+2026/02/13	PAYPAL TRANSFER; $23,482.05
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/02/17	STRIPE TRANSFER; $24,350.04
+	Revenue:MemberDues	-$867.99
+	Assets:Checking
+
+2026/02/17	PAYPAL TRANSFER; $24,359.35
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/02/23	STRIPE TRANSFER; $24,940.96
+	Revenue:MemberDues	-$581.61
+	Assets:Checking
+
+2026/02/23	PAYPAL TRANSFER; $24,974.77
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/02/23	Rockler Woodworking and Medina MN 02/20; $24,962.68
+	Expenses:Purchases:SCMBandsaw	$12.09	; dust adapter
+	Assets:Checking
+
+2026/02/23	RIO GRANDE INC 800-545-6566 NM 02/21; $24,254.12
+	Expenses:Purchases:SmallMetalsExpansion3	$708.56
+	Assets:Checking
+
+2026/02/25	GOOGLE *WEBPASS 800-932-7277 CA 02/24; $24,124.12
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/02/26	COSTCO WHSE #1153 NORTH RIVERSI IL 285733 02/26; $24,086.74
+	Expenses:Supplies	$37.38	; AA and AAA batteries
+	Assets:Checking
+
+2026/02/27	ZORO TOOLS INC 855-2899676 IL 02/25; $23,982.40
+	Expenses:Purchases:SmallMetalsExpansion3	$55.59
+	Expenses:Supplies	$48.75	; burn gel, hole saw replacement, n95 masks
+	Assets:Checking
+
+2026/02/28	POS DEBIT UBIQUITI INC. +16467807958 NY 0691; $23,972.41
+	Expenses:VOIP	$9.99
+	Assets:Checking
