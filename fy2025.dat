@@ -870,3 +870,76 @@
 2026/04/30	US.STORE.BAMBULAB.CO US.STORE.BAMB TX 04/30; $31,185.72
 	Expenses:DewaltHandVacuum	$36.36	; filament for vacuum stand
 	Assets:Checking
+
+2026/05/01	THE HOME DEPOT #1986 CHICAGO IL 04/29; $31,065.55
+	Expenses:Purchases:DewaltHandVacuum	$120.17
+	Assets:Checking
+
+2026/05/04	THE HOME DEPOT #1986 CHICAGO IL 05/01; $31,076.57
+	Expenses:Purchases:DewaltHandVacuum	-$11.02	; price adjustment
+	Assets:Checking
+
+2026/05/04	STRIPE TRANSFER; $31,921.44
+	Revenue:MemberDues	-$844.87
+	Assets:Checking
+
+2026/05/04	Zelle payment to BUBBLY DYNAMICS 28666430635; $30,427.44
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2026/05/11	STRIPE TRANSFER; $31,126.35
+	Revenue:MemberDues	-$698.91
+	Assets:Checking
+
+2026/05/11	PAYPAL TRANSFER; $31,160.16
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/05/13	PAYPAL TRANSFER; $31,169.47
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/05/13	NAME-CHEAP.COM* 9CU6 WWW.NAMECHEAP AZ 05/13; $31,159.59
+	Expenses:Administrative:Domain	$9.88	; sshc.fyi domain
+	Assets:Checking
+
+2026/05/15	PAYPAL TRANSFER; $31,168.90
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/05/18	STRIPE TRANSFER; $31,859.69
+	Revenue:MemberDues	-$690.79
+	Assets:Checking
+
+2026/05/18	Zelle payment from VICTOR EDWARDS PNCAA0aJq67X; $31,994.74
+	Revenue:Miscellaneous	-$135.05	; bronze metal reimbursement
+	Assets:Checking
+
+2026/05/21	PAYPAL TRANSFER; $32,028.55
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/05/22	aliexpress 408-7855580 CA 05/21; $32,011.94
+	Expenses:Purchases:DewaltHandVacuum	$16.61
+	Assets:Checking
+
+2026/05/26	STRIPE TRANSFER; $32,718.94
+	Revenue:MemberDues	-$707.00
+	Assets:Checking
+
+2026/05/26	GOOGLE *WEBPASS 800-932-7277 CA 05/24; $32,588.94
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/05/28	UBIQUITI INC. UI.COM NY 05/28; $32,578.95
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2026/05/29	AMAZON MKTPL*8B6OY09 Amzn.com/bill WA 05/29; $32,554.43
+	Expenses:Supplies:Maintenance	$9.76	; deep 10mm dewalt socket for socket set
+	Expenses:Supplies	$14.76
+	Assets:Checking
+
+2026/05/30	POS DEBIT ONEIDA AIR SYSTEMS SYRACUSE NY; $32,434.95
+	Expenses:BackRoom	$119.48
+	Assets:Checking
