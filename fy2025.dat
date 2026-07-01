@@ -943,3 +943,87 @@
 2026/05/30	POS DEBIT ONEIDA AIR SYSTEMS SYRACUSE NY; $32,434.95
 	Expenses:BackRoom	$119.48
 	Assets:Checking
+
+2026/06/01	STRIPE TRANSFER; $33,452.51
+	Revenue:MemberDues	-$898.08
+	Assets:Checking
+
+2026/06/02	Zelle payment to BUBBLY DYNAMICS 29057864672; $31,839.03
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2026/06/03	Zelle payment to Kalina Jakymec JPM99cjhj7b9; $31,628.69
+	Expenses:BackYard	$210.34
+	Assets:Checking
+
+2026/06/08	STRIPE TRANSFER; $32,458.13
+	Revenue:MemberDues	-$829.44
+	Assets:Checking
+
+2026/06/09	PAYPAL TRANSFER; $32,491.94
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/06/15	STRIPE TRANSFER; $33,087.88
+	Revenue:MemberDues	-$595.94
+	Assets:Checking
+
+2026/06/15	PAYPAL TRANSFER; $33,097.19
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/06/15	PAYPAL TRANSFER; $33,106.50
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/06/15	1PASSWORD TORONTO ON 06/15; $33,105.30
+	Expenses:Administrative	$1.20
+	Assets:Checking
+
+2026/06/17	CHECK 143; $33,095.30
+	Expenses:Administrative	$10.00	; SoS annual filing fee
+	Assets:Checking
+
+2026/06/18	AMAZON MKTPL*1Q70Y0O Amzn.com/bill WA 06/18; $33,039.69
+	Expenses:Purchases:ColorPhotoDevEquip	$55.61
+	Assets:Checking
+
+2026/06/22	STRIPE TRANSFER; $33,658.45
+	Revenue:MemberDues	-$618.76
+	Assets:Checking
+
+2026/06/22	PAYPAL TRANSFER; $33,692.26
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/06/23	Zelle payment to William Cwik 29733212938; $33,657.00
+	Expenses:BackRoom	$35.26
+	Assets:Checking
+
+2026/06/25	GOOGLE *WEBPASS 800-932-7277 CA 06/24; $33,527.00
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/06/29	STRIPE TRANSFER; $34,515.83
+	Revenue:MemberDues	-$988.83
+	Assets:Checking
+
+2026/06/29	Zelle payment to Kwame Shorter 29785489749; $34,353.83
+	Expenses:Programming	$162.00
+	Assets:Checking
+
+2026/06/29	Zelle payment to Kwame Shorter 29785508166; $34,184.44
+	Expenses:Administrative	$169.39	; door cloer
+	Assets:Checking
+
+2026/06/29	UBIQUITI INC. UI.COM NY 06/28; $34,174.45
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2026/06/29	Zelle payment to Kalina Jakymec JPM99cneqb8s; $34,141.39
+	Expenses:BackYard	$33.06
+	Assets:Checking
+
+2026/06/30	1PASSWORD TORONTO ON 06/29; $34,003.73
+	Expenses:Administrative	$137.66
+	Assets:Checking
