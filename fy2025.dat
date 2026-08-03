@@ -1027,3 +1027,145 @@
 2026/06/30	1PASSWORD TORONTO ON 06/29; $34,003.73
 	Expenses:Administrative	$137.66
 	Assets:Checking
+
+2026/07/01	HARBOR FREIGHT TOOLS U BROADVIEW IL 07/01; $33,695.75
+	Expenses:Purchases:TorqueWrenches	$307.98
+	Assets:Checking
+
+2026/07/02	AMAZON MKTPL*RQ5CB4R Amzn.com/bill WA 07/02; $33,599.92
+	Expenses:Supplies:Maintenance	$95.83	; sander pads and 7.2v batteries
+	Assets:Checking
+
+2026/07/02	Amazon web services aws.amazon.co WA 07/02; $33,528.10
+	Expenses:Administrative:AWS	$71.82
+	Assets:Checking
+
+2026/07/02	Zelle payment to BUBBLY DYNAMICS 29455812711; $32,034.10
+	Expenses:Rent	$1,494.00
+	Assets:Checking
+
+2026/07/06	STRIPE TRANSFER; $32,686.30
+	Revenue:MemberDues	-$652.20
+	Assets:Checking
+
+2026/07/06	PAYPAL *TEQUIPMENT 732-728-2590 NJ 07/04; $32,180.25
+	Expenses:Purchases:BenchPowerSupply	$506.05
+	Assets:Checking
+
+2026/07/06	ORIG CO NAME:AMTRUST NA ORIG ID:9578755001 DESC DATE:JUL 02 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:021000021403094 EED:260706 IND ID:42866781 IND NAME:SOUTH SIDE HACKERSPACE TRN: 1871403094TC; $30,743.25
+	Expenses:Insurance	$1,437.00
+	Assets:Checking
+
+2026/07/06	ORIG CO NAME:AMTRUST NA ORIG ID:9578755001 DESC DATE:JUL 02 CO ENTRY DESCR:PAYMENT SEC:CCD TRACE#:021000021403093 EED:260706 IND ID:42866780 IND NAME:SOUTH SIDE HACKERSPACE TRN: 1871403093TC; $29,583.25
+	Expenses:Insurance	$1,160.00
+	Assets:Checking
+
+2026/07/07	AMAZON MKTPL*2J2YT9P Amzn.com/bill WA 07/07; $29,573.34
+	Expenses:Supplies	$9.91	; graphite lubricant
+	Assets:Checking
+
+2026/07/09	PAYPAL TRANSFER; $29,607.15
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/07/09	AMAZON MKTPL*EK0N54A Amzn.com/bill WA 07/09; $29,562.36
+	Expenses:Supplies	$44.79	; c41 chemicals
+	Assets:Checking
+
+2026/07/09	Zelle payment to DMITRIY VYSOTSKIY 29944046501; $27,264.85
+	Expenses:Purchases:BambuLabH2D3DPrinter	$2,297.51
+	Assets:Checking
+
+2026/07/13	STRIPE TRANSFER; $28,155.96
+	Revenue:MemberDues	-$891.11
+	Assets:Checking
+
+2026/07/13	PAYPAL TRANSFER; $28,165.27
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/07/15	PAYPAL TRANSFER; $28,174.58
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/07/15	TECHSOUP 4156339300 CA 07/14; $28,079.58
+	Expenses:Administrative:AWS	$95.00
+	Assets:Checking
+
+2026/07/17	COSTCO WHSE #1153 NORTH RIVERSI IL 049653 07/17; $28,032.96
+	Expenses:Supplies	$46.62	; towels and trash bags
+	Assets:Checking
+
+2026/07/20	STRIPE TRANSFER; $28,843.73
+	Revenue:MemberDues	-$810.77
+	Assets:Checking
+
+2026/07/20	Zelle payment to Kwame Shorter 30066431581; $28,657.52
+	Expenses:Programming:BoardGames	$186.21
+	Assets:Checking
+
+2026/07/20	AMAZON MKTPL*6X50Q2B Amzn.com/bill WA 07/19; $28,612.01
+	Expenses:Purchases:BambuLabH2D3DPrinter	$45.51	; desiccant and nozzle wipers
+	Assets:Checking
+
+2026/07/21	PAYPAL TRANSFER; $28,645.82
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/07/21	ZORO TOOLS INC 855-2899676 IL 07/20; $28,602.08
+	Expenses:Supplies	$43.74	; n95 masks
+	Assets:Checking
+
+2026/07/23	ZORO TOOLS INC 855-2899676 IL 07/22; $28,589.87
+	Expenses:Supplies	$12.21	; t15 bits
+	Assets:Checking
+
+2026/07/27	STRIPE TRANSFER; $29,385.59
+	Revenue:MemberDues	-$795.72
+	Assets:Checking
+
+2026/07/27	ZORO TOOLS INC 855-2899676 IL 07/24; $29,313.02
+	Expenses:Supplies	$72.57	; medium nitrile gloves
+	Assets:Checking
+
+2026/07/27	GOOGLE *WEBPASS 800-932-7277 CA 07/24; $29,183.02
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/07/28	AMAZON MKTPL*J02ER15 Amzn.com/bill WA 07/28; $29,130.21
+	Expenses:Purchases:BambuLabH2D3DPrinter	$52.81	; ASA filament
+	Assets:Checking
+
+2026/07/28	UBIQUITI INC. UI.COM NY 07/28; $29,120.22
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2026/07/30	Zelle payment to William Cwik 30206768931; $29,085.42
+	Expenses:BackRoom	$34.80	; grount tools
+	Assets:Checking
+
+2026/07/31	ZORO TOOLS INC 855-2899676 IL 07/29; $29,058.67
+	Expenses:Supplies	$26.75	; deep hole markers
+	Assets:Checking
+
+2026/07/31	ZORO TOOLS INC 855-2899676 IL 07/30; $28,842.94
+	Expenses:Supplies	$215.73	; medium zip bags, triple antibac, toner, neoprene gloves
+	Assets:Checking
+
+2026/07/31	Zelle payment to DMITRIY VYSOTSKIY 30230871113; $28,015.72
+	Expenses:Supplies	$374.18	; holding over all remaining supply budgets into start of FY2026
+	Expenses:Administrative	$47.94
+	Expenses:Programming	$129.06
+	Expenses:BackYard	$6.60
+	Expenses:FrontRoom	$125.11
+	Expenses:RPA	$131.20
+	Expenses:BackRoom	$13.13
+	Assets:Checking
+
+2026/07/31	POS DEBIT HOMEDEPOT.COM 800-430-3376 GA; $27,991.81
+	Expenses:Supplies	$23.91	; shelf pin bits
+	Assets:Checking
+
+2026/07/31	POS DEBIT THE HOME DEPOT #1986 CHICAGO IL; $27,944.48
+	Expenses:BackRoom	$47.33	; pull saw and combo square
+	Assets:Checking
