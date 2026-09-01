@@ -1,0 +1,76 @@
+2026/08/01	Opening Balance
+	Assets:Checking	$27,944.54
+	Equity
+
+2026/08/03	STRIPE TRANSFER; $28,790.24
+	Revenue:MemberDues	-$845.70
+	Assets:Checking
+
+2026/08/03	Zelle payment to BUBBLY DYNAMICS 29885641637; $27,257.24
+	Expenses:Rent	$1,533.00
+	Assets:Checking
+
+2026/08/10	STRIPE TRANSFER; $27,993.29
+	Revenue:MemberDues	-$736.05
+	Assets:Checking
+
+2026/08/10	PAYPAL TRANSFER; $28,027.10
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/08/10	ZORO TOOLS INC 855-2899676 IL 08/07; $27,953.07
+	Expenses:Supplies	$74.03	; 2D printer toner refill
+	Assets:Checking
+
+2026/08/13	PAYPAL TRANSFER; $27,962.38
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/08/17	STRIPE TRANSFER; $28,833.22
+	Revenue:MemberDues	-$870.84
+	Assets:Checking
+
+2026/08/17	PAYPAL TRANSFER; $28,842.53
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/08/18	ZORO TOOLS INC 855-2899676 IL 08/11; $28,903.86
+	Expenses:Supplies	-$61.33	; reimbursement for wrong toner
+	Assets:Checking
+
+2026/08/21	PAYPAL TRANSFER; $28,937.67
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/08/21	Amazon.com*5A9P39RE1 Amzn.com/bill WA 08/21; $28,805.08
+	Expenses:Purchases:SolarSpeakers	$132.59
+	Assets:Checking
+
+2026/08/21	MICRO ELECTRONIC NUL80 WESTMONT IL 193975 08/21; $28,769.45
+	Expenses:Supplies	$35.63	; silicone work tray
+	Assets:Checking
+
+2026/08/24	STRIPE TRANSFER; $29,428.58
+	Revenue:MemberDues	-$659.13
+	Assets:Checking
+
+2026/08/24	Zelle payment from DMITRIY VYSOTSKIY 30521739786; $29,528.58
+	Revenue:Sales	-$100.00	; FlashForge Guider II
+	Assets:Checking
+
+2026/08/25	GOOGLE *WEBPASS 800-932-7277 CA 08/24; $29,398.58
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/08/26	THE HOME DEPOT #1901 BROADVIEW IL 590420 08/26; $29,362.23
+	Expenses:Supplies	$36.35	; dremel ez metal cutoff discs
+	Assets:Checking
+
+2026/08/28	UBIQUITI INC. UI.COM NY 08/28; $29,352.24
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2026/08/31	STRIPE TRANSFER; $30,388.48
+	Revenue:MemberDues	-$1,036.24
+	Assets:Checking
+
