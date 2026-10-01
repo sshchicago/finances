@@ -74,3 +74,83 @@
 	Revenue:MemberDues	-$1,036.24
 	Assets:Checking
 
+2026/09/02	Zelle payment to BUBBLY DYNAMICS 30249283922; $29,595.48
+	Expenses:Rent	$793.00
+	Assets:Checking
+
+2026/09/08	STRIPE TRANSFER; $29,938.28
+	Revenue:MemberDues	-$342.80
+	Assets:Checking
+
+2026/09/08	HARBOR FREIGHT TOOLS U BROADVIEW IL 09/05; $29,907.42
+	Expenses:Supplies	$30.86	; evaporust
+	Assets:Checking
+
+2026/09/08	Zelle payment to Kwame Shorter 30741407270; $29,850.94
+	Expenses:Programming:LaborDay	$56.48
+	Assets:Checking
+
+2026/09/09	PAYPAL TRANSFER; $29,884.75
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/09/09	Zelle payment to Zamis Gama JPM99cvx5w8y; $29,751.62
+	Expenses:Programming:LaborDay	$133.13
+	Assets:Checking
+
+2026/09/14	STRIPE TRANSFER; $30,599.73
+	Revenue:MemberDues	-$848.11
+	Assets:Checking
+
+2026/09/14	PAYPAL TRANSFER; $30,609.04
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/09/15	PAYPAL TRANSFER; $30,618.35
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/09/15	CHECK 144; $30,603.35
+	Expenses:Administrative	$15.00	; Illinois Charitable Trust Bureau
+	Assets:Checking
+
+2026/09/21	STRIPE TRANSFER; $31,127.48
+	Revenue:MemberDues	-$524.13
+	Assets:Checking
+
+2026/09/21	PAYPAL TRANSFER; $31,161.29
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/09/21	HOMEDEPOT.COM 800-466-3337 GA 09/17; $30,974.97
+	Expenses:Purchases:JumpStarter	$186.32
+	Assets:Checking
+
+2026/09/21	AMAZON MKTPL*5R7VJ98 Amzn.com/bill WA 09/20; $30,756.67
+	Expenses:Purchases:AM4PCComponents	$218.30	; CPU
+	Assets:Checking
+
+2026/09/21	Zelle payment to Kalina Jakymec JPM99cx8r3im; $30,730.16
+	Expenses:Supplies	$26.51	; tarps
+	Assets:Checking
+
+2026/09/22	THE HOME DEPOT #1901 BROADVIEW IL 752310 09/22; $30,652.07
+	Expenses:Supplies	$78.09	; RMR and damprid
+	Assets:Checking
+
+2026/09/25	GOOGLE *WEBPASS 800-932-7277 CA 09/24; $30,522.07
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/09/28	STRIPE TRANSFER; $31,131.95
+	Revenue:MemberDues	-$609.88
+	Assets:Checking
+
+2026/09/28	UBIQUITI INC. UI.COM NY 09/28; $31,121.96
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
+2026/09/30	POS DEBIT AMAZON.COM AMZN.COM/BIL WA 7235; $31,011.72
+	Expenses:Purchases:AM4PCComponents	$110.24	; motherboard
+	Assets:Checking
+
