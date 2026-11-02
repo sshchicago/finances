@@ -154,3 +154,79 @@
 	Expenses:Purchases:AM4PCComponents	$110.24	; motherboard
 	Assets:Checking
 
+2026/10/02	Zelle payment to BUBBLY DYNAMICS 30651289717; $30,586.72
+	Expenses:Rent	$425.00
+	Assets:Checking
+
+2026/10/05	STRIPE TRANSFER; $30,830.16
+	Revenue:MemberDues	-$243.44
+	Assets:Checking
+
+2026/10/08	Zelle payment from DMITRIY VYSOTSKIY 31136457575; $31,330.16
+	Revenue:Sales	-$500.00	; Grizzly bandsaw
+	Assets:Checking
+
+2026/10/09	PAYPAL TRANSFER; $31,363.97
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/10/09	MICRO ELECTRONIC NUL80 WESTMONT IL 865639 10/09; $31,288.38
+	Expenses:Purchases:AM4PCComponents	$75.59
+	Assets:Checking
+
+2026/10/13	STRIPE TRANSFER; $31,320.94
+	Revenue:MemberDues	-$32.56
+	Assets:Checking
+
+2026/10/13	PAYPAL TRANSFER; $31,330.25
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/10/13	THE HOME DEPOT #1901 BROADVIEW IL 191267 10/10; $31,328.52
+	Expenses:Supplies:Maintenance	$1.73	; front table foot screws
+	Assets:Checking
+
+2026/10/13	MICRO ELECTRONIC NUL80 WESTMONT IL 523014 10/11; $31,263.74
+	Expenses:Purchases:AM4PCComponents	$64.78
+	Assets:Checking
+
+2026/10/13	Amazon.com*5P5Q44LF1 Amzn.com/bill WA 10/12; $31,249.33
+	Expenses:Purchases:AM4PCComponents	$14.41
+	Assets:Checking
+
+2026/10/15	PAYPAL TRANSFER; $31,258.64
+	Revenue:MemberDues	-$9.31
+	Assets:Checking
+
+2026/10/19	STRIPE TRANSFER; $31,468.60
+	Revenue:MemberDues	-$209.96
+	Assets:Checking
+
+2026/10/19	AMAZON MKTPL*6H79S0R Amzn.com/bill WA 10/19; $31,449.51
+	Expenses:Supplies:Maintenance	$19.09	; airbrush cleaner
+	Assets:Checking
+
+2026/10/19	COSTCO WHSE #1153 NORTH RIVERSI IL 603608 10/18; $31,376.35
+	Expenses:Supplies	$73.16	; paper towels and forks
+	Assets:Checking
+
+2026/10/21	PAYPAL TRANSFER; $31,410.16
+	Revenue:MemberDues	-$33.81
+	Assets:Checking
+
+2026/10/26	STRIPE TRANSFER; $31,471.23
+	Revenue:MemberDues	-$61.07
+	Assets:Checking
+
+2026/10/26	GOOGLE *WEBPASS 800-932-7277 CA 10/24; $31,341.23
+	Expenses:InternetService	$130.00
+	Assets:Checking
+
+2026/10/26	Zelle payment to Erin Scanlon JPM99d0z238r; $31,333.52
+	Expenses:Supplies	$7.71	; spray bottle
+	Assets:Checking
+
+2026/10/28	UBIQUITI INC. UI.COM NY 10/28; $31,323.53
+	Expenses:VOIP	$9.99
+	Assets:Checking
+
